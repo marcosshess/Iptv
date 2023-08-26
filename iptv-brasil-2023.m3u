@@ -1,0 +1,4776 @@
+#EXTM3U
+
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
+#EXTINF:-1,24 KITCHEN HD
+
+http://acsa.ws:80/bF3y9W/68GSme/191428.ts
+#EXTINF:-1,24/7 CLASSICOS DISNEY
+
+http://acsa.ws:80/bF3y9W/68GSme/191394.ts
+#EXTINF:-1,24/7 DRAGON BALL SUPER
+http://acsa.ws:80/bF3y9W/68GSme/191393.ts
+#EXTINF:-1,A BOLA TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/191297.ts
+#EXTINF:-1,A BOLA TV HD
+http://acsa.ws:80/bF3y9W/68GSme/191296.ts
+#EXTINF:-1,A BOLA TV SD
+http://acsa.ws:80/bF3y9W/68GSme/191295.ts
+#EXTINF:-1,A&E 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90647.ts
+#EXTINF:-1,A&E FHD
+http://acsa.ws:80/bF3y9W/68GSme/71760.ts
+#EXTINF:-1,A&E FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71761.ts
+#EXTINF:-1,A&E HD
+http://acsa.ws:80/bF3y9W/68GSme/71762.ts
+#EXTINF:-1,A&E SD
+http://acsa.ws:80/bF3y9W/68GSme/71763.ts
+#EXTINF:-1,ADVANCE SIC FHD
+http://acsa.ws:80/bF3y9W/68GSme/191315.ts
+#EXTINF:-1,AFRO MUSIC SD
+http://acsa.ws:80/bF3y9W/68GSme/191328.ts
+#EXTINF:-1,AgroMais 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103532.ts
+#EXTINF:-1,AgroMais FHD
+http://acsa.ws:80/bF3y9W/68GSme/71764.ts
+#EXTINF:-1,AgroMais FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71765.ts
+#EXTINF:-1,AgroMais HD
+http://acsa.ws:80/bF3y9W/68GSme/71766.ts
+#EXTINF:-1,AgroMais SD
+http://acsa.ws:80/bF3y9W/68GSme/71767.ts
+#EXTINF:-1,ALMA LUSA
+http://acsa.ws:80/bF3y9W/68GSme/191339.ts
+#EXTINF:-1,AMC 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90646.ts
+#EXTINF:-1,AMC BREAK HD
+http://acsa.ws:80/bF3y9W/68GSme/191202.ts
+#EXTINF:-1,AMC BREAK SD
+http://acsa.ws:80/bF3y9W/68GSme/191201.ts
+#EXTINF:-1,AMC CRIME SD
+http://acsa.ws:80/bF3y9W/68GSme/191200.ts
+#EXTINF:-1,AMC FHD
+http://acsa.ws:80/bF3y9W/68GSme/71768.ts
+#EXTINF:-1,AMC FHD
+http://acsa.ws:80/bF3y9W/68GSme/191199.ts
+#EXTINF:-1,AMC FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71769.ts
+#EXTINF:-1,AMC HD
+http://acsa.ws:80/bF3y9W/68GSme/71770.ts
+#EXTINF:-1,AMC HD
+http://acsa.ws:80/bF3y9W/68GSme/191198.ts
+#EXTINF:-1,AMC SD
+http://acsa.ws:80/bF3y9W/68GSme/71771.ts
+#EXTINF:-1,AMC SD
+http://acsa.ws:80/bF3y9W/68GSme/191197.ts
+#EXTINF:-1,Animal Planet 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/71774.ts
+#EXTINF:-1,Animal Planet FHD
+http://acsa.ws:80/bF3y9W/68GSme/71772.ts
+#EXTINF:-1,Animal Planet FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71773.ts
+#EXTINF:-1,Animal Planet HD
+http://acsa.ws:80/bF3y9W/68GSme/71775.ts
+#EXTINF:-1,Animal Planet SD
+http://acsa.ws:80/bF3y9W/68GSme/71776.ts
+#EXTINF:-1,AR TV
+http://acsa.ws:80/bF3y9W/68GSme/191163.ts
+#EXTINF:-1,Arte 1 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103531.ts
+#EXTINF:-1,Arte 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/71777.ts
+#EXTINF:-1,Arte 1 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71778.ts
+#EXTINF:-1,Arte 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/71779.ts
+#EXTINF:-1,Arte 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/71780.ts
+#EXTINF:-1,AXN 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90645.ts
+#EXTINF:-1,AXN FHD
+http://acsa.ws:80/bF3y9W/68GSme/71781.ts
+#EXTINF:-1,AXN FHD
+http://acsa.ws:80/bF3y9W/68GSme/191212.ts
+#EXTINF:-1,AXN FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71782.ts
+#EXTINF:-1,AXN FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90716.ts
+#EXTINF:-1,AXN HD
+http://acsa.ws:80/bF3y9W/68GSme/71783.ts
+#EXTINF:-1,AXN HD
+http://acsa.ws:80/bF3y9W/68GSme/191211.ts
+#EXTINF:-1,AXN HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90715.ts
+#EXTINF:-1,AXN MOVIES FHD
+http://acsa.ws:80/bF3y9W/68GSme/191218.ts
+#EXTINF:-1,AXN MOVIES SD
+http://acsa.ws:80/bF3y9W/68GSme/191216.ts
+#EXTINF:-1,AXN MOVIES [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191217.ts
+#EXTINF:-1,AXN SD
+http://acsa.ws:80/bF3y9W/68GSme/71784.ts
+#EXTINF:-1,AXN SD
+http://acsa.ws:80/bF3y9W/68GSme/191210.ts
+#EXTINF:-1,AXN SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90714.ts
+#EXTINF:-1,AXN WHITE FHD
+http://acsa.ws:80/bF3y9W/68GSme/191215.ts
+#EXTINF:-1,AXN WHITE HD
+http://acsa.ws:80/bF3y9W/68GSme/191214.ts
+#EXTINF:-1,AXN WHITE SD
+http://acsa.ws:80/bF3y9W/68GSme/191213.ts
+#EXTINF:-1,BABY TV SD
+http://acsa.ws:80/bF3y9W/68GSme/191381.ts
+#EXTINF:-1,Band CE 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/164025.ts
+#EXTINF:-1,Band CE FHD
+http://acsa.ws:80/bF3y9W/68GSme/164021.ts
+#EXTINF:-1,Band CE FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/164024.ts
+#EXTINF:-1,Band CE HD
+http://acsa.ws:80/bF3y9W/68GSme/164022.ts
+#EXTINF:-1,Band CE SD
+http://acsa.ws:80/bF3y9W/68GSme/164023.ts
+#EXTINF:-1,Band News 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103526.ts
+#EXTINF:-1,Band News FHD
+http://acsa.ws:80/bF3y9W/68GSme/71789.ts
+#EXTINF:-1,Band News FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71790.ts
+#EXTINF:-1,Band News HD
+http://acsa.ws:80/bF3y9W/68GSme/71791.ts
+#EXTINF:-1,Band News SD
+http://acsa.ws:80/bF3y9W/68GSme/71792.ts
+#EXTINF:-1,Band SP FHD
+http://acsa.ws:80/bF3y9W/68GSme/79311.ts
+#EXTINF:-1,Band SP FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/104943.ts
+#EXTINF:-1,Band SP HD
+http://acsa.ws:80/bF3y9W/68GSme/72597.ts
+#EXTINF:-1,Band SP SD
+http://acsa.ws:80/bF3y9W/68GSme/79312.ts
+#EXTINF:-1,Band Sports 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103525.ts
+#EXTINF:-1,Band Sports FHD
+http://acsa.ws:80/bF3y9W/68GSme/71801.ts
+#EXTINF:-1,Band Sports FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71802.ts
+#EXTINF:-1,Band Sports HD
+http://acsa.ws:80/bF3y9W/68GSme/71803.ts
+#EXTINF:-1,Band Sports SD
+http://acsa.ws:80/bF3y9W/68GSme/71804.ts
+#EXTINF:-1,BBC ENTERTAINMENT
+http://acsa.ws:80/bF3y9W/68GSme/191209.ts
+#EXTINF:-1,BIS 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103527.ts
+#EXTINF:-1,BIS FHD
+http://acsa.ws:80/bF3y9W/68GSme/71806.ts
+#EXTINF:-1,BIS FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71807.ts
+#EXTINF:-1,BIS HD
+http://acsa.ws:80/bF3y9W/68GSme/71808.ts
+#EXTINF:-1,BIS SD
+http://acsa.ws:80/bF3y9W/68GSme/71809.ts
+#EXTINF:-1,BJJ STARS FHD
+http://acsa.ws:80/bF3y9W/68GSme/159276.ts
+#EXTINF:-1,BJJ STARS HD
+http://acsa.ws:80/bF3y9W/68GSme/159277.ts
+#EXTINF:-1,BJJ STARS SD
+http://acsa.ws:80/bF3y9W/68GSme/159278.ts
+#EXTINF:-1,BLAZE HD
+http://acsa.ws:80/bF3y9W/68GSme/191435.ts
+#EXTINF:-1,BLOOMBERG
+http://acsa.ws:80/bF3y9W/68GSme/191165.ts
+#EXTINF:-1,Boa Vontade TV SD
+http://acsa.ws:80/bF3y9W/68GSme/71811.ts
+#EXTINF:-1,BOOMERANG
+http://acsa.ws:80/bF3y9W/68GSme/191380.ts
+#EXTINF:-1,Brasileirao Serie C 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/157407.ts
+#EXTINF:-1,Brasileirao Serie C 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/157408.ts
+#EXTINF:-1,Brasileirao Serie C 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/157409.ts
+#EXTINF:-1,Brasileirao Serie C 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/157410.ts
+#EXTINF:-1,Brasileirao Serie C 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/157411.ts
+#EXTINF:-1,Brasileirao Serie C 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/157412.ts
+#EXTINF:-1,Brasileirao Serie C 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/157413.ts
+#EXTINF:-1,Brasileirao Serie C 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/157414.ts
+#EXTINF:-1,Brasileirao Serie C 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/157415.ts
+#EXTINF:-1,BTV 4K
+http://acsa.ws:80/bF3y9W/68GSme/191273.ts
+#EXTINF:-1,BTV FHD
+http://acsa.ws:80/bF3y9W/68GSme/191272.ts
+#EXTINF:-1,BTV HD
+http://acsa.ws:80/bF3y9W/68GSme/191271.ts
+#EXTINF:-1,BTV SD
+http://acsa.ws:80/bF3y9W/68GSme/191270.ts
+#EXTINF:-1,CACAVISION SD
+http://acsa.ws:80/bF3y9W/68GSme/191313.ts
+#EXTINF:-1,Campeonato Paraibano 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/184566.ts
+#EXTINF:-1,Campeonato Paraibano 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/184567.ts
+#EXTINF:-1,Campeonato Paraibano 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/184568.ts
+#EXTINF:-1,Campeonato Paranaense 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/111408.ts
+#EXTINF:-1,Campeonato Paranaense 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/111409.ts
+#EXTINF:-1,Campeonato Paranaense 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/111410.ts
+#EXTINF:-1,CAMPO PEQUENO TV HD
+http://acsa.ws:80/bF3y9W/68GSme/191309.ts
+#EXTINF:-1,CANAL 11 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191300.ts
+#EXTINF:-1,CANAL 11 HD
+http://acsa.ws:80/bF3y9W/68GSme/191299.ts
+#EXTINF:-1,CANAL 11 SD
+http://acsa.ws:80/bF3y9W/68GSme/191298.ts
+#EXTINF:-1,CANAL 180
+http://acsa.ws:80/bF3y9W/68GSme/191338.ts
+#EXTINF:-1,Canal Brasil 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103518.ts
+#EXTINF:-1,Canal Brasil FHD
+http://acsa.ws:80/bF3y9W/68GSme/71816.ts
+#EXTINF:-1,Canal Brasil FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71817.ts
+#EXTINF:-1,Canal Brasil HD
+http://acsa.ws:80/bF3y9W/68GSme/71818.ts
+#EXTINF:-1,Canal Brasil SD
+http://acsa.ws:80/bF3y9W/68GSme/71819.ts
+#EXTINF:-1,Canal do Boi 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103516.ts
+#EXTINF:-1,Canal do Boi FHD
+http://acsa.ws:80/bF3y9W/68GSme/71820.ts
+#EXTINF:-1,Canal do Boi HD
+http://acsa.ws:80/bF3y9W/68GSme/71821.ts
+#EXTINF:-1,Canal do Boi SD
+http://acsa.ws:80/bF3y9W/68GSme/71822.ts
+#EXTINF:-1,CANAL HISTÓRIA SD
+http://acsa.ws:80/bF3y9W/68GSme/191366.ts
+#EXTINF:-1,CANAL PANDA HD
+http://acsa.ws:80/bF3y9W/68GSme/191385.ts
+#EXTINF:-1,CANAL PANDA SD
+http://acsa.ws:80/bF3y9W/68GSme/191384.ts
+#EXTINF:-1,CANAL PANDA [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191386.ts
+#EXTINF:-1,CANAL Q SD
+http://acsa.ws:80/bF3y9W/68GSme/191434.ts
+#EXTINF:-1,Canal Rural 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/178516.ts
+#EXTINF:-1,Canal Rural FHD
+http://acsa.ws:80/bF3y9W/68GSme/178512.ts
+#EXTINF:-1,Canal Rural FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/178515.ts
+#EXTINF:-1,Canal Rural HD
+http://acsa.ws:80/bF3y9W/68GSme/178513.ts
+#EXTINF:-1,Canal Rural SD
+http://acsa.ws:80/bF3y9W/68GSme/71823.ts
+#EXTINF:-1,Canal Rural SD
+http://acsa.ws:80/bF3y9W/68GSme/178514.ts
+#EXTINF:-1,Canal Sony 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103517.ts
+#EXTINF:-1,Canal Sony FHD
+http://acsa.ws:80/bF3y9W/68GSme/71824.ts
+#EXTINF:-1,Canal Sony FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71825.ts
+#EXTINF:-1,Canal Sony FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90713.ts
+#EXTINF:-1,Canal Sony HD
+http://acsa.ws:80/bF3y9W/68GSme/71826.ts
+#EXTINF:-1,Canal Sony HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90712.ts
+#EXTINF:-1,Canal Sony SD
+http://acsa.ws:80/bF3y9W/68GSme/71827.ts
+#EXTINF:-1,Canal Sony SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90711.ts
+#EXTINF:-1,CANÇÃO NOVA
+http://acsa.ws:80/bF3y9W/68GSme/191336.ts
+#EXTINF:-1,Cartoon Network 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/71830.ts
+#EXTINF:-1,Cartoon Network FHD
+http://acsa.ws:80/bF3y9W/68GSme/71828.ts
+#EXTINF:-1,Cartoon Network FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71829.ts
+#EXTINF:-1,Cartoon Network HD
+http://acsa.ws:80/bF3y9W/68GSme/71831.ts
+#EXTINF:-1,Cartoon Network SD
+http://acsa.ws:80/bF3y9W/68GSme/71832.ts
+#EXTINF:-1,CARTOON NETWORK SD
+http://acsa.ws:80/bF3y9W/68GSme/191392.ts
+#EXTINF:-1,Cartoonito 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90644.ts
+#EXTINF:-1,Cartoonito FHD
+http://acsa.ws:80/bF3y9W/68GSme/71812.ts
+#EXTINF:-1,Cartoonito FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71813.ts
+#EXTINF:-1,Cartoonito HD
+http://acsa.ws:80/bF3y9W/68GSme/71814.ts
+#EXTINF:-1,Cartoonito SD
+http://acsa.ws:80/bF3y9W/68GSme/71815.ts
+#EXTINF:-1,CASA COZINHA HD
+http://acsa.ws:80/bF3y9W/68GSme/191427.ts
+#EXTINF:-1,CazéTV - YouTube
+http://acsa.ws:80/bF3y9W/68GSme/184589.ts
+#EXTINF:-1,CAÇA & PESCA FHD
+http://acsa.ws:80/bF3y9W/68GSme/191312.ts
+#EXTINF:-1,CBS REALITY SD
+http://acsa.ws:80/bF3y9W/68GSme/191425.ts
+#EXTINF:-1,Cine SKY 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/72994.ts
+#EXTINF:-1,Cine SKY 10 HD
+http://acsa.ws:80/bF3y9W/68GSme/73003.ts
+#EXTINF:-1,Cine SKY 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/72995.ts
+#EXTINF:-1,Cine SKY 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/72996.ts
+#EXTINF:-1,Cine SKY 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/72997.ts
+#EXTINF:-1,Cine SKY 5 HD
+http://acsa.ws:80/bF3y9W/68GSme/72998.ts
+#EXTINF:-1,Cine SKY 6 HD
+http://acsa.ws:80/bF3y9W/68GSme/72999.ts
+#EXTINF:-1,Cine SKY 7 HD
+http://acsa.ws:80/bF3y9W/68GSme/73000.ts
+#EXTINF:-1,Cine SKY 8 HD
+http://acsa.ws:80/bF3y9W/68GSme/73001.ts
+#EXTINF:-1,Cine SKY 9 HD
+http://acsa.ws:80/bF3y9W/68GSme/73002.ts
+#EXTINF:-1,Cinecanal 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103468.ts
+#EXTINF:-1,Cinecanal FHD
+http://acsa.ws:80/bF3y9W/68GSme/71939.ts
+#EXTINF:-1,Cinecanal FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71940.ts
+#EXTINF:-1,Cinecanal HD
+http://acsa.ws:80/bF3y9W/68GSme/71941.ts
+#EXTINF:-1,Cinecanal SD
+http://acsa.ws:80/bF3y9W/68GSme/71942.ts
+#EXTINF:-1,Cinemax 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90643.ts
+#EXTINF:-1,Cinemax FHD
+http://acsa.ws:80/bF3y9W/68GSme/71833.ts
+#EXTINF:-1,Cinemax FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71834.ts
+#EXTINF:-1,Cinemax HD
+http://acsa.ws:80/bF3y9W/68GSme/71835.ts
+#EXTINF:-1,Cinemax SD
+http://acsa.ws:80/bF3y9W/68GSme/71836.ts
+#EXTINF:-1,CINEMUNDO FHD
+http://acsa.ws:80/bF3y9W/68GSme/191196.ts
+#EXTINF:-1,CINEMUNDO HD
+http://acsa.ws:80/bF3y9W/68GSme/191195.ts
+#EXTINF:-1,CINEMUNDO SD
+http://acsa.ws:80/bF3y9W/68GSme/191194.ts
+#EXTINF:-1,CLUBBING TV
+http://acsa.ws:80/bF3y9W/68GSme/191337.ts
+#EXTINF:-1,CMTV FHD
+http://acsa.ws:80/bF3y9W/68GSme/191153.ts
+#EXTINF:-1,CMTV HD
+http://acsa.ws:80/bF3y9W/68GSme/191152.ts
+#EXTINF:-1,CMTV SD
+http://acsa.ws:80/bF3y9W/68GSme/191151.ts
+#EXTINF:-1,CNBC EUROPE
+http://acsa.ws:80/bF3y9W/68GSme/191168.ts
+#EXTINF:-1,CNN Brasil 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/71798.ts
+#EXTINF:-1,CNN Brasil FHD
+http://acsa.ws:80/bF3y9W/68GSme/71837.ts
+#EXTINF:-1,CNN Brasil FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71838.ts
+#EXTINF:-1,CNN Brasil HD
+http://acsa.ws:80/bF3y9W/68GSme/71839.ts
+#EXTINF:-1,CNN Brasil SD
+http://acsa.ws:80/bF3y9W/68GSme/71840.ts
+#EXTINF:-1,CNN FHD
+http://acsa.ws:80/bF3y9W/68GSme/191156.ts
+#EXTINF:-1,CNN HD
+http://acsa.ws:80/bF3y9W/68GSme/191155.ts
+#EXTINF:-1,CNN SD
+http://acsa.ws:80/bF3y9W/68GSme/191154.ts
+#EXTINF:-1,Combate 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/71844.ts
+#EXTINF:-1,Combate FHD
+http://acsa.ws:80/bF3y9W/68GSme/71842.ts
+#EXTINF:-1,COMBATE FHD
+http://acsa.ws:80/bF3y9W/68GSme/191320.ts
+#EXTINF:-1,Combate FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71843.ts
+#EXTINF:-1,Combate HD
+http://acsa.ws:80/bF3y9W/68GSme/71845.ts
+#EXTINF:-1,COMBATE HD
+http://acsa.ws:80/bF3y9W/68GSme/191319.ts
+#EXTINF:-1,Combate SD
+http://acsa.ws:80/bF3y9W/68GSme/71846.ts
+#EXTINF:-1,COMBATE SD
+http://acsa.ws:80/bF3y9W/68GSme/191318.ts
+#EXTINF:-1,Comedy Central 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90642.ts
+#EXTINF:-1,Comedy Central FHD
+http://acsa.ws:80/bF3y9W/68GSme/71847.ts
+#EXTINF:-1,Comedy Central FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71848.ts
+#EXTINF:-1,Comedy Central HD
+http://acsa.ws:80/bF3y9W/68GSme/71849.ts
+#EXTINF:-1,Comedy Central SD
+http://acsa.ws:80/bF3y9W/68GSme/71850.ts
+#EXTINF:-1,Copa Catarinense 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/96011.ts
+#EXTINF:-1,Copa Catarinense 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/96012.ts
+#EXTINF:-1,Copa Catarinense 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/96013.ts
+#EXTINF:-1,Copa Catarinense 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/147527.ts
+#EXTINF:-1,Copa do Brasil 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/150498.ts
+#EXTINF:-1,Copa do Brasil 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/150499.ts
+#EXTINF:-1,Copa do Brasil 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/150500.ts
+#EXTINF:-1,Copa do Brasil 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/150501.ts
+#EXTINF:-1,Copa do Brasil 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/150502.ts
+#EXTINF:-1,Copa do Brasil 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/150503.ts
+#EXTINF:-1,Cultura 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103513.ts
+#EXTINF:-1,Cultura FHD
+http://acsa.ws:80/bF3y9W/68GSme/71851.ts
+#EXTINF:-1,Cultura FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71852.ts
+#EXTINF:-1,Cultura HD
+http://acsa.ws:80/bF3y9W/68GSme/71853.ts
+#EXTINF:-1,Cultura SD
+http://acsa.ws:80/bF3y9W/68GSme/71854.ts
+#EXTINF:-1,Curta FHD
+http://acsa.ws:80/bF3y9W/68GSme/71855.ts
+#EXTINF:-1,Curta FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71856.ts
+#EXTINF:-1,Curta HD
+http://acsa.ws:80/bF3y9W/68GSme/71857.ts
+#EXTINF:-1,Curta SD
+http://acsa.ws:80/bF3y9W/68GSme/71858.ts
+#EXTINF:-1,Curta! 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103512.ts
+#EXTINF:-1,DAZN 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/184550.ts
+#EXTINF:-1,DAZN 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/184551.ts
+#EXTINF:-1,DAZN 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/184552.ts
+#EXTINF:-1,DAZN 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/184553.ts
+#EXTINF:-1,DAZN 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/184554.ts
+#EXTINF:-1,DAZN 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/184555.ts
+#EXTINF:-1,DC HD
+http://acsa.ws:80/bF3y9W/68GSme/191208.ts
+#EXTINF:-1,Discovery Channel 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/71864.ts
+#EXTINF:-1,Discovery Channel FHD
+http://acsa.ws:80/bF3y9W/68GSme/71862.ts
+#EXTINF:-1,Discovery Channel FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71863.ts
+#EXTINF:-1,Discovery Channel HD
+http://acsa.ws:80/bF3y9W/68GSme/71865.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://acsa.ws:80/bF3y9W/68GSme/191363.ts
+#EXTINF:-1,Discovery Channel SD
+http://acsa.ws:80/bF3y9W/68GSme/71866.ts
+#EXTINF:-1,Discovery H&H 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90251.ts
+#EXTINF:-1,Discovery H&H FHD
+http://acsa.ws:80/bF3y9W/68GSme/71867.ts
+#EXTINF:-1,Discovery H&H FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71868.ts
+#EXTINF:-1,Discovery H&H HD
+http://acsa.ws:80/bF3y9W/68GSme/71869.ts
+#EXTINF:-1,Discovery H&H SD
+http://acsa.ws:80/bF3y9W/68GSme/71870.ts
+#EXTINF:-1,DISCOVERY ID
+http://acsa.ws:80/bF3y9W/68GSme/191367.ts
+#EXTINF:-1,Discovery Kids 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90250.ts
+#EXTINF:-1,Discovery Kids FHD
+http://acsa.ws:80/bF3y9W/68GSme/71871.ts
+#EXTINF:-1,Discovery Kids FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71872.ts
+#EXTINF:-1,Discovery Kids HD
+http://acsa.ws:80/bF3y9W/68GSme/71873.ts
+#EXTINF:-1,Discovery Kids SD
+http://acsa.ws:80/bF3y9W/68GSme/71874.ts
+#EXTINF:-1,Discovery Science 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103511.ts
+#EXTINF:-1,Discovery Science FHD
+http://acsa.ws:80/bF3y9W/68GSme/71875.ts
+#EXTINF:-1,Discovery Science FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71876.ts
+#EXTINF:-1,Discovery Science HD
+http://acsa.ws:80/bF3y9W/68GSme/71877.ts
+#EXTINF:-1,Discovery Science SD
+http://acsa.ws:80/bF3y9W/68GSme/71878.ts
+#EXTINF:-1,Discovery Theater 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103510.ts
+#EXTINF:-1,Discovery Theater FHD
+http://acsa.ws:80/bF3y9W/68GSme/71879.ts
+#EXTINF:-1,Discovery Theater FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71880.ts
+#EXTINF:-1,Discovery Theater HD
+http://acsa.ws:80/bF3y9W/68GSme/71881.ts
+#EXTINF:-1,Discovery Theater SD
+http://acsa.ws:80/bF3y9W/68GSme/71882.ts
+#EXTINF:-1,Discovery Turbo 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90641.ts
+#EXTINF:-1,Discovery Turbo FHD
+http://acsa.ws:80/bF3y9W/68GSme/71883.ts
+#EXTINF:-1,Discovery Turbo FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71884.ts
+#EXTINF:-1,Discovery Turbo HD
+http://acsa.ws:80/bF3y9W/68GSme/71885.ts
+#EXTINF:-1,Discovery Turbo SD
+http://acsa.ws:80/bF3y9W/68GSme/71886.ts
+#EXTINF:-1,Discovery World 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103509.ts
+#EXTINF:-1,Discovery World FHD
+http://acsa.ws:80/bF3y9W/68GSme/71887.ts
+#EXTINF:-1,Discovery World FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71888.ts
+#EXTINF:-1,Discovery World HD
+http://acsa.ws:80/bF3y9W/68GSme/71889.ts
+#EXTINF:-1,Discovery World SD
+http://acsa.ws:80/bF3y9W/68GSme/71890.ts
+#EXTINF:-1,DISNEY +
+http://acsa.ws:80/bF3y9W/68GSme/191378.ts
+#EXTINF:-1,Disney Channel 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103508.ts
+#EXTINF:-1,Disney Channel FHD
+http://acsa.ws:80/bF3y9W/68GSme/71891.ts
+#EXTINF:-1,Disney Channel FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71892.ts
+#EXTINF:-1,Disney Channel HD
+http://acsa.ws:80/bF3y9W/68GSme/71893.ts
+#EXTINF:-1,Disney Channel SD
+http://acsa.ws:80/bF3y9W/68GSme/71894.ts
+#EXTINF:-1,DISNEY CHANNEL SD
+http://acsa.ws:80/bF3y9W/68GSme/191391.ts
+#EXTINF:-1,DISNEY JUNIOR SD
+http://acsa.ws:80/bF3y9W/68GSme/191376.ts
+#EXTINF:-1,DISNEY MARVEL
+http://acsa.ws:80/bF3y9W/68GSme/191375.ts
+#EXTINF:-1,DISNEY PIXAR
+http://acsa.ws:80/bF3y9W/68GSme/191235.ts
+#EXTINF:-1,DISNEY PIXAR
+http://acsa.ws:80/bF3y9W/68GSme/191374.ts
+#EXTINF:-1,DISNEY STAR WARS
+http://acsa.ws:80/bF3y9W/68GSme/191373.ts
+#EXTINF:-1,DISNEY+
+http://acsa.ws:80/bF3y9W/68GSme/191234.ts
+#EXTINF:-1,DIZI CHANNEL HD
+http://acsa.ws:80/bF3y9W/68GSme/191203.ts
+#EXTINF:-1,Dog TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/76922.ts
+#EXTINF:-1,DOG TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/191436.ts
+#EXTINF:-1,DOG TV FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/104909.ts
+#EXTINF:-1,Dog TV HD
+http://acsa.ws:80/bF3y9W/68GSme/76923.ts
+#EXTINF:-1,Dog TV SD
+http://acsa.ws:80/bF3y9W/68GSme/104908.ts
+#EXTINF:-1,E! 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103506.ts
+#EXTINF:-1,E! ENTERTAINMENT SD
+http://acsa.ws:80/bF3y9W/68GSme/191431.ts
+#EXTINF:-1,E! FHD
+http://acsa.ws:80/bF3y9W/68GSme/71900.ts
+#EXTINF:-1,E! FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71901.ts
+#EXTINF:-1,E! HD
+http://acsa.ws:80/bF3y9W/68GSme/71902.ts
+#EXTINF:-1,E! SD
+http://acsa.ws:80/bF3y9W/68GSme/71903.ts
+#EXTINF:-1,ELEVEN SPORTS 1 4K
+http://acsa.ws:80/bF3y9W/68GSme/191279.ts
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191278.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/191277.ts
+#EXTINF:-1,ELEVEN SPORTS 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/191276.ts
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191282.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/191281.ts
+#EXTINF:-1,ELEVEN SPORTS 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/191280.ts
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191285.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/191284.ts
+#EXTINF:-1,ELEVEN SPORTS 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/191283.ts
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191288.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/191287.ts
+#EXTINF:-1,ELEVEN SPORTS 4 SD
+http://acsa.ws:80/bF3y9W/68GSme/191286.ts
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191291.ts
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://acsa.ws:80/bF3y9W/68GSme/191290.ts
+#EXTINF:-1,ELEVEN SPORTS 5 SD
+http://acsa.ws:80/bF3y9W/68GSme/191289.ts
+#EXTINF:-1,ELEVEN SPORTS 6 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191294.ts
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://acsa.ws:80/bF3y9W/68GSme/191293.ts
+#EXTINF:-1,ELEVEN SPORTS 6 SD
+http://acsa.ws:80/bF3y9W/68GSme/191292.ts
+#EXTINF:-1,Empreender 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/178511.ts
+#EXTINF:-1,Empreender FHD
+http://acsa.ws:80/bF3y9W/68GSme/178507.ts
+#EXTINF:-1,Empreender FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/178510.ts
+#EXTINF:-1,Empreender HD
+http://acsa.ws:80/bF3y9W/68GSme/178508.ts
+#EXTINF:-1,Empreender SD
+http://acsa.ws:80/bF3y9W/68GSme/178509.ts
+#EXTINF:-1,ESPN 2 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/71921.ts
+#EXTINF:-1,ESPN 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/71919.ts
+#EXTINF:-1,ESPN 2 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71920.ts
+#EXTINF:-1,ESPN 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/71922.ts
+#EXTINF:-1,ESPN 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/71923.ts
+#EXTINF:-1,ESPN 3 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103504.ts
+#EXTINF:-1,ESPN 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/71907.ts
+#EXTINF:-1,ESPN 3 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71908.ts
+#EXTINF:-1,ESPN 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/71909.ts
+#EXTINF:-1,ESPN 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/71910.ts
+#EXTINF:-1,ESPN 4 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/71959.ts
+#EXTINF:-1,ESPN 4 FHD
+http://acsa.ws:80/bF3y9W/68GSme/71957.ts
+#EXTINF:-1,ESPN 4 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71958.ts
+#EXTINF:-1,ESPN 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/71960.ts
+#EXTINF:-1,ESPN 4 SD
+http://acsa.ws:80/bF3y9W/68GSme/71961.ts
+#EXTINF:-1,ESPN 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90640.ts
+#EXTINF:-1,ESPN Extra 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103505.ts
+#EXTINF:-1,ESPN Extra FHD
+http://acsa.ws:80/bF3y9W/68GSme/71915.ts
+#EXTINF:-1,ESPN Extra FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71916.ts
+#EXTINF:-1,ESPN Extra HD
+http://acsa.ws:80/bF3y9W/68GSme/71917.ts
+#EXTINF:-1,ESPN Extra SD
+http://acsa.ws:80/bF3y9W/68GSme/71918.ts
+#EXTINF:-1,ESPN FHD
+http://acsa.ws:80/bF3y9W/68GSme/71911.ts
+#EXTINF:-1,ESPN FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71912.ts
+#EXTINF:-1,ESPN HD
+http://acsa.ws:80/bF3y9W/68GSme/71913.ts
+#EXTINF:-1,ESPN SD
+http://acsa.ws:80/bF3y9W/68GSme/71914.ts
+#EXTINF:-1,Estádio TNT Sports 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/76671.ts
+#EXTINF:-1,Estádio TNT Sports 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/76672.ts
+#EXTINF:-1,Eurochannel FHD
+http://acsa.ws:80/bF3y9W/68GSme/104910.ts
+#EXTINF:-1,Eurochannel FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/104913.ts
+#EXTINF:-1,Eurochannel HD
+http://acsa.ws:80/bF3y9W/68GSme/104911.ts
+#EXTINF:-1,Eurochannel SD
+http://acsa.ws:80/bF3y9W/68GSme/104912.ts
+#EXTINF:-1,EURONEWS
+http://acsa.ws:80/bF3y9W/68GSme/191347.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/191301.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/191302.ts
+#EXTINF:-1,F1 OFICIAL
+http://acsa.ws:80/bF3y9W/68GSme/191237.ts
+#EXTINF:-1,Fashion TV 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103503.ts
+#EXTINF:-1,FASHION TV HD
+http://acsa.ws:80/bF3y9W/68GSme/191368.ts
+#EXTINF:-1,FashionTV FHD
+http://acsa.ws:80/bF3y9W/68GSme/71924.ts
+#EXTINF:-1,FashionTV FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71925.ts
+#EXTINF:-1,FashionTV HD
+http://acsa.ws:80/bF3y9W/68GSme/71926.ts
+#EXTINF:-1,FashionTV SD
+http://acsa.ws:80/bF3y9W/68GSme/71927.ts
+#EXTINF:-1,Fight Box HD
+http://acsa.ws:80/bF3y9W/68GSme/191322.ts
+#EXTINF:-1,Fight Network
+http://acsa.ws:80/bF3y9W/68GSme/191323.ts
+#EXTINF:-1,Film&Arts FHD
+http://acsa.ws:80/bF3y9W/68GSme/104914.ts
+#EXTINF:-1,Film&Arts FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/104920.ts
+#EXTINF:-1,Film&Arts FHDR
+http://acsa.ws:80/bF3y9W/68GSme/178518.ts
+#EXTINF:-1,Film&Arts HD
+http://acsa.ws:80/bF3y9W/68GSme/104915.ts
+#EXTINF:-1,Film&Arts SD
+http://acsa.ws:80/bF3y9W/68GSme/104916.ts
+#EXTINF:-1,FIREMAN SAM HD
+http://acsa.ws:80/bF3y9W/68GSme/191370.ts
+#EXTINF:-1,Fish TV 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103502.ts
+#EXTINF:-1,Fish TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/71928.ts
+#EXTINF:-1,Fish TV FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71929.ts
+#EXTINF:-1,Fish TV HD
+http://acsa.ws:80/bF3y9W/68GSme/71930.ts
+#EXTINF:-1,Fish TV SD
+http://acsa.ws:80/bF3y9W/68GSme/71931.ts
+#EXTINF:-1,FOOD NETWORK
+http://acsa.ws:80/bF3y9W/68GSme/191430.ts
+#EXTINF:-1,Food Network 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103501.ts
+#EXTINF:-1,Food Network FHD
+http://acsa.ws:80/bF3y9W/68GSme/71932.ts
+#EXTINF:-1,Food Network FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71933.ts
+#EXTINF:-1,Food Network HD
+http://acsa.ws:80/bF3y9W/68GSme/71934.ts
+#EXTINF:-1,Food Network SD
+http://acsa.ws:80/bF3y9W/68GSme/71935.ts
+#EXTINF:-1,Formula 1 TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/71947.ts
+#EXTINF:-1,Formula 1 TV HD
+http://acsa.ws:80/bF3y9W/68GSme/71949.ts
+#EXTINF:-1,Formula 1 TV SD
+http://acsa.ws:80/bF3y9W/68GSme/71950.ts
+#EXTINF:-1,FOX COMEDY FHD
+http://acsa.ws:80/bF3y9W/68GSme/191230.ts
+#EXTINF:-1,FOX COMEDY HD
+http://acsa.ws:80/bF3y9W/68GSme/191229.ts
+#EXTINF:-1,FOX COMEDY SD
+http://acsa.ws:80/bF3y9W/68GSme/191228.ts
+#EXTINF:-1,FOX CRIME FHD
+http://acsa.ws:80/bF3y9W/68GSme/191227.ts
+#EXTINF:-1,FOX CRIME HD
+http://acsa.ws:80/bF3y9W/68GSme/191226.ts
+#EXTINF:-1,FOX CRIME SD
+http://acsa.ws:80/bF3y9W/68GSme/191225.ts
+#EXTINF:-1,FOX FHD
+http://acsa.ws:80/bF3y9W/68GSme/191224.ts
+#EXTINF:-1,FOX HD
+http://acsa.ws:80/bF3y9W/68GSme/191223.ts
+#EXTINF:-1,FOX LIFE FHD
+http://acsa.ws:80/bF3y9W/68GSme/191233.ts
+#EXTINF:-1,FOX LIFE HD
+http://acsa.ws:80/bF3y9W/68GSme/191232.ts
+#EXTINF:-1,FOX LIFE SD
+http://acsa.ws:80/bF3y9W/68GSme/191231.ts
+#EXTINF:-1,FOX MOVIES FHD
+http://acsa.ws:80/bF3y9W/68GSme/191193.ts
+#EXTINF:-1,FOX MOVIES HD
+http://acsa.ws:80/bF3y9W/68GSme/191192.ts
+#EXTINF:-1,FOX MOVIES SD
+http://acsa.ws:80/bF3y9W/68GSme/191191.ts
+#EXTINF:-1,FOX SD
+http://acsa.ws:80/bF3y9W/68GSme/191222.ts
+#EXTINF:-1,Fox Sports 2 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/71954.ts
+#EXTINF:-1,Fox Sports 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/71952.ts
+#EXTINF:-1,Fox Sports 2 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71953.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/71955.ts
+#EXTINF:-1,Fox Sports 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/71956.ts
+#EXTINF:-1,France 24 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103500.ts
+#EXTINF:-1,France 24 FHD
+http://acsa.ws:80/bF3y9W/68GSme/104906.ts
+#EXTINF:-1,France 24 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/104942.ts
+#EXTINF:-1,France 24 HD
+http://acsa.ws:80/bF3y9W/68GSme/104907.ts
+#EXTINF:-1,France 24 SD
+http://acsa.ws:80/bF3y9W/68GSme/104941.ts
+#EXTINF:-1,FUEL TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/191305.ts
+#EXTINF:-1,FUEL TV HD
+http://acsa.ws:80/bF3y9W/68GSme/191304.ts
+#EXTINF:-1,Copa do Brasil 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/142040.ts
+#EXTINF:-1,Copa do Brasil 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/105789.ts
+#EXTINF:-1,Copa do Brasil 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/142041.ts
+#EXTINF:-1,Futura 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103499.ts
+#EXTINF:-1,Futura FHD
+http://acsa.ws:80/bF3y9W/68GSme/71962.ts
+#EXTINF:-1,Futura FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71963.ts
+#EXTINF:-1,Futura HD
+http://acsa.ws:80/bF3y9W/68GSme/71964.ts
+#EXTINF:-1,Futura SD
+http://acsa.ws:80/bF3y9W/68GSme/71965.ts
+#EXTINF:-1,FX 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90639.ts
+#EXTINF:-1,FX FHD
+http://acsa.ws:80/bF3y9W/68GSme/71966.ts
+#EXTINF:-1,FX FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71967.ts
+#EXTINF:-1,FX FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90710.ts
+#EXTINF:-1,FX HD
+http://acsa.ws:80/bF3y9W/68GSme/71968.ts
+#EXTINF:-1,FX HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90709.ts
+#EXTINF:-1,FX SD
+http://acsa.ws:80/bF3y9W/68GSme/71969.ts
+#EXTINF:-1,FX SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90708.ts
+#EXTINF:-1,GAMETOON
+http://acsa.ws:80/bF3y9W/68GSme/191316.ts
+#EXTINF:-1,GINX ESPORTS TV
+http://acsa.ws:80/bF3y9W/68GSme/191317.ts
+#EXTINF:-1,Globo Brasilia FHD
+http://acsa.ws:80/bF3y9W/68GSme/131151.ts
+#EXTINF:-1,Globo Brasilia HD
+http://acsa.ws:80/bF3y9W/68GSme/131164.ts
+#EXTINF:-1,Globo Brasilia SD
+http://acsa.ws:80/bF3y9W/68GSme/131116.ts
+#EXTINF:-1,Globo EPTV Campinas FHD
+http://acsa.ws:80/bF3y9W/68GSme/131150.ts
+#EXTINF:-1,Globo EPTV Campinas HD
+http://acsa.ws:80/bF3y9W/68GSme/71977.ts
+#EXTINF:-1,Globo EPTV Campinas SD
+http://acsa.ws:80/bF3y9W/68GSme/131210.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
+http://acsa.ws:80/bF3y9W/68GSme/131172.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+http://acsa.ws:80/bF3y9W/68GSme/131178.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+http://acsa.ws:80/bF3y9W/68GSme/131202.ts
+#EXTINF:-1,Globo EPTV Sao Carlos FHD
+http://acsa.ws:80/bF3y9W/68GSme/131141.ts
+#EXTINF:-1,Globo EPTV Sao Carlos HD
+http://acsa.ws:80/bF3y9W/68GSme/131129.ts
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://acsa.ws:80/bF3y9W/68GSme/72592.ts
+#EXTINF:-1,Globo EPTV Sul de Minas FHD
+http://acsa.ws:80/bF3y9W/68GSme/71979.ts
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+http://acsa.ws:80/bF3y9W/68GSme/71980.ts
+#EXTINF:-1,Globo EPTV Sul de Minas SD
+http://acsa.ws:80/bF3y9W/68GSme/131201.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+http://acsa.ws:80/bF3y9W/68GSme/71982.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+http://acsa.ws:80/bF3y9W/68GSme/71983.ts
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+http://acsa.ws:80/bF3y9W/68GSme/131131.ts
+#EXTINF:-1,Globo Inter TV Cabugi FHD
+http://acsa.ws:80/bF3y9W/68GSme/71985.ts
+#EXTINF:-1,Globo Inter TV Cabugi HD
+http://acsa.ws:80/bF3y9W/68GSme/71986.ts
+#EXTINF:-1,Globo Inter TV Cabugi SD
+http://acsa.ws:80/bF3y9W/68GSme/131186.ts
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+http://acsa.ws:80/bF3y9W/68GSme/131143.ts
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://acsa.ws:80/bF3y9W/68GSme/71989.ts
+#EXTINF:-1,Globo Inter TV dos Vales SD
+http://acsa.ws:80/bF3y9W/68GSme/71990.ts
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+http://acsa.ws:80/bF3y9W/68GSme/71991.ts
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://acsa.ws:80/bF3y9W/68GSme/131115.ts
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+http://acsa.ws:80/bF3y9W/68GSme/131114.ts
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+http://acsa.ws:80/bF3y9W/68GSme/71994.ts
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://acsa.ws:80/bF3y9W/68GSme/71995.ts
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+http://acsa.ws:80/bF3y9W/68GSme/71996.ts
+#EXTINF:-1,Globo Minas FHD
+http://acsa.ws:80/bF3y9W/68GSme/131200.ts
+#EXTINF:-1,Globo Minas HD
+http://acsa.ws:80/bF3y9W/68GSme/131159.ts
+#EXTINF:-1,Globo Minas SD
+http://acsa.ws:80/bF3y9W/68GSme/131209.ts
+#EXTINF:-1,Globo News 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90248.ts
+#EXTINF:-1,Globo News FHD
+http://acsa.ws:80/bF3y9W/68GSme/71997.ts
+#EXTINF:-1,Globo News FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71998.ts
+#EXTINF:-1,Globo News HD
+http://acsa.ws:80/bF3y9W/68GSme/71999.ts
+#EXTINF:-1,Globo News SD
+http://acsa.ws:80/bF3y9W/68GSme/131112.ts
+#EXTINF:-1,Globo Nordeste FHD
+http://acsa.ws:80/bF3y9W/68GSme/72001.ts
+#EXTINF:-1,Globo Nordeste HD
+http://acsa.ws:80/bF3y9W/68GSme/131157.ts
+#EXTINF:-1,Globo Nordeste SD
+http://acsa.ws:80/bF3y9W/68GSme/72003.ts
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+http://acsa.ws:80/bF3y9W/68GSme/72004.ts
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://acsa.ws:80/bF3y9W/68GSme/72005.ts
+#EXTINF:-1,Globo NSC TV Blumenau SD
+http://acsa.ws:80/bF3y9W/68GSme/131192.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste FHD
+http://acsa.ws:80/bF3y9W/68GSme/135432.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste HD
+http://acsa.ws:80/bF3y9W/68GSme/135433.ts
+#EXTINF:-1,Globo NSC TV Centro Oeste SD
+http://acsa.ws:80/bF3y9W/68GSme/135434.ts
+#EXTINF:-1,Globo NSC TV Chapeco FHD
+http://acsa.ws:80/bF3y9W/68GSme/131174.ts
+#EXTINF:-1,Globo NSC TV Chapeco HD
+http://acsa.ws:80/bF3y9W/68GSme/72008.ts
+#EXTINF:-1,Globo NSC TV Chapeco SD
+http://acsa.ws:80/bF3y9W/68GSme/131190.ts
+#EXTINF:-1,Globo NSC TV Criciuma FHD
+http://acsa.ws:80/bF3y9W/68GSme/135426.ts
+#EXTINF:-1,Globo NSC TV Criciuma HD
+http://acsa.ws:80/bF3y9W/68GSme/135427.ts
+#EXTINF:-1,Globo NSC TV Criciuma SD
+http://acsa.ws:80/bF3y9W/68GSme/135428.ts
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+http://acsa.ws:80/bF3y9W/68GSme/72010.ts
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://acsa.ws:80/bF3y9W/68GSme/131183.ts
+#EXTINF:-1,Globo NSC TV Florianopolis SD
+http://acsa.ws:80/bF3y9W/68GSme/131144.ts
+#EXTINF:-1,Globo NSC TV Joinville FHD
+http://acsa.ws:80/bF3y9W/68GSme/91034.ts
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://acsa.ws:80/bF3y9W/68GSme/131167.ts
+#EXTINF:-1,Globo NSC TV Joinville SD
+http://acsa.ws:80/bF3y9W/68GSme/91032.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+http://acsa.ws:80/bF3y9W/68GSme/131160.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://acsa.ws:80/bF3y9W/68GSme/72014.ts
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD
+http://acsa.ws:80/bF3y9W/68GSme/131130.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo FHD
+http://acsa.ws:80/bF3y9W/68GSme/133064.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo HD
+http://acsa.ws:80/bF3y9W/68GSme/133065.ts
+#EXTINF:-1,Globo RBS TV Passo Fundo SD
+http://acsa.ws:80/bF3y9W/68GSme/133066.ts
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+http://acsa.ws:80/bF3y9W/68GSme/72617.ts
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://acsa.ws:80/bF3y9W/68GSme/131121.ts
+#EXTINF:-1,Globo RBS TV Pelotas SD
+http://acsa.ws:80/bF3y9W/68GSme/131207.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+http://acsa.ws:80/bF3y9W/68GSme/131102.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+http://acsa.ws:80/bF3y9W/68GSme/72017.ts
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://acsa.ws:80/bF3y9W/68GSme/131198.ts
+#EXTINF:-1,Globo RBS TV Santa Maria FHD
+http://acsa.ws:80/bF3y9W/68GSme/135423.ts
+#EXTINF:-1,Globo RBS TV Santa Maria HD
+http://acsa.ws:80/bF3y9W/68GSme/135424.ts
+#EXTINF:-1,Globo RBS TV Santa Maria SD
+http://acsa.ws:80/bF3y9W/68GSme/135425.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa FHD
+http://acsa.ws:80/bF3y9W/68GSme/133055.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa HD
+http://acsa.ws:80/bF3y9W/68GSme/133056.ts
+#EXTINF:-1,Globo Rede Amazonica Amapa SD
+http://acsa.ws:80/bF3y9W/68GSme/133057.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista FHD
+http://acsa.ws:80/bF3y9W/68GSme/131185.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista HD
+http://acsa.ws:80/bF3y9W/68GSme/93588.ts
+#EXTINF:-1,Globo Rede Amazonica Boa Vista SD
+http://acsa.ws:80/bF3y9W/68GSme/93589.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus FHD
+http://acsa.ws:80/bF3y9W/68GSme/72019.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus HD
+http://acsa.ws:80/bF3y9W/68GSme/72020.ts
+#EXTINF:-1,Globo Rede Amazonica Manaus SD
+http://acsa.ws:80/bF3y9W/68GSme/72021.ts
+#EXTINF:-1,Globo Rede Amazonica Porto Velho FHD
+http://acsa.ws:80/bF3y9W/68GSme/108684.ts
+#EXTINF:-1,Globo Rede Amazonica Porto Velho HD
+http://acsa.ws:80/bF3y9W/68GSme/93592.ts
+#EXTINF:-1,Globo Rede Amazonica Porto Velho SD
+http://acsa.ws:80/bF3y9W/68GSme/131184.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco FHD
+http://acsa.ws:80/bF3y9W/68GSme/131148.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco HD
+http://acsa.ws:80/bF3y9W/68GSme/131162.ts
+#EXTINF:-1,Globo Rede Amazonica Rio Branco SD
+http://acsa.ws:80/bF3y9W/68GSme/131111.ts
+#EXTINF:-1,Globo Rede Bahia FHD
+http://acsa.ws:80/bF3y9W/68GSme/131213.ts
+#EXTINF:-1,Globo Rede Bahia HD
+http://acsa.ws:80/bF3y9W/68GSme/131123.ts
+#EXTINF:-1,Globo Rede Bahia SD
+http://acsa.ws:80/bF3y9W/68GSme/72024.ts
+#EXTINF:-1,Globo RJ FHD
+http://acsa.ws:80/bF3y9W/68GSme/72025.ts
+#EXTINF:-1,Globo RJ HD
+http://acsa.ws:80/bF3y9W/68GSme/131163.ts
+#EXTINF:-1,Globo RJ SD
+http://acsa.ws:80/bF3y9W/68GSme/131182.ts
+#EXTINF:-1,Globo RPC Cascavel FHD
+http://acsa.ws:80/bF3y9W/68GSme/133058.ts
+#EXTINF:-1,Globo RPC Cascavel HD
+http://acsa.ws:80/bF3y9W/68GSme/133059.ts
+#EXTINF:-1,Globo RPC Cascavel SD
+http://acsa.ws:80/bF3y9W/68GSme/133060.ts
+#EXTINF:-1,Globo RPC Londrina FHD
+http://acsa.ws:80/bF3y9W/68GSme/133061.ts
+#EXTINF:-1,Globo RPC Londrina HD
+http://acsa.ws:80/bF3y9W/68GSme/133062.ts
+#EXTINF:-1,Globo RPC Londrina SD
+http://acsa.ws:80/bF3y9W/68GSme/133063.ts
+#EXTINF:-1,Globo RPC Paranavai FHD
+http://acsa.ws:80/bF3y9W/68GSme/72028.ts
+#EXTINF:-1,Globo RPC Paranavai HD
+http://acsa.ws:80/bF3y9W/68GSme/131170.ts
+#EXTINF:-1,Globo RPC Paranavai SD
+http://acsa.ws:80/bF3y9W/68GSme/131197.ts
+#EXTINF:-1,Globo RPC TV Curitiba FHD
+http://acsa.ws:80/bF3y9W/68GSme/131199.ts
+#EXTINF:-1,Globo RPC TV Curitiba HD
+http://acsa.ws:80/bF3y9W/68GSme/72626.ts
+#EXTINF:-1,Globo RPC TV Curitiba SD
+http://acsa.ws:80/bF3y9W/68GSme/131127.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu FHD
+http://acsa.ws:80/bF3y9W/68GSme/131149.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu HD
+http://acsa.ws:80/bF3y9W/68GSme/72033.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu SD
+http://acsa.ws:80/bF3y9W/68GSme/131206.ts
+#EXTINF:-1,Globo RPC TV Maringa FHD
+http://acsa.ws:80/bF3y9W/68GSme/131101.ts
+#EXTINF:-1,Globo RPC TV Maringa HD
+http://acsa.ws:80/bF3y9W/68GSme/96888.ts
+#EXTINF:-1,Globo RPC TV Maringa SD
+http://acsa.ws:80/bF3y9W/68GSme/131125.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa FHD
+http://acsa.ws:80/bF3y9W/68GSme/131133.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa HD
+http://acsa.ws:80/bF3y9W/68GSme/72037.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa SD
+http://acsa.ws:80/bF3y9W/68GSme/131189.ts
+#EXTINF:-1,Globo SP 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/178521.ts
+#EXTINF:-1,Globo SP FHD
+http://acsa.ws:80/bF3y9W/68GSme/72040.ts
+#EXTINF:-1,Globo SP FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/131215.ts
+#EXTINF:-1,Globo SP HD
+http://acsa.ws:80/bF3y9W/68GSme/131212.ts
+#EXTINF:-1,Globo SP SD
+http://acsa.ws:80/bF3y9W/68GSme/72042.ts
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://acsa.ws:80/bF3y9W/68GSme/72043.ts
+#EXTINF:-1,Globo TV Anhanguera HD
+http://acsa.ws:80/bF3y9W/68GSme/131166.ts
+#EXTINF:-1,Globo TV Anhanguera SD
+http://acsa.ws:80/bF3y9W/68GSme/131124.ts
+#EXTINF:-1,Globo TV Asa Branca FHD
+http://acsa.ws:80/bF3y9W/68GSme/102554.ts
+#EXTINF:-1,Globo TV Asa Branca HD
+http://acsa.ws:80/bF3y9W/68GSme/102555.ts
+#EXTINF:-1,Globo TV Asa Branca SD
+http://acsa.ws:80/bF3y9W/68GSme/131180.ts
+#EXTINF:-1,Globo TV Cabo Branco FHD
+http://acsa.ws:80/bF3y9W/68GSme/131146.ts
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://acsa.ws:80/bF3y9W/68GSme/131110.ts
+#EXTINF:-1,Globo TV Cabo Branco SD
+http://acsa.ws:80/bF3y9W/68GSme/131179.ts
+#EXTINF:-1,Globo TV Centro America FHD
+http://acsa.ws:80/bF3y9W/68GSme/72049.ts
+#EXTINF:-1,Globo TV Centro America HD
+http://acsa.ws:80/bF3y9W/68GSme/72050.ts
+#EXTINF:-1,Globo TV Centro America SD
+http://acsa.ws:80/bF3y9W/68GSme/72051.ts
+#EXTINF:-1,Globo TV Clube Teresina FHD
+http://acsa.ws:80/bF3y9W/68GSme/131105.ts
+#EXTINF:-1,Globo TV Clube Teresina HD
+http://acsa.ws:80/bF3y9W/68GSme/72053.ts
+#EXTINF:-1,Globo TV Clube Teresina SD
+http://acsa.ws:80/bF3y9W/68GSme/131196.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes FHD
+http://acsa.ws:80/bF3y9W/68GSme/131100.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes HD
+http://acsa.ws:80/bF3y9W/68GSme/97596.ts
+#EXTINF:-1,Globo TV Diario Mogi das Cruzes SD
+http://acsa.ws:80/bF3y9W/68GSme/97597.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente FHD
+http://acsa.ws:80/bF3y9W/68GSme/97587.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente HD
+http://acsa.ws:80/bF3y9W/68GSme/97588.ts
+#EXTINF:-1,Globo TV Fronteira Presidente Prudente SD
+http://acsa.ws:80/bF3y9W/68GSme/131177.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+http://acsa.ws:80/bF3y9W/68GSme/131158.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://acsa.ws:80/bF3y9W/68GSme/131214.ts
+#EXTINF:-1,Globo TV Gazeta Alagoas SD
+http://acsa.ws:80/bF3y9W/68GSme/131142.ts
+#EXTINF:-1,Globo TV Gazeta Sul FHD
+http://acsa.ws:80/bF3y9W/68GSme/131099.ts
+#EXTINF:-1,Globo TV Gazeta Sul HD
+http://acsa.ws:80/bF3y9W/68GSme/72059.ts
+#EXTINF:-1,Globo TV Gazeta Sul SD
+http://acsa.ws:80/bF3y9W/68GSme/72060.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD
+http://acsa.ws:80/bF3y9W/68GSme/72061.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+http://acsa.ws:80/bF3y9W/68GSme/131154.ts
+#EXTINF:-1,Globo TV Gazeta Vitoria SD
+http://acsa.ws:80/bF3y9W/68GSme/131175.ts
+#EXTINF:-1,Globo TV Integracao Araxa FHD
+http://acsa.ws:80/bF3y9W/68GSme/131203.ts
+#EXTINF:-1,Globo TV Integracao Araxa HD
+http://acsa.ws:80/bF3y9W/68GSme/131126.ts
+#EXTINF:-1,Globo TV Integracao Araxa SD
+http://acsa.ws:80/bF3y9W/68GSme/131140.ts
+#EXTINF:-1,Globo TV Integracao Juiz de Fora FHD
+http://acsa.ws:80/bF3y9W/68GSme/72067.ts
+#EXTINF:-1,Globo TV Integracao Juiz de Fora HD
+http://acsa.ws:80/bF3y9W/68GSme/72068.ts
+#EXTINF:-1,Globo TV Integracao Juiz de Fora SD
+http://acsa.ws:80/bF3y9W/68GSme/131106.ts
+#EXTINF:-1,Globo TV Integracao Uberaba FHD
+http://acsa.ws:80/bF3y9W/68GSme/133052.ts
+#EXTINF:-1,Globo TV Integracao Uberaba HD
+http://acsa.ws:80/bF3y9W/68GSme/133053.ts
+#EXTINF:-1,Globo TV Integracao Uberaba SD
+http://acsa.ws:80/bF3y9W/68GSme/133054.ts
+#EXTINF:-1,Globo TV Integracao Uberlandia FHD
+http://acsa.ws:80/bF3y9W/68GSme/133051.ts
+#EXTINF:-1,Globo TV Integracao Uberlandia HD
+http://acsa.ws:80/bF3y9W/68GSme/93598.ts
+#EXTINF:-1,Globo TV Integracao Uberlandia SD
+http://acsa.ws:80/bF3y9W/68GSme/93599.ts
+#EXTINF:-1,Globo TV Liberal Belem FHD
+http://acsa.ws:80/bF3y9W/68GSme/131152.ts
+#EXTINF:-1,Globo TV Liberal Belem HD
+http://acsa.ws:80/bF3y9W/68GSme/72071.ts
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://acsa.ws:80/bF3y9W/68GSme/72072.ts
+#EXTINF:-1,Globo TV Mirante Cocais FHD
+http://acsa.ws:80/bF3y9W/68GSme/133050.ts
+#EXTINF:-1,Globo TV Mirante Cocais HD
+http://acsa.ws:80/bF3y9W/68GSme/93600.ts
+#EXTINF:-1,Globo TV Mirante Cocais SD
+http://acsa.ws:80/bF3y9W/68GSme/93601.ts
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD
+http://acsa.ws:80/bF3y9W/68GSme/131103.ts
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+http://acsa.ws:80/bF3y9W/68GSme/72074.ts
+#EXTINF:-1,Globo TV Mirante Sao Luis SD
+http://acsa.ws:80/bF3y9W/68GSme/131195.ts
+#EXTINF:-1,Globo TV Morena FHD
+http://acsa.ws:80/bF3y9W/68GSme/72076.ts
+#EXTINF:-1,Globo TV Morena HD
+http://acsa.ws:80/bF3y9W/68GSme/131169.ts
+#EXTINF:-1,Globo TV Morena SD
+http://acsa.ws:80/bF3y9W/68GSme/131122.ts
+#EXTINF:-1,Globo TV Rio Sul FHD
+http://acsa.ws:80/bF3y9W/68GSme/72079.ts
+#EXTINF:-1,Globo TV Rio Sul HD
+http://acsa.ws:80/bF3y9W/68GSme/131128.ts
+#EXTINF:-1,Globo TV Rio Sul SD
+http://acsa.ws:80/bF3y9W/68GSme/72082.ts
+#EXTINF:-1,Globo TV Santa Cruz FHD
+http://acsa.ws:80/bF3y9W/68GSme/135420.ts
+#EXTINF:-1,Globo TV Santa Cruz HD
+http://acsa.ws:80/bF3y9W/68GSme/135421.ts
+#EXTINF:-1,Globo TV Santa Cruz SD
+http://acsa.ws:80/bF3y9W/68GSme/135422.ts
+#EXTINF:-1,Globo TV Sergipe FHD
+http://acsa.ws:80/bF3y9W/68GSme/131156.ts
+#EXTINF:-1,Globo TV Sergipe HD
+http://acsa.ws:80/bF3y9W/68GSme/131181.ts
+#EXTINF:-1,Globo TV Sergipe SD
+http://acsa.ws:80/bF3y9W/68GSme/131139.ts
+#EXTINF:-1,Globo TV Subae  HD
+http://acsa.ws:80/bF3y9W/68GSme/133068.ts
+#EXTINF:-1,Globo TV Subae FHD
+http://acsa.ws:80/bF3y9W/68GSme/133067.ts
+#EXTINF:-1,Globo TV Subae SD
+http://acsa.ws:80/bF3y9W/68GSme/133069.ts
+#EXTINF:-1,Globo TV Sudoeste FHD
+http://acsa.ws:80/bF3y9W/68GSme/72092.ts
+#EXTINF:-1,Globo TV Sudoeste HD
+http://acsa.ws:80/bF3y9W/68GSme/72093.ts
+#EXTINF:-1,Globo TV Sudoeste SD
+http://acsa.ws:80/bF3y9W/68GSme/72094.ts
+#EXTINF:-1,Globo TV TEM Bauru FHD
+http://acsa.ws:80/bF3y9W/68GSme/91431.ts
+#EXTINF:-1,Globo TV TEM Bauru HD
+http://acsa.ws:80/bF3y9W/68GSme/91432.ts
+#EXTINF:-1,Globo TV TEM Bauru SD
+http://acsa.ws:80/bF3y9W/68GSme/131120.ts
+#EXTINF:-1,Globo TV TEM Itapetininga FHD
+http://acsa.ws:80/bF3y9W/68GSme/91435.ts
+#EXTINF:-1,Globo TV TEM Itapetininga HD
+http://acsa.ws:80/bF3y9W/68GSme/91436.ts
+#EXTINF:-1,Globo TV TEM Itapetininga SD
+http://acsa.ws:80/bF3y9W/68GSme/131119.ts
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto FHD
+http://acsa.ws:80/bF3y9W/68GSme/131155.ts
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto HD
+http://acsa.ws:80/bF3y9W/68GSme/91434.ts
+#EXTINF:-1,Globo TV TEM Sao Jose do Rio Preto SD
+http://acsa.ws:80/bF3y9W/68GSme/131205.ts
+#EXTINF:-1,Globo TV TEM Sorocaba FHD
+http://acsa.ws:80/bF3y9W/68GSme/131191.ts
+#EXTINF:-1,Globo TV TEM Sorocaba HD
+http://acsa.ws:80/bF3y9W/68GSme/91439.ts
+#EXTINF:-1,Globo TV TEM Sorocaba SD
+http://acsa.ws:80/bF3y9W/68GSme/131194.ts
+#EXTINF:-1,Globo TV Tribuna Santos FHD
+http://acsa.ws:80/bF3y9W/68GSme/131135.ts
+#EXTINF:-1,Globo TV Tribuna Santos HD
+http://acsa.ws:80/bF3y9W/68GSme/131165.ts
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://acsa.ws:80/bF3y9W/68GSme/131109.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos FHD
+http://acsa.ws:80/bF3y9W/68GSme/131211.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos HD
+http://acsa.ws:80/bF3y9W/68GSme/144027.ts
+#EXTINF:-1,Globo TV Vanguarda S.J dos Campos SD
+http://acsa.ws:80/bF3y9W/68GSme/72624.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate FHD
+http://acsa.ws:80/bF3y9W/68GSme/100375.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate HD
+http://acsa.ws:80/bF3y9W/68GSme/93605.ts
+#EXTINF:-1,Globo TV Vanguarda Taubate SD
+http://acsa.ws:80/bF3y9W/68GSme/131187.ts
+#EXTINF:-1,Globo TV Verdes Mares 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/72080.ts
+#EXTINF:-1,Globo TV Verdes Mares Cariri FHD
+http://acsa.ws:80/bF3y9W/68GSme/91440.ts
+#EXTINF:-1,Globo TV Verdes Mares FHD
+http://acsa.ws:80/bF3y9W/68GSme/131161.ts
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://acsa.ws:80/bF3y9W/68GSme/72096.ts
+#EXTINF:-1,Globo TV Verdes Mares SD
+http://acsa.ws:80/bF3y9W/68GSme/131137.ts
+#EXTINF:-1,Gloob 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103498.ts
+#EXTINF:-1,Gloob FHD
+http://acsa.ws:80/bF3y9W/68GSme/131153.ts
+#EXTINF:-1,Gloob FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72099.ts
+#EXTINF:-1,Gloob HD
+http://acsa.ws:80/bF3y9W/68GSme/72100.ts
+#EXTINF:-1,Gloob SD
+http://acsa.ws:80/bF3y9W/68GSme/131117.ts
+#EXTINF:-1,Gloobinho 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103497.ts
+#EXTINF:-1,Gloobinho FHD
+http://acsa.ws:80/bF3y9W/68GSme/90631.ts
+#EXTINF:-1,Gloobinho FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/90630.ts
+#EXTINF:-1,Gloobinho HD
+http://acsa.ws:80/bF3y9W/68GSme/90629.ts
+#EXTINF:-1,Gloobinho SD
+http://acsa.ws:80/bF3y9W/68GSme/131173.ts
+#EXTINF:-1,GNT 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90638.ts
+#EXTINF:-1,GNT FHD
+http://acsa.ws:80/bF3y9W/68GSme/72102.ts
+#EXTINF:-1,GNT FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72103.ts
+#EXTINF:-1,GNT HD
+http://acsa.ws:80/bF3y9W/68GSme/72104.ts
+#EXTINF:-1,GNT SD
+http://acsa.ws:80/bF3y9W/68GSme/131136.ts
+#EXTINF:-1,H2 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90245.ts
+#EXTINF:-1,H2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72106.ts
+#EXTINF:-1,H2 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72107.ts
+#EXTINF:-1,H2 HD
+http://acsa.ws:80/bF3y9W/68GSme/72108.ts
+#EXTINF:-1,H2 SD
+http://acsa.ws:80/bF3y9W/68GSme/72109.ts
+#EXTINF:-1,HBO 2 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90246.ts
+#EXTINF:-1,HBO 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72110.ts
+#EXTINF:-1,HBO 2 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72111.ts
+#EXTINF:-1,HBO 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/72112.ts
+#EXTINF:-1,HBO 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/72113.ts
+#EXTINF:-1,HBO 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90247.ts
+#EXTINF:-1,HBO Family 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90637.ts
+#EXTINF:-1,HBO Family FHD
+http://acsa.ws:80/bF3y9W/68GSme/72114.ts
+#EXTINF:-1,HBO Family FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72115.ts
+#EXTINF:-1,HBO Family HD
+http://acsa.ws:80/bF3y9W/68GSme/72116.ts
+#EXTINF:-1,HBO Family SD
+http://acsa.ws:80/bF3y9W/68GSme/72117.ts
+#EXTINF:-1,HBO FHD
+http://acsa.ws:80/bF3y9W/68GSme/72118.ts
+#EXTINF:-1,HBO FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72119.ts
+#EXTINF:-1,HBO FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90698.ts
+#EXTINF:-1,HBO HD
+http://acsa.ws:80/bF3y9W/68GSme/72120.ts
+#EXTINF:-1,HBO HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90697.ts
+#EXTINF:-1,HBO Max 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/140504.ts
+#EXTINF:-1,HBO Max 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/71904.ts
+#EXTINF:-1,HBO Max 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/140510.ts
+#EXTINF:-1,HBO Max 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/140505.ts
+#EXTINF:-1,HBO Max 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/71905.ts
+#EXTINF:-1,HBO Max 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/140511.ts
+#EXTINF:-1,HBO Max 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/140506.ts
+#EXTINF:-1,HBO Max 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/71906.ts
+#EXTINF:-1,HBO Max 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/140512.ts
+#EXTINF:-1,HBO Max 4 FHD
+http://acsa.ws:80/bF3y9W/68GSme/140507.ts
+#EXTINF:-1,HBO Max 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/76673.ts
+#EXTINF:-1,HBO Max 4 SD
+http://acsa.ws:80/bF3y9W/68GSme/140513.ts
+#EXTINF:-1,HBO Max 5 FHD
+http://acsa.ws:80/bF3y9W/68GSme/140508.ts
+#EXTINF:-1,HBO Max 5 HD
+http://acsa.ws:80/bF3y9W/68GSme/130196.ts
+#EXTINF:-1,HBO Max 5 SD
+http://acsa.ws:80/bF3y9W/68GSme/140514.ts
+#EXTINF:-1,HBO Max 6 FHD
+http://acsa.ws:80/bF3y9W/68GSme/140509.ts
+#EXTINF:-1,HBO Max 6 HD
+http://acsa.ws:80/bF3y9W/68GSme/130197.ts
+#EXTINF:-1,HBO Max 6 SD
+http://acsa.ws:80/bF3y9W/68GSme/140515.ts
+#EXTINF:-1,HBO MUNDI 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103496.ts
+#EXTINF:-1,HBO Mundi FHD
+http://acsa.ws:80/bF3y9W/68GSme/72121.ts
+#EXTINF:-1,HBO Mundi FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72122.ts
+#EXTINF:-1,HBO Mundi FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90695.ts
+#EXTINF:-1,HBO Mundi HD
+http://acsa.ws:80/bF3y9W/68GSme/72123.ts
+#EXTINF:-1,HBO Mundi HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90694.ts
+#EXTINF:-1,HBO Mundi SD
+http://acsa.ws:80/bF3y9W/68GSme/72124.ts
+#EXTINF:-1,HBO Mundi SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90693.ts
+#EXTINF:-1,HBO Plus 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90635.ts
+#EXTINF:-1,HBO Plus FHD
+http://acsa.ws:80/bF3y9W/68GSme/72125.ts
+#EXTINF:-1,HBO Plus FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72126.ts
+#EXTINF:-1,HBO Plus FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90692.ts
+#EXTINF:-1,HBO Plus HD
+http://acsa.ws:80/bF3y9W/68GSme/72127.ts
+#EXTINF:-1,HBO Plus HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90691.ts
+#EXTINF:-1,HBO Plus SD
+http://acsa.ws:80/bF3y9W/68GSme/72128.ts
+#EXTINF:-1,HBO Plus SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90690.ts
+#EXTINF:-1,HBO POP 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103495.ts
+#EXTINF:-1,HBO Pop FHD
+http://acsa.ws:80/bF3y9W/68GSme/72129.ts
+#EXTINF:-1,HBO Pop FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72130.ts
+#EXTINF:-1,HBO Pop FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90689.ts
+#EXTINF:-1,HBO Pop HD
+http://acsa.ws:80/bF3y9W/68GSme/72131.ts
+#EXTINF:-1,HBO Pop HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90688.ts
+#EXTINF:-1,HBO Pop SD
+http://acsa.ws:80/bF3y9W/68GSme/72132.ts
+#EXTINF:-1,HBO Pop SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90687.ts
+#EXTINF:-1,HBO PORTUGAL HD
+http://acsa.ws:80/bF3y9W/68GSme/191205.ts
+#EXTINF:-1,HBO SD
+http://acsa.ws:80/bF3y9W/68GSme/72133.ts
+#EXTINF:-1,HBO SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90696.ts
+#EXTINF:-1,HBO Signature 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103494.ts
+#EXTINF:-1,HBO Signature FHD
+http://acsa.ws:80/bF3y9W/68GSme/72134.ts
+#EXTINF:-1,HBO Signature FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72135.ts
+#EXTINF:-1,HBO Signature FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90686.ts
+#EXTINF:-1,HBO Signature HD
+http://acsa.ws:80/bF3y9W/68GSme/72136.ts
+#EXTINF:-1,HBO Signature HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90685.ts
+#EXTINF:-1,HBO Signature SD
+http://acsa.ws:80/bF3y9W/68GSme/72137.ts
+#EXTINF:-1,HBO Signature SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90684.ts
+#EXTINF:-1,HBO Xtreme 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90636.ts
+#EXTINF:-1,HBO Xtreme FHD
+http://acsa.ws:80/bF3y9W/68GSme/72138.ts
+#EXTINF:-1,HBO Xtreme FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72139.ts
+#EXTINF:-1,HBO Xtreme FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90683.ts
+#EXTINF:-1,HBO Xtreme HD
+http://acsa.ws:80/bF3y9W/68GSme/72140.ts
+#EXTINF:-1,HBO Xtreme HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90682.ts
+#EXTINF:-1,HBO Xtreme SD
+http://acsa.ws:80/bF3y9W/68GSme/72141.ts
+#EXTINF:-1,HBO Xtreme SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90681.ts
+#EXTINF:-1,HGTV 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103493.ts
+#EXTINF:-1,HGTV FHD
+http://acsa.ws:80/bF3y9W/68GSme/72142.ts
+#EXTINF:-1,HGTV FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72143.ts
+#EXTINF:-1,HGTV HD
+http://acsa.ws:80/bF3y9W/68GSme/72144.ts
+#EXTINF:-1,HGTV SD
+http://acsa.ws:80/bF3y9W/68GSme/72145.ts
+#EXTINF:-1,History 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90244.ts
+#EXTINF:-1,History FHD
+http://acsa.ws:80/bF3y9W/68GSme/72146.ts
+#EXTINF:-1,History FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72147.ts
+#EXTINF:-1,History HD
+http://acsa.ws:80/bF3y9W/68GSme/72148.ts
+#EXTINF:-1,History SD
+http://acsa.ws:80/bF3y9W/68GSme/72149.ts
+#EXTINF:-1,HOLLYWOOD FHD
+http://acsa.ws:80/bF3y9W/68GSme/191190.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://acsa.ws:80/bF3y9W/68GSme/191189.ts
+#EXTINF:-1,HOLLYWOOD SD
+http://acsa.ws:80/bF3y9W/68GSme/191188.ts
+#EXTINF:-1,I24 NEWS
+http://acsa.ws:80/bF3y9W/68GSme/191166.ts
+#EXTINF:-1,ID 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90243.ts
+#EXTINF:-1,ID FHD
+http://acsa.ws:80/bF3y9W/68GSme/72150.ts
+#EXTINF:-1,ID FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72151.ts
+#EXTINF:-1,ID HD
+http://acsa.ws:80/bF3y9W/68GSme/72152.ts
+#EXTINF:-1,ID INVESTIGATION DISCOVERY HD
+http://acsa.ws:80/bF3y9W/68GSme/191364.ts
+#EXTINF:-1,ID SD
+http://acsa.ws:80/bF3y9W/68GSme/72153.ts
+#EXTINF:-1,Ideal TV 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/178525.ts
+#EXTINF:-1,Ideal TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/178524.ts
+#EXTINF:-1,Ideal TV FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/178526.ts
+#EXTINF:-1,Ideal TV HD
+http://acsa.ws:80/bF3y9W/68GSme/178527.ts
+#EXTINF:-1,Ideal TV SD
+http://acsa.ws:80/bF3y9W/68GSme/178528.ts
+#EXTINF:-1,ITTV Plus - Sergipao 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/185232.ts
+#EXTINF:-1,ITTV Plus - Sergipao 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/185233.ts
+#EXTINF:-1,ITTV Plus - Sergipao 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/185234.ts
+#EXTINF:-1,ITTV Plus - Sergipao 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/185235.ts
+#EXTINF:-1,ITTV Plus - Sergipao 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/185236.ts
+#EXTINF:-1,ITTV Plus - Sergipao 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/185237.ts
+#EXTINF:-1,ITTV Plus - Sergipao 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/185238.ts
+#EXTINF:-1,ITTV Plus - Sergipao 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/185239.ts
+#EXTINF:-1,ITTV Plus - Sergipao 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/185240.ts
+#EXTINF:-1,JIM JAM SD
+http://acsa.ws:80/bF3y9W/68GSme/191382.ts
+#EXTINF:-1,Jovem Pan News 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/134021.ts
+#EXTINF:-1,Jovem Pan News FHD
+http://acsa.ws:80/bF3y9W/68GSme/134023.ts
+#EXTINF:-1,Jovem Pan News FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/134022.ts
+#EXTINF:-1,Jovem Pan News HD
+http://acsa.ws:80/bF3y9W/68GSme/134024.ts
+#EXTINF:-1,Jovem Pan News SD
+http://acsa.ws:80/bF3y9W/68GSme/134025.ts
+#EXTINF:-1,KURIAKOS TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/191342.ts
+#EXTINF:-1,Lifetime 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103492.ts
+#EXTINF:-1,Lifetime FHD
+http://acsa.ws:80/bF3y9W/68GSme/72154.ts
+#EXTINF:-1,Lifetime FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72155.ts
+#EXTINF:-1,Lifetime HD
+http://acsa.ws:80/bF3y9W/68GSme/72156.ts
+#EXTINF:-1,Lifetime SD
+http://acsa.ws:80/bF3y9W/68GSme/72157.ts
+#EXTINF:-1,Liga Futsal 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/73006.ts
+#EXTINF:-1,Liga Futsal 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/109225.ts
+#EXTINF:-1,Liga Futsal 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/155741.ts
+#EXTINF:-1,Liga Futsal 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/155742.ts
+#EXTINF:-1,Liga Futsal 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/155743.ts
+#EXTINF:-1,Liga Futsal 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/155744.ts
+#EXTINF:-1,Liga Futsal 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/156663.ts
+#EXTINF:-1,Liga Futsal 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/156664.ts
+#EXTINF:-1,Liga Futsal 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/156665.ts
+#EXTINF:-1,Liga Futsal 4 FHD
+http://acsa.ws:80/bF3y9W/68GSme/156666.ts
+#EXTINF:-1,Liga Futsal 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/156667.ts
+#EXTINF:-1,Liga Futsal 4 SD
+http://acsa.ws:80/bF3y9W/68GSme/156668.ts
+#EXTINF:-1,Like 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103491.ts
+#EXTINF:-1,Live Casimito Brasileirao FHD
+http://acsa.ws:80/bF3y9W/68GSme/158007.ts
+#EXTINF:-1,Live Casimito Brasileirao HD
+http://acsa.ws:80/bF3y9W/68GSme/158008.ts
+#EXTINF:-1,Live Casimito Brasileirao SD
+http://acsa.ws:80/bF3y9W/68GSme/158009.ts
+#EXTINF:-1,LOCALl VISIÃO HD
+http://acsa.ws:80/bF3y9W/68GSme/191164.ts
+#EXTINF:-1,Lolly Kids
+http://acsa.ws:80/bF3y9W/68GSme/191327.ts
+#EXTINF:-1,M6 MUSIC HD
+http://acsa.ws:80/bF3y9W/68GSme/191340.ts
+#EXTINF:-1,Markket 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/164026.ts
+#EXTINF:-1,Markket FHD
+http://acsa.ws:80/bF3y9W/68GSme/164030.ts
+#EXTINF:-1,Markket HD
+http://acsa.ws:80/bF3y9W/68GSme/164029.ts
+#EXTINF:-1,Markket SD
+http://acsa.ws:80/bF3y9W/68GSme/164028.ts
+#EXTINF:-1,MARVEL
+http://acsa.ws:80/bF3y9W/68GSme/191236.ts
+#EXTINF:-1,MARVEL HD
+http://acsa.ws:80/bF3y9W/68GSme/191207.ts
+#EXTINF:-1,MCM POP SD
+http://acsa.ws:80/bF3y9W/68GSme/191334.ts
+#EXTINF:-1,MCM TOP HD
+http://acsa.ws:80/bF3y9W/68GSme/191333.ts
+#EXTINF:-1,Mega TV HD
+http://acsa.ws:80/bF3y9W/68GSme/104925.ts
+#EXTINF:-1,Mega TV SD
+http://acsa.ws:80/bF3y9W/68GSme/104926.ts
+#EXTINF:-1,Megapix 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/131104.ts
+#EXTINF:-1,Megapix FHD
+http://acsa.ws:80/bF3y9W/68GSme/72166.ts
+#EXTINF:-1,Megapix FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72167.ts
+#EXTINF:-1,Megapix FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90680.ts
+#EXTINF:-1,Megapix HD
+http://acsa.ws:80/bF3y9W/68GSme/72169.ts
+#EXTINF:-1,Megapix HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/131118.ts
+#EXTINF:-1,Megapix SD
+http://acsa.ws:80/bF3y9W/68GSme/131204.ts
+#EXTINF:-1,Megapix SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/131171.ts
+#EXTINF:-1,MEZZO LIVE FHD
+http://acsa.ws:80/bF3y9W/68GSme/191335.ts
+#EXTINF:-1,Modo Viagem 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103488.ts
+#EXTINF:-1,Modo Viagem FHD
+http://acsa.ws:80/bF3y9W/68GSme/72162.ts
+#EXTINF:-1,Modo Viagem FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72163.ts
+#EXTINF:-1,Modo Viagem HD
+http://acsa.ws:80/bF3y9W/68GSme/72164.ts
+#EXTINF:-1,Modo Viagem SD
+http://acsa.ws:80/bF3y9W/68GSme/72165.ts
+#EXTINF:-1,MOTORVISION TV SD
+http://acsa.ws:80/bF3y9W/68GSme/191310.ts
+#EXTINF:-1,MTV 00s
+http://acsa.ws:80/bF3y9W/68GSme/191326.ts
+#EXTINF:-1,MTV 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103490.ts
+#EXTINF:-1,MTV FHD
+http://acsa.ws:80/bF3y9W/68GSme/72171.ts
+#EXTINF:-1,MTV FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72172.ts
+#EXTINF:-1,MTV HD
+http://acsa.ws:80/bF3y9W/68GSme/72173.ts
+#EXTINF:-1,MTV LIVE 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103489.ts
+#EXTINF:-1,MTV Live FHD
+http://acsa.ws:80/bF3y9W/68GSme/72174.ts
+#EXTINF:-1,MTV Live FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72175.ts
+#EXTINF:-1,MTV Live HD
+http://acsa.ws:80/bF3y9W/68GSme/72176.ts
+#EXTINF:-1,MTV LIVE HD
+http://acsa.ws:80/bF3y9W/68GSme/191332.ts
+#EXTINF:-1,MTV Live SD
+http://acsa.ws:80/bF3y9W/68GSme/72177.ts
+#EXTINF:-1,MTV PORTUGAL HD
+http://acsa.ws:80/bF3y9W/68GSme/191331.ts
+#EXTINF:-1,MTV SD
+http://acsa.ws:80/bF3y9W/68GSme/72178.ts
+#EXTINF:-1,MTVs 00 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103451.ts
+#EXTINF:-1,MTVs 00 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72423.ts
+#EXTINF:-1,MTVs 00 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72424.ts
+#EXTINF:-1,MTVs 00 HD
+http://acsa.ws:80/bF3y9W/68GSme/72425.ts
+#EXTINF:-1,MTVs 00 SD
+http://acsa.ws:80/bF3y9W/68GSme/72426.ts
+#EXTINF:-1,Multishow 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/131138.ts
+#EXTINF:-1,Multishow FHD
+http://acsa.ws:80/bF3y9W/68GSme/131193.ts
+#EXTINF:-1,Multishow FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/131107.ts
+#EXTINF:-1,Multishow HD
+http://acsa.ws:80/bF3y9W/68GSme/72182.ts
+#EXTINF:-1,Multishow SD
+http://acsa.ws:80/bF3y9W/68GSme/131134.ts
+#EXTINF:-1,Music Box Brazil 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103487.ts
+#EXTINF:-1,Music Box Brazil FHD
+http://acsa.ws:80/bF3y9W/68GSme/72184.ts
+#EXTINF:-1,Music Box Brazil FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72185.ts
+#EXTINF:-1,Music Box Brazil HD
+http://acsa.ws:80/bF3y9W/68GSme/72186.ts
+#EXTINF:-1,Music Box Brazil SD
+http://acsa.ws:80/bF3y9W/68GSme/72187.ts
+#EXTINF:-1,MyCujoo TV 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/75026.ts
+#EXTINF:-1,MÁS CHIC HD
+http://acsa.ws:80/bF3y9W/68GSme/191429.ts
+#EXTINF:-1,National Geographic 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/72198.ts
+#EXTINF:-1,National Geographic FHD
+http://acsa.ws:80/bF3y9W/68GSme/72196.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://acsa.ws:80/bF3y9W/68GSme/191362.ts
+#EXTINF:-1,National Geographic FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72197.ts
+#EXTINF:-1,National Geographic HD
+http://acsa.ws:80/bF3y9W/68GSme/72199.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://acsa.ws:80/bF3y9W/68GSme/191361.ts
+#EXTINF:-1,National Geographic SD
+http://acsa.ws:80/bF3y9W/68GSme/72200.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD
+http://acsa.ws:80/bF3y9W/68GSme/191360.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD FHD
+http://acsa.ws:80/bF3y9W/68GSme/191359.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+http://acsa.ws:80/bF3y9W/68GSme/191358.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD SD
+http://acsa.ws:80/bF3y9W/68GSme/191357.ts
+#EXTINF:-1,NBA League Pass 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/140516.ts
+#EXTINF:-1,NBA League Pass 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/140517.ts
+#EXTINF:-1,NBA League Pass 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/140518.ts
+#EXTINF:-1,NBA League Pass 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/140519.ts
+#EXTINF:-1,NBA League Pass 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/140520.ts
+#EXTINF:-1,NBA League Pass 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/140521.ts
+#EXTINF:-1,NBA League Pass 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/140522.ts
+#EXTINF:-1,NBA League Pass 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/140523.ts
+#EXTINF:-1,NBA League Pass 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/140524.ts
+#EXTINF:-1,NBA League Pass 4 FHD
+http://acsa.ws:80/bF3y9W/68GSme/140525.ts
+#EXTINF:-1,NBA League Pass 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/140526.ts
+#EXTINF:-1,NBA League Pass 4 SD
+http://acsa.ws:80/bF3y9W/68GSme/140527.ts
+#EXTINF:-1,NBA League Pass 5 FHD
+http://acsa.ws:80/bF3y9W/68GSme/141487.ts
+#EXTINF:-1,NBA League Pass 5 HD
+http://acsa.ws:80/bF3y9W/68GSme/141488.ts
+#EXTINF:-1,NBA League Pass 5 SD
+http://acsa.ws:80/bF3y9W/68GSme/141489.ts
+#EXTINF:-1,NBA League Pass 6 FHD
+http://acsa.ws:80/bF3y9W/68GSme/141490.ts
+#EXTINF:-1,NBA League Pass 6 HD
+http://acsa.ws:80/bF3y9W/68GSme/141491.ts
+#EXTINF:-1,NBA League Pass 6 SD
+http://acsa.ws:80/bF3y9W/68GSme/141492.ts
+#EXTINF:-1,NETFLIX KIDS
+http://acsa.ws:80/bF3y9W/68GSme/191372.ts
+#EXTINF:-1,NETFLIX TV HD
+http://acsa.ws:80/bF3y9W/68GSme/191206.ts
+#EXTINF:-1,NFL NETWORK HD
+http://acsa.ws:80/bF3y9W/68GSme/191325.ts
+#EXTINF:-1,Nick + HD
+http://acsa.ws:80/bF3y9W/68GSme/191377.ts
+#EXTINF:-1,Nick Jr FHD
+http://acsa.ws:80/bF3y9W/68GSme/72201.ts
+#EXTINF:-1,Nick Jr FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72202.ts
+#EXTINF:-1,Nick Jr HD
+http://acsa.ws:80/bF3y9W/68GSme/72203.ts
+#EXTINF:-1,Nick Jr SD
+http://acsa.ws:80/bF3y9W/68GSme/72204.ts
+#EXTINF:-1,Nick Jr. 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103485.ts
+#EXTINF:-1,NICK JUNIOR SD
+http://acsa.ws:80/bF3y9W/68GSme/191379.ts
+#EXTINF:-1,Nickelodeon 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90241.ts
+#EXTINF:-1,Nickelodeon FHD
+http://acsa.ws:80/bF3y9W/68GSme/72205.ts
+#EXTINF:-1,Nickelodeon FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72206.ts
+#EXTINF:-1,Nickelodeon HD
+http://acsa.ws:80/bF3y9W/68GSme/72207.ts
+#EXTINF:-1,NICKELODEON HD
+http://acsa.ws:80/bF3y9W/68GSme/191383.ts
+#EXTINF:-1,Nickelodeon SD
+http://acsa.ws:80/bF3y9W/68GSme/72208.ts
+#EXTINF:-1,NOS STUDIOS FHD
+http://acsa.ws:80/bF3y9W/68GSme/191187.ts
+#EXTINF:-1,NOS STUDIOS HD
+http://acsa.ws:80/bF3y9W/68GSme/191186.ts
+#EXTINF:-1,NOS STUDIOS SD
+http://acsa.ws:80/bF3y9W/68GSme/191185.ts
+#EXTINF:-1,Nosso Futebol 1 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/184572.ts
+#EXTINF:-1,Nosso Futebol 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/184569.ts
+#EXTINF:-1,Nosso Futebol 1 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/184573.ts
+#EXTINF:-1,Nosso Futebol 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/184570.ts
+#EXTINF:-1,Nosso Futebol 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/184571.ts
+#EXTINF:-1,Nosso Futebol 2 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/184577.ts
+#EXTINF:-1,Nosso Futebol 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/184574.ts
+#EXTINF:-1,Nosso Futebol 2 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/184578.ts
+#EXTINF:-1,Nosso Futebol 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/184575.ts
+#EXTINF:-1,Nosso Futebol 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/184576.ts
+#EXTINF:-1,Nosso Futebol 3 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/184582.ts
+#EXTINF:-1,Nosso Futebol 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/184579.ts
+#EXTINF:-1,Nosso Futebol 3 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/184583.ts
+#EXTINF:-1,Nosso Futebol 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/184580.ts
+#EXTINF:-1,Nosso Futebol 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/184581.ts
+#EXTINF:-1,Nosso Futebol 4 FHD
+http://acsa.ws:80/bF3y9W/68GSme/184584.ts
+#EXTINF:-1,Nosso Futebol 4 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/184587.ts
+#EXTINF:-1,Nosso Futebol 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/184585.ts
+#EXTINF:-1,Nosso Futebol 4 SD
+http://acsa.ws:80/bF3y9W/68GSme/184586.ts
+#EXTINF:-1,O Tempo Sports FHD
+http://acsa.ws:80/bF3y9W/68GSme/147524.ts
+#EXTINF:-1,O Tempo Sports HD
+http://acsa.ws:80/bF3y9W/68GSme/147525.ts
+#EXTINF:-1,O Tempo Sports SD
+http://acsa.ws:80/bF3y9W/68GSme/147526.ts
+#EXTINF:-1,ODISSEIA HD
+http://acsa.ws:80/bF3y9W/68GSme/191365.ts
+#EXTINF:-1,OFF 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90240.ts
+#EXTINF:-1,OFF FHD
+http://acsa.ws:80/bF3y9W/68GSme/72209.ts
+#EXTINF:-1,OFF FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72210.ts
+#EXTINF:-1,OFF HD
+http://acsa.ws:80/bF3y9W/68GSme/72211.ts
+#EXTINF:-1,OFF SD
+http://acsa.ws:80/bF3y9W/68GSme/72212.ts
+#EXTINF:-1,OneFootball 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/185800.ts
+#EXTINF:-1,OneFootball 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/185801.ts
+#EXTINF:-1,OneFootball 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/185802.ts
+#EXTINF:-1,Outdoor HD
+http://acsa.ws:80/bF3y9W/68GSme/191311.ts
+#EXTINF:-1,Pai Eterno 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103484.ts
+#EXTINF:-1,Pai Eterno FHD
+http://acsa.ws:80/bF3y9W/68GSme/72213.ts
+#EXTINF:-1,Pai Eterno FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72216.ts
+#EXTINF:-1,Pai Eterno HD
+http://acsa.ws:80/bF3y9W/68GSme/72214.ts
+#EXTINF:-1,Pai Eterno SD
+http://acsa.ws:80/bF3y9W/68GSme/72215.ts
+#EXTINF:-1,PANDA BIGGS FHD
+http://acsa.ws:80/bF3y9W/68GSme/191390.ts
+#EXTINF:-1,PANDA BIGGS SD
+http://acsa.ws:80/bF3y9W/68GSme/191389.ts
+#EXTINF:-1,PANDA KIDS SD
+http://acsa.ws:80/bF3y9W/68GSme/191387.ts
+#EXTINF:-1,Paramount + 1 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103524.ts
+#EXTINF:-1,Paramount + 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72977.ts
+#EXTINF:-1,Paramount + 1 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72978.ts
+#EXTINF:-1,Paramount + 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/72979.ts
+#EXTINF:-1,Paramount + 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/72980.ts
+#EXTINF:-1,Paramount + 2 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103523.ts
+#EXTINF:-1,Paramount + 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72981.ts
+#EXTINF:-1,Paramount + 2 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72982.ts
+#EXTINF:-1,Paramount + 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/72983.ts
+#EXTINF:-1,Paramount + 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/72984.ts
+#EXTINF:-1,Paramount + 3 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103522.ts
+#EXTINF:-1,Paramount + 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72985.ts
+#EXTINF:-1,Paramount + 3 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72986.ts
+#EXTINF:-1,Paramount + 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/72987.ts
+#EXTINF:-1,Paramount + 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/72988.ts
+#EXTINF:-1,Paramount + 4 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103521.ts
+#EXTINF:-1,Paramount + 4 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72989.ts
+#EXTINF:-1,Paramount + 4 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72990.ts
+#EXTINF:-1,Paramount + 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/72991.ts
+#EXTINF:-1,Paramount + 4 SD
+http://acsa.ws:80/bF3y9W/68GSme/72992.ts
+#EXTINF:-1,Paramount Channel 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90634.ts
+#EXTINF:-1,Paramount Channel FHD
+http://acsa.ws:80/bF3y9W/68GSme/72217.ts
+#EXTINF:-1,Paramount Channel FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72218.ts
+#EXTINF:-1,Paramount Channel HD
+http://acsa.ws:80/bF3y9W/68GSme/72219.ts
+#EXTINF:-1,Paramount Channel SD
+http://acsa.ws:80/bF3y9W/68GSme/72220.ts
+#EXTINF:-1,PATRULHA PATA HD
+http://acsa.ws:80/bF3y9W/68GSme/191369.ts
+#EXTINF:-1,Paulistao 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/147528.ts
+#EXTINF:-1,Paulistao 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/147529.ts
+#EXTINF:-1,Paulistao 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/147530.ts
+#EXTINF:-1,Paulistao 2  FHD
+http://acsa.ws:80/bF3y9W/68GSme/71943.ts
+#EXTINF:-1,Paulistao 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/71945.ts
+#EXTINF:-1,Paulistao 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/71946.ts
+#EXTINF:-1,PFC SD
+http://acsa.ws:80/bF3y9W/68GSme/191303.ts
+#EXTINF:-1,Polishop TV SD
+http://acsa.ws:80/bF3y9W/68GSme/104927.ts
+#EXTINF:-1,PORTO CANAL HD
+http://acsa.ws:80/bF3y9W/68GSme/191433.ts
+#EXTINF:-1,Premiere 2 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103482.ts
+#EXTINF:-1,Premiere 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72237.ts
+#EXTINF:-1,Premiere 2 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72238.ts
+#EXTINF:-1,Premiere 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/72239.ts
+#EXTINF:-1,Premiere 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/72240.ts
+#EXTINF:-1,Premiere 3 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103481.ts
+#EXTINF:-1,Premiere 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72241.ts
+#EXTINF:-1,Premiere 3 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72242.ts
+#EXTINF:-1,Premiere 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/72243.ts
+#EXTINF:-1,Premiere 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/72244.ts
+#EXTINF:-1,Premiere 4 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103480.ts
+#EXTINF:-1,Premiere 4 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72245.ts
+#EXTINF:-1,Premiere 4 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72246.ts
+#EXTINF:-1,Premiere 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/72247.ts
+#EXTINF:-1,Premiere 4 SD
+http://acsa.ws:80/bF3y9W/68GSme/72248.ts
+#EXTINF:-1,Premiere 5 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103479.ts
+#EXTINF:-1,Premiere 5 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72249.ts
+#EXTINF:-1,Premiere 5 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72250.ts
+#EXTINF:-1,Premiere 5 HD
+http://acsa.ws:80/bF3y9W/68GSme/72251.ts
+#EXTINF:-1,Premiere 5 SD
+http://acsa.ws:80/bF3y9W/68GSme/72252.ts
+#EXTINF:-1,Premiere 6 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103478.ts
+#EXTINF:-1,Premiere 6 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72253.ts
+#EXTINF:-1,Premiere 6 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72254.ts
+#EXTINF:-1,Premiere 6 HD
+http://acsa.ws:80/bF3y9W/68GSme/72255.ts
+#EXTINF:-1,Premiere 6 SD
+http://acsa.ws:80/bF3y9W/68GSme/72256.ts
+#EXTINF:-1,Premiere 7 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103477.ts
+#EXTINF:-1,Premiere 7 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72257.ts
+#EXTINF:-1,Premiere 7 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72258.ts
+#EXTINF:-1,Premiere 7 HD
+http://acsa.ws:80/bF3y9W/68GSme/72259.ts
+#EXTINF:-1,Premiere 7 SD
+http://acsa.ws:80/bF3y9W/68GSme/72260.ts
+#EXTINF:-1,Premiere 8 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/180162.ts
+#EXTINF:-1,Premiere 8 FHD
+http://acsa.ws:80/bF3y9W/68GSme/180158.ts
+#EXTINF:-1,Premiere 8 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/180161.ts
+#EXTINF:-1,Premiere 8 HD
+http://acsa.ws:80/bF3y9W/68GSme/180159.ts
+#EXTINF:-1,Premiere 8 SD
+http://acsa.ws:80/bF3y9W/68GSme/72261.ts
+#EXTINF:-1,Premiere 8 SD
+http://acsa.ws:80/bF3y9W/68GSme/180160.ts
+#EXTINF:-1,Premiere Clubes 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/72264.ts
+#EXTINF:-1,Premiere Clubes FHD
+http://acsa.ws:80/bF3y9W/68GSme/72262.ts
+#EXTINF:-1,Premiere Clubes FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72263.ts
+#EXTINF:-1,Premiere Clubes HD
+http://acsa.ws:80/bF3y9W/68GSme/72265.ts
+#EXTINF:-1,Premiere Clubes SD
+http://acsa.ws:80/bF3y9W/68GSme/72266.ts
+#EXTINF:-1,Prime Box Brazil 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103476.ts
+#EXTINF:-1,Prime Box Brazil FHD
+http://acsa.ws:80/bF3y9W/68GSme/72267.ts
+#EXTINF:-1,Prime Box Brazil FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72268.ts
+#EXTINF:-1,Prime Box Brazil HD
+http://acsa.ws:80/bF3y9W/68GSme/72269.ts
+#EXTINF:-1,Prime Box Brazil SD
+http://acsa.ws:80/bF3y9W/68GSme/72270.ts
+#EXTINF:-1,Record News 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/178523.ts
+#EXTINF:-1,Record News FHD
+http://acsa.ws:80/bF3y9W/68GSme/72271.ts
+#EXTINF:-1,Record News FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/178522.ts
+#EXTINF:-1,Record News HD
+http://acsa.ws:80/bF3y9W/68GSme/72272.ts
+#EXTINF:-1,Record News SD
+http://acsa.ws:80/bF3y9W/68GSme/72273.ts
+#EXTINF:-1,Record SP FHDR
+http://acsa.ws:80/bF3y9W/68GSme/178530.ts
+#EXTINF:-1,RecordTV Belem HD
+http://acsa.ws:80/bF3y9W/68GSme/96523.ts
+#EXTINF:-1,RecordTV Belem SD
+http://acsa.ws:80/bF3y9W/68GSme/73262.ts
+#EXTINF:-1,RecordTV Brasilia HD
+http://acsa.ws:80/bF3y9W/68GSme/72629.ts
+#EXTINF:-1,RecordTV GO HD
+http://acsa.ws:80/bF3y9W/68GSme/72278.ts
+#EXTINF:-1,RecordTV GO SD
+http://acsa.ws:80/bF3y9W/68GSme/72279.ts
+#EXTINF:-1,RecordTV Itapoan FHD
+http://acsa.ws:80/bF3y9W/68GSme/157406.ts
+#EXTINF:-1,RecordTV Itapoan HD
+http://acsa.ws:80/bF3y9W/68GSme/72284.ts
+#EXTINF:-1,RecordTV Itapoan SD
+http://acsa.ws:80/bF3y9W/68GSme/72285.ts
+#EXTINF:-1,RecordTV MG HD
+http://acsa.ws:80/bF3y9W/68GSme/72619.ts
+#EXTINF:-1,RecordTV RJ FHD
+http://acsa.ws:80/bF3y9W/68GSme/106638.ts
+#EXTINF:-1,RecordTV RJ HD
+http://acsa.ws:80/bF3y9W/68GSme/72594.ts
+#EXTINF:-1,RecordTV RJ SD
+http://acsa.ws:80/bF3y9W/68GSme/96526.ts
+#EXTINF:-1,RecordTV RS HD
+http://acsa.ws:80/bF3y9W/68GSme/72974.ts
+#EXTINF:-1,RecordTV RS SD
+http://acsa.ws:80/bF3y9W/68GSme/72975.ts
+#EXTINF:-1,RecordTV SP FHD
+http://acsa.ws:80/bF3y9W/68GSme/77654.ts
+#EXTINF:-1,RecordTV SP FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72595.ts
+#EXTINF:-1,RecordTV SP HD
+http://acsa.ws:80/bF3y9W/68GSme/72973.ts
+#EXTINF:-1,RecordTV SP SD
+http://acsa.ws:80/bF3y9W/68GSme/96522.ts
+#EXTINF:-1,RED BUL TV HD
+http://acsa.ws:80/bF3y9W/68GSme/191314.ts
+#EXTINF:-1,Rede Gospel 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/178531.ts
+#EXTINF:-1,Rede Gospel FHD
+http://acsa.ws:80/bF3y9W/68GSme/104929.ts
+#EXTINF:-1,Rede Gospel FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/104932.ts
+#EXTINF:-1,Rede Gospel HD
+http://acsa.ws:80/bF3y9W/68GSme/104930.ts
+#EXTINF:-1,Rede Gospel SD
+http://acsa.ws:80/bF3y9W/68GSme/104931.ts
+#EXTINF:-1,Rede Vida 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103475.ts
+#EXTINF:-1,Rede Vida FHD
+http://acsa.ws:80/bF3y9W/68GSme/72293.ts
+#EXTINF:-1,Rede Vida FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72294.ts
+#EXTINF:-1,Rede Vida HD
+http://acsa.ws:80/bF3y9W/68GSme/72295.ts
+#EXTINF:-1,Rede Vida SD
+http://acsa.ws:80/bF3y9W/68GSme/72296.ts
+#EXTINF:-1,RedeTV FHD
+http://acsa.ws:80/bF3y9W/68GSme/72297.ts
+#EXTINF:-1,RedeTV FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72298.ts
+#EXTINF:-1,RedeTV HD
+http://acsa.ws:80/bF3y9W/68GSme/72299.ts
+#EXTINF:-1,RedeTV SD
+http://acsa.ws:80/bF3y9W/68GSme/72300.ts
+#EXTINF:-1,RedeTV! 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/178532.ts
+#EXTINF:-1,RIT TV SD
+http://acsa.ws:80/bF3y9W/68GSme/72301.ts
+#EXTINF:-1,RTP 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191401.ts
+#EXTINF:-1,RTP 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/191399.ts
+#EXTINF:-1,RTP 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/191398.ts
+#EXTINF:-1,RTP 1 [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191400.ts
+#EXTINF:-1,RTP 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191405.ts
+#EXTINF:-1,RTP 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/191403.ts
+#EXTINF:-1,RTP 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/191402.ts
+#EXTINF:-1,RTP 2 [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191404.ts
+#EXTINF:-1,RTP 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191159.ts
+#EXTINF:-1,RTP 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/191158.ts
+#EXTINF:-1,RTP 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/191157.ts
+#EXTINF:-1,RTP AFRICA SD
+http://acsa.ws:80/bF3y9W/68GSme/191439.ts
+#EXTINF:-1,RTP AÇORES SD
+http://acsa.ws:80/bF3y9W/68GSme/191438.ts
+#EXTINF:-1,RTP MADEIRA
+http://acsa.ws:80/bF3y9W/68GSme/191440.ts
+#EXTINF:-1,RTP MEMÓRIA SD
+http://acsa.ws:80/bF3y9W/68GSme/191437.ts
+#EXTINF:-1,S + HD
+http://acsa.ws:80/bF3y9W/68GSme/191421.ts
+#EXTINF:-1,Sabor & Arte 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/112013.ts
+#EXTINF:-1,Sabor & Arte FHD
+http://acsa.ws:80/bF3y9W/68GSme/112017.ts
+#EXTINF:-1,Sabor & Arte FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/112014.ts
+#EXTINF:-1,Sabor & Arte HD
+http://acsa.ws:80/bF3y9W/68GSme/112016.ts
+#EXTINF:-1,Sabor & Arte SD
+http://acsa.ws:80/bF3y9W/68GSme/112015.ts
+#EXTINF:-1,SANTIAGO DOS MARES HD
+http://acsa.ws:80/bF3y9W/68GSme/191371.ts
+#EXTINF:-1,SANTUARIO DE FATIMA FHD
+http://acsa.ws:80/bF3y9W/68GSme/191344.ts
+#EXTINF:-1,SBT Rede Massa PR HD
+http://acsa.ws:80/bF3y9W/68GSme/72305.ts
+#EXTINF:-1,SBT RJ FHD
+http://acsa.ws:80/bF3y9W/68GSme/108681.ts
+#EXTINF:-1,SBT RJ HD
+http://acsa.ws:80/bF3y9W/68GSme/108682.ts
+#EXTINF:-1,SBT RJ SD
+http://acsa.ws:80/bF3y9W/68GSme/108683.ts
+#EXTINF:-1,SBT RS HD
+http://acsa.ws:80/bF3y9W/68GSme/75028.ts
+#EXTINF:-1,SBT SP FHD
+http://acsa.ws:80/bF3y9W/68GSme/77963.ts
+#EXTINF:-1,SBT SP FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/104939.ts
+#EXTINF:-1,SBT SP HD
+http://acsa.ws:80/bF3y9W/68GSme/72598.ts
+#EXTINF:-1,SBT SP SD
+http://acsa.ws:80/bF3y9W/68GSme/77964.ts
+#EXTINF:-1,SBT TV Alterosa HD
+http://acsa.ws:80/bF3y9W/68GSme/72621.ts
+#EXTINF:-1,Shoptime SD
+http://acsa.ws:80/bF3y9W/68GSme/72311.ts
+#EXTINF:-1,SIC Caras HD
+http://acsa.ws:80/bF3y9W/68GSme/191419.ts
+#EXTINF:-1,SIC FHD
+http://acsa.ws:80/bF3y9W/68GSme/191409.ts
+#EXTINF:-1,SIC HD
+http://acsa.ws:80/bF3y9W/68GSme/191407.ts
+#EXTINF:-1,SIC KIDS HD
+http://acsa.ws:80/bF3y9W/68GSme/191388.ts
+#EXTINF:-1,SIC MULHER HD
+http://acsa.ws:80/bF3y9W/68GSme/191420.ts
+#EXTINF:-1,SIC NOTICIAS FHD
+http://acsa.ws:80/bF3y9W/68GSme/191162.ts
+#EXTINF:-1,SIC NOTICIAS HD
+http://acsa.ws:80/bF3y9W/68GSme/191161.ts
+#EXTINF:-1,SIC NOTICIAS SD
+http://acsa.ws:80/bF3y9W/68GSme/191160.ts
+#EXTINF:-1,SIC RADICAL FHD
+http://acsa.ws:80/bF3y9W/68GSme/191424.ts
+#EXTINF:-1,SIC RADICAL HD
+http://acsa.ws:80/bF3y9W/68GSme/191423.ts
+#EXTINF:-1,SIC RADICAL SD
+http://acsa.ws:80/bF3y9W/68GSme/191422.ts
+#EXTINF:-1,SIC SD
+http://acsa.ws:80/bF3y9W/68GSme/191406.ts
+#EXTINF:-1,SIC [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191408.ts
+#EXTINF:-1,Space 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90633.ts
+#EXTINF:-1,Space FHD
+http://acsa.ws:80/bF3y9W/68GSme/72317.ts
+#EXTINF:-1,Space FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72318.ts
+#EXTINF:-1,Space FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90677.ts
+#EXTINF:-1,Space HD
+http://acsa.ws:80/bF3y9W/68GSme/72319.ts
+#EXTINF:-1,Space HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90676.ts
+#EXTINF:-1,Space SD
+http://acsa.ws:80/bF3y9W/68GSme/72320.ts
+#EXTINF:-1,Space SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90675.ts
+#EXTINF:-1,SPORT TV +  HD
+http://acsa.ws:80/bF3y9W/68GSme/191239.ts
+#EXTINF:-1,SPORT TV + FHD
+http://acsa.ws:80/bF3y9W/68GSme/191240.ts
+#EXTINF:-1,SPORT TV + SD
+http://acsa.ws:80/bF3y9W/68GSme/191238.ts
+#EXTINF:-1,SPORT TV + [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191241.ts
+#EXTINF:-1,SPORT TV 1 4K
+http://acsa.ws:80/bF3y9W/68GSme/191245.ts
+#EXTINF:-1,SPORT TV 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191244.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/191243.ts
+#EXTINF:-1,SPORT TV 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/191242.ts
+#EXTINF:-1,SPORT TV 1 [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191246.ts
+#EXTINF:-1,SPORT TV 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191249.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/191248.ts
+#EXTINF:-1,SPORT TV 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/191247.ts
+#EXTINF:-1,SPORT TV 2 [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191250.ts
+#EXTINF:-1,SPORT TV 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191253.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/191252.ts
+#EXTINF:-1,SPORT TV 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/191251.ts
+#EXTINF:-1,SPORT TV 3 [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191254.ts
+#EXTINF:-1,SPORT TV 4 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191257.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/191256.ts
+#EXTINF:-1,SPORT TV 4 SD
+http://acsa.ws:80/bF3y9W/68GSme/191255.ts
+#EXTINF:-1,SPORT TV 4 [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191258.ts
+#EXTINF:-1,SPORT TV 5 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191261.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://acsa.ws:80/bF3y9W/68GSme/191260.ts
+#EXTINF:-1,SPORT TV 5 SD
+http://acsa.ws:80/bF3y9W/68GSme/191259.ts
+#EXTINF:-1,SPORT TV 5 [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191262.ts
+#EXTINF:-1,SPORT TV 6 FHD
+http://acsa.ws:80/bF3y9W/68GSme/191264.ts
+#EXTINF:-1,SPORT TV 6 HD
+http://acsa.ws:80/bF3y9W/68GSme/191263.ts
+#EXTINF:-1,SPORT TV 6 [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191265.ts
+#EXTINF:-1,SPORT TV NBA FHD
+http://acsa.ws:80/bF3y9W/68GSme/191268.ts
+#EXTINF:-1,SPORT TV NBA HD
+http://acsa.ws:80/bF3y9W/68GSme/191267.ts
+#EXTINF:-1,SPORT TV NBA SD
+http://acsa.ws:80/bF3y9W/68GSme/191266.ts
+#EXTINF:-1,SPORT TV NBA [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191269.ts
+#EXTINF:-1,SPORTING TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/191275.ts
+#EXTINF:-1,SPORTING TV SD
+http://acsa.ws:80/bF3y9W/68GSme/191274.ts
+#EXTINF:-1,SporTV 2 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103472.ts
+#EXTINF:-1,SporTV 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72321.ts
+#EXTINF:-1,SporTV 2 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/131147.ts
+#EXTINF:-1,SporTV 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/131176.ts
+#EXTINF:-1,SporTV 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/72324.ts
+#EXTINF:-1,SporTV 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/72325.ts
+#EXTINF:-1,SporTV 3 FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72326.ts
+#EXTINF:-1,SporTV 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/131113.ts
+#EXTINF:-1,SporTV 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/131108.ts
+#EXTINF:-1,SporTV 4K [H265]
+http://acsa.ws:80/bF3y9W/68GSme/187829.ts
+#EXTINF:-1,SporTV 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/131188.ts
+#EXTINF:-1,SporTV FHD
+http://acsa.ws:80/bF3y9W/68GSme/72329.ts
+#EXTINF:-1,SporTV FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72330.ts
+#EXTINF:-1,SporTV HD
+http://acsa.ws:80/bF3y9W/68GSme/72332.ts
+#EXTINF:-1,SporTV SD
+http://acsa.ws:80/bF3y9W/68GSme/131132.ts
+#EXTINF:-1,SporTV3 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103471.ts
+#EXTINF:-1,Star + 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/142032.ts
+#EXTINF:-1,Star + 1 HD
+http://acsa.ws:80/bF3y9W/68GSme/128347.ts
+#EXTINF:-1,Star + 1 SD
+http://acsa.ws:80/bF3y9W/68GSme/142033.ts
+#EXTINF:-1,Star + 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/142034.ts
+#EXTINF:-1,Star + 2 HD
+http://acsa.ws:80/bF3y9W/68GSme/129345.ts
+#EXTINF:-1,Star + 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/142035.ts
+#EXTINF:-1,Star + 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/142036.ts
+#EXTINF:-1,Star + 3 HD
+http://acsa.ws:80/bF3y9W/68GSme/129346.ts
+#EXTINF:-1,Star + 3 SD
+http://acsa.ws:80/bF3y9W/68GSme/142037.ts
+#EXTINF:-1,Star + 4 FHD
+http://acsa.ws:80/bF3y9W/68GSme/142038.ts
+#EXTINF:-1,Star + 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/129347.ts
+#EXTINF:-1,Star + 4 SD
+http://acsa.ws:80/bF3y9W/68GSme/142039.ts
+#EXTINF:-1,STAR + HD
+http://acsa.ws:80/bF3y9W/68GSme/191204.ts
+#EXTINF:-1,Star Channel 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90249.ts
+#EXTINF:-1,Star Channel FHD
+http://acsa.ws:80/bF3y9W/68GSme/71936.ts
+#EXTINF:-1,Star Channel FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/71937.ts
+#EXTINF:-1,Star Channel FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90707.ts
+#EXTINF:-1,Star Channel HD
+http://acsa.ws:80/bF3y9W/68GSme/71938.ts
+#EXTINF:-1,Star Channel HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90706.ts
+#EXTINF:-1,Star Channel SD
+http://acsa.ws:80/bF3y9W/68GSme/71951.ts
+#EXTINF:-1,Star Channel SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90705.ts
+#EXTINF:-1,Studio Universal 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103467.ts
+#EXTINF:-1,Studio Universal FHD
+http://acsa.ws:80/bF3y9W/68GSme/72334.ts
+#EXTINF:-1,Studio Universal FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72335.ts
+#EXTINF:-1,Studio Universal HD
+http://acsa.ws:80/bF3y9W/68GSme/72336.ts
+#EXTINF:-1,Studio Universal SD
+http://acsa.ws:80/bF3y9W/68GSme/72337.ts
+#EXTINF:-1,SYFY 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103474.ts
+#EXTINF:-1,SyFy FHD
+http://acsa.ws:80/bF3y9W/68GSme/72338.ts
+#EXTINF:-1,SYFY FHD
+http://acsa.ws:80/bF3y9W/68GSme/191221.ts
+#EXTINF:-1,SyFy FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72339.ts
+#EXTINF:-1,SyFy HD
+http://acsa.ws:80/bF3y9W/68GSme/72340.ts
+#EXTINF:-1,SYFY HD
+http://acsa.ws:80/bF3y9W/68GSme/191220.ts
+#EXTINF:-1,SyFy SD
+http://acsa.ws:80/bF3y9W/68GSme/72341.ts
+#EXTINF:-1,SYFY SD
+http://acsa.ws:80/bF3y9W/68GSme/191219.ts
+#EXTINF:-1,TNT Novelas 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103466.ts
+#EXTINF:-1,TNT Novelas FHD
+http://acsa.ws:80/bF3y9W/68GSme/72342.ts
+#EXTINF:-1,TNT Novelas FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72343.ts
+#EXTINF:-1,TNT Novelas HD
+http://acsa.ws:80/bF3y9W/68GSme/72344.ts
+#EXTINF:-1,TNT Novelas SD
+http://acsa.ws:80/bF3y9W/68GSme/72345.ts
+#EXTINF:-1,TCM FHD
+http://acsa.ws:80/bF3y9W/68GSme/184049.ts
+#EXTINF:-1,TCM HD
+http://acsa.ws:80/bF3y9W/68GSme/184050.ts
+#EXTINF:-1,TCM SD
+http://acsa.ws:80/bF3y9W/68GSme/184051.ts
+#EXTINF:-1,TCV INTERNACIONAL
+http://acsa.ws:80/bF3y9W/68GSme/191345.ts
+#EXTINF:-1,Telecine Action 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90239.ts
+#EXTINF:-1,Telecine Action FHD
+http://acsa.ws:80/bF3y9W/68GSme/72346.ts
+#EXTINF:-1,Telecine Action FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72347.ts
+#EXTINF:-1,Telecine Action FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90668.ts
+#EXTINF:-1,Telecine Action HD
+http://acsa.ws:80/bF3y9W/68GSme/72348.ts
+#EXTINF:-1,Telecine Action HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90667.ts
+#EXTINF:-1,Telecine Action SD
+http://acsa.ws:80/bF3y9W/68GSme/72349.ts
+#EXTINF:-1,Telecine Action SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90666.ts
+#EXTINF:-1,Telecine Cult 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103456.ts
+#EXTINF:-1,Telecine Cult FHD
+http://acsa.ws:80/bF3y9W/68GSme/72350.ts
+#EXTINF:-1,Telecine Cult FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72351.ts
+#EXTINF:-1,Telecine Cult FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90665.ts
+#EXTINF:-1,Telecine Cult HD
+http://acsa.ws:80/bF3y9W/68GSme/72352.ts
+#EXTINF:-1,Telecine Cult HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90664.ts
+#EXTINF:-1,Telecine Cult SD
+http://acsa.ws:80/bF3y9W/68GSme/72353.ts
+#EXTINF:-1,Telecine Cult SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90663.ts
+#EXTINF:-1,Telecine Fun 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103455.ts
+#EXTINF:-1,Telecine Fun FHD
+http://acsa.ws:80/bF3y9W/68GSme/72354.ts
+#EXTINF:-1,Telecine Fun FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72355.ts
+#EXTINF:-1,Telecine Fun FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90662.ts
+#EXTINF:-1,Telecine Fun HD
+http://acsa.ws:80/bF3y9W/68GSme/72356.ts
+#EXTINF:-1,Telecine Fun HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90661.ts
+#EXTINF:-1,Telecine Fun SD
+http://acsa.ws:80/bF3y9W/68GSme/72357.ts
+#EXTINF:-1,Telecine Fun SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90660.ts
+#EXTINF:-1,Telecine Pipoca 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90238.ts
+#EXTINF:-1,Telecine Pipoca FHD
+http://acsa.ws:80/bF3y9W/68GSme/72358.ts
+#EXTINF:-1,Telecine Pipoca FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72359.ts
+#EXTINF:-1,Telecine Pipoca FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90659.ts
+#EXTINF:-1,Telecine Pipoca HD
+http://acsa.ws:80/bF3y9W/68GSme/72360.ts
+#EXTINF:-1,Telecine Pipoca HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90658.ts
+#EXTINF:-1,Telecine Pipoca SD
+http://acsa.ws:80/bF3y9W/68GSme/72361.ts
+#EXTINF:-1,Telecine Pipoca SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90657.ts
+#EXTINF:-1,Telecine Premium 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90237.ts
+#EXTINF:-1,Telecine Premium FHD
+http://acsa.ws:80/bF3y9W/68GSme/72362.ts
+#EXTINF:-1,Telecine Premium FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72363.ts
+#EXTINF:-1,Telecine Premium FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90656.ts
+#EXTINF:-1,Telecine Premium HD
+http://acsa.ws:80/bF3y9W/68GSme/72364.ts
+#EXTINF:-1,Telecine Premium HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90655.ts
+#EXTINF:-1,Telecine Premium SD
+http://acsa.ws:80/bF3y9W/68GSme/72365.ts
+#EXTINF:-1,Telecine Premium SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90654.ts
+#EXTINF:-1,Telecine Touch 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103454.ts
+#EXTINF:-1,Telecine Touch FHD
+http://acsa.ws:80/bF3y9W/68GSme/72366.ts
+#EXTINF:-1,Telecine Touch FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72367.ts
+#EXTINF:-1,Telecine Touch FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90653.ts
+#EXTINF:-1,Telecine Touch HD
+http://acsa.ws:80/bF3y9W/68GSme/72368.ts
+#EXTINF:-1,Telecine Touch HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90652.ts
+#EXTINF:-1,Telecine Touch SD
+http://acsa.ws:80/bF3y9W/68GSme/72369.ts
+#EXTINF:-1,Telecine Touch SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90651.ts
+#EXTINF:-1,TELEVISIÓN DE GALICIA
+http://acsa.ws:80/bF3y9W/68GSme/191171.ts
+#EXTINF:-1,TLC 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103465.ts
+#EXTINF:-1,TLC FHD
+http://acsa.ws:80/bF3y9W/68GSme/72371.ts
+#EXTINF:-1,TLC FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72372.ts
+#EXTINF:-1,TLC HD
+http://acsa.ws:80/bF3y9W/68GSme/72373.ts
+#EXTINF:-1,TLC SD
+http://acsa.ws:80/bF3y9W/68GSme/72374.ts
+#EXTINF:-1,TLC SD
+http://acsa.ws:80/bF3y9W/68GSme/191426.ts
+#EXTINF:-1,TNT 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/72377.ts
+#EXTINF:-1,TNT FHD
+http://acsa.ws:80/bF3y9W/68GSme/72375.ts
+#EXTINF:-1,TNT FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72376.ts
+#EXTINF:-1,TNT FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90674.ts
+#EXTINF:-1,TNT HD
+http://acsa.ws:80/bF3y9W/68GSme/72378.ts
+#EXTINF:-1,TNT HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90673.ts
+#EXTINF:-1,TNT SD
+http://acsa.ws:80/bF3y9W/68GSme/72379.ts
+#EXTINF:-1,TNT SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90672.ts
+#EXTINF:-1,TNT Series 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/72382.ts
+#EXTINF:-1,TNT Series FHD
+http://acsa.ws:80/bF3y9W/68GSme/72380.ts
+#EXTINF:-1,TNT Series FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72381.ts
+#EXTINF:-1,TNT Series FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90671.ts
+#EXTINF:-1,TNT Series HD
+http://acsa.ws:80/bF3y9W/68GSme/72383.ts
+#EXTINF:-1,TNT Series HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90670.ts
+#EXTINF:-1,TNT Series SD
+http://acsa.ws:80/bF3y9W/68GSme/72384.ts
+#EXTINF:-1,TNT Series SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90669.ts
+#EXTINF:-1,Tooncast SD
+http://acsa.ws:80/bF3y9W/68GSme/72385.ts
+#EXTINF:-1,TOROS TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/191308.ts
+#EXTINF:-1,TOROS TV HD
+http://acsa.ws:80/bF3y9W/68GSme/191307.ts
+#EXTINF:-1,TOROS TV SD
+http://acsa.ws:80/bF3y9W/68GSme/191306.ts
+#EXTINF:-1,TPA INTERNACIONAL SD
+http://acsa.ws:80/bF3y9W/68GSme/191343.ts
+#EXTINF:-1,Trace Brazuca 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103453.ts
+#EXTINF:-1,Trace Brazuca FHD
+http://acsa.ws:80/bF3y9W/68GSme/72386.ts
+#EXTINF:-1,Trace Brazuca FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72387.ts
+#EXTINF:-1,Trace Brazuca HD
+http://acsa.ws:80/bF3y9W/68GSme/72388.ts
+#EXTINF:-1,Trace Brazuca SD
+http://acsa.ws:80/bF3y9W/68GSme/72389.ts
+#EXTINF:-1,TRACE URBAN
+http://acsa.ws:80/bF3y9W/68GSme/191330.ts
+#EXTINF:-1,Travel Box Brazil 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103452.ts
+#EXTINF:-1,Travel Box Brazil FHD
+http://acsa.ws:80/bF3y9W/68GSme/72390.ts
+#EXTINF:-1,Travel Box Brazil FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72391.ts
+#EXTINF:-1,Travel Box Brazil HD
+http://acsa.ws:80/bF3y9W/68GSme/72392.ts
+#EXTINF:-1,Travel Box Brazil SD
+http://acsa.ws:80/bF3y9W/68GSme/72393.ts
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://acsa.ws:80/bF3y9W/68GSme/191432.ts
+#EXTINF:-1,TRAVELXP HD
+http://acsa.ws:80/bF3y9W/68GSme/191356.ts
+#EXTINF:-1,TRT WORLD
+http://acsa.ws:80/bF3y9W/68GSme/191167.ts
+#EXTINF:-1,TruTV FHD
+http://acsa.ws:80/bF3y9W/68GSme/76668.ts
+#EXTINF:-1,TruTV HD
+http://acsa.ws:80/bF3y9W/68GSme/76669.ts
+#EXTINF:-1,TruTV SD
+http://acsa.ws:80/bF3y9W/68GSme/76670.ts
+#EXTINF:-1,TV Aparecida 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103464.ts
+#EXTINF:-1,TV Aparecida FHD
+http://acsa.ws:80/bF3y9W/68GSme/72394.ts
+#EXTINF:-1,TV Aparecida FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72395.ts
+#EXTINF:-1,TV Aparecida HD
+http://acsa.ws:80/bF3y9W/68GSme/72396.ts
+#EXTINF:-1,TV Aparecida SD
+http://acsa.ws:80/bF3y9W/68GSme/72397.ts
+#EXTINF:-1,TV Aratu SBT Bahia HD
+http://acsa.ws:80/bF3y9W/68GSme/73260.ts
+#EXTINF:-1,TV Brasil 2 SD
+http://acsa.ws:80/bF3y9W/68GSme/72398.ts
+#EXTINF:-1,TV Brasil 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103463.ts
+#EXTINF:-1,TV Brasil FHD
+http://acsa.ws:80/bF3y9W/68GSme/72399.ts
+#EXTINF:-1,TV Brasil FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72400.ts
+#EXTINF:-1,TV Brasil HD
+http://acsa.ws:80/bF3y9W/68GSme/72401.ts
+#EXTINF:-1,TV Brasil SD
+http://acsa.ws:80/bF3y9W/68GSme/72402.ts
+#EXTINF:-1,TV Camara SD
+http://acsa.ws:80/bF3y9W/68GSme/72403.ts
+#EXTINF:-1,TV Cancao Nova SD
+http://acsa.ws:80/bF3y9W/68GSme/72404.ts
+#EXTINF:-1,TV Cidade - RECORDTV 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103462.ts
+#EXTINF:-1,TV Cidade RecordTV FHD
+http://acsa.ws:80/bF3y9W/68GSme/92666.ts
+#EXTINF:-1,TV Cidade RecordTV FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/92667.ts
+#EXTINF:-1,TV Cidade RecordTV HD
+http://acsa.ws:80/bF3y9W/68GSme/92668.ts
+#EXTINF:-1,TV Cidade RecordTV SD
+http://acsa.ws:80/bF3y9W/68GSme/92669.ts
+#EXTINF:-1,TV CINE ACTION FHD
+http://acsa.ws:80/bF3y9W/68GSme/191184.ts
+#EXTINF:-1,TV CINE ACTION HD
+http://acsa.ws:80/bF3y9W/68GSme/191183.ts
+#EXTINF:-1,TV CINE ACTION SD
+http://acsa.ws:80/bF3y9W/68GSme/191182.ts
+#EXTINF:-1,TV CINE EDITION FHD
+http://acsa.ws:80/bF3y9W/68GSme/191178.ts
+#EXTINF:-1,TV CINE EDITION HD
+http://acsa.ws:80/bF3y9W/68GSme/191177.ts
+#EXTINF:-1,TV CINE EDITION SD
+http://acsa.ws:80/bF3y9W/68GSme/191176.ts
+#EXTINF:-1,TV CINE EMOTION FHD
+http://acsa.ws:80/bF3y9W/68GSme/191181.ts
+#EXTINF:-1,TV CINE EMOTION HD
+http://acsa.ws:80/bF3y9W/68GSme/191180.ts
+#EXTINF:-1,TV CINE EMOTION SD
+http://acsa.ws:80/bF3y9W/68GSme/191179.ts
+#EXTINF:-1,TV CINE TOP FHD
+http://acsa.ws:80/bF3y9W/68GSme/191175.ts
+#EXTINF:-1,TV CINE TOP HD
+http://acsa.ws:80/bF3y9W/68GSme/191174.ts
+#EXTINF:-1,TV CINE TOP SD
+http://acsa.ws:80/bF3y9W/68GSme/191173.ts
+#EXTINF:-1,TV Diario 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103461.ts
+#EXTINF:-1,TV Diario Fortaleza FHD
+http://acsa.ws:80/bF3y9W/68GSme/92670.ts
+#EXTINF:-1,TV Diario Fortaleza HD
+http://acsa.ws:80/bF3y9W/68GSme/72593.ts
+#EXTINF:-1,TV Diario Fortaleza SD
+http://acsa.ws:80/bF3y9W/68GSme/92671.ts
+#EXTINF:-1,TV Evangelizar SD
+http://acsa.ws:80/bF3y9W/68GSme/72628.ts
+#EXTINF:-1,TV Gazeta FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/104919.ts
+#EXTINF:-1,TV Gazeta SP 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/178520.ts
+#EXTINF:-1,TV Gazeta SP FHD
+http://acsa.ws:80/bF3y9W/68GSme/104917.ts
+#EXTINF:-1,TV Gazeta SP HD
+http://acsa.ws:80/bF3y9W/68GSme/72406.ts
+#EXTINF:-1,TV Gazeta SP SD
+http://acsa.ws:80/bF3y9W/68GSme/104918.ts
+#EXTINF:-1,TV Gazeta SP [H265]
+http://acsa.ws:80/bF3y9W/68GSme/178519.ts
+#EXTINF:-1,TV GLOBO FHD
+http://acsa.ws:80/bF3y9W/68GSme/191416.ts
+#EXTINF:-1,TV GLOBO HD
+http://acsa.ws:80/bF3y9W/68GSme/191415.ts
+#EXTINF:-1,TV GLOBO NOW SD
+http://acsa.ws:80/bF3y9W/68GSme/191417.ts
+#EXTINF:-1,TV GLOBO SD
+http://acsa.ws:80/bF3y9W/68GSme/191414.ts
+#EXTINF:-1,TV Jangadeiro - SBT 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103460.ts
+#EXTINF:-1,TV Jangadeiro - SBT FHD
+http://acsa.ws:80/bF3y9W/68GSme/100416.ts
+#EXTINF:-1,TV Jangadeiro - SBT FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/100417.ts
+#EXTINF:-1,TV Jangadeiro - SBT HD
+http://acsa.ws:80/bF3y9W/68GSme/100418.ts
+#EXTINF:-1,TV Jangadeiro - SBT SD
+http://acsa.ws:80/bF3y9W/68GSme/100419.ts
+#EXTINF:-1,TV Justiça SD
+http://acsa.ws:80/bF3y9W/68GSme/77620.ts
+#EXTINF:-1,TV Novo Tempo 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103459.ts
+#EXTINF:-1,TV Novo Tempo FHD
+http://acsa.ws:80/bF3y9W/68GSme/72408.ts
+#EXTINF:-1,TV Novo Tempo FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72409.ts
+#EXTINF:-1,TV Novo Tempo HD
+http://acsa.ws:80/bF3y9W/68GSme/72410.ts
+#EXTINF:-1,TV Novo Tempo SD
+http://acsa.ws:80/bF3y9W/68GSme/72411.ts
+#EXTINF:-1,TV Ra Tim Bum 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103458.ts
+#EXTINF:-1,TV Ra-Tim-Bum FHD
+http://acsa.ws:80/bF3y9W/68GSme/72412.ts
+#EXTINF:-1,TV Ra-Tim-Bum FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72413.ts
+#EXTINF:-1,TV Ra-Tim-Bum HD
+http://acsa.ws:80/bF3y9W/68GSme/72414.ts
+#EXTINF:-1,TV Ra-Tim-Bum SD
+http://acsa.ws:80/bF3y9W/68GSme/72415.ts
+#EXTINF:-1,TV RECORD HD
+http://acsa.ws:80/bF3y9W/68GSme/191418.ts
+#EXTINF:-1,TV Senado SD
+http://acsa.ws:80/bF3y9W/68GSme/72416.ts
+#EXTINF:-1,TV Uniao 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103457.ts
+#EXTINF:-1,TV Uniao Fortaleza FHD
+http://acsa.ws:80/bF3y9W/68GSme/100420.ts
+#EXTINF:-1,TV Uniao Fortaleza FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/100422.ts
+#EXTINF:-1,TV Uniao Fortaleza HD
+http://acsa.ws:80/bF3y9W/68GSme/100423.ts
+#EXTINF:-1,TV Uniao Fortaleza SD
+http://acsa.ws:80/bF3y9W/68GSme/100424.ts
+#EXTINF:-1,TVC CABO VERDE
+http://acsa.ws:80/bF3y9W/68GSme/191346.ts
+#EXTINF:-1,TVCINE + HD
+http://acsa.ws:80/bF3y9W/68GSme/191172.ts
+#EXTINF:-1,TVE - YouTube
+http://acsa.ws:80/bF3y9W/68GSme/184588.ts
+#EXTINF:-1,TVE 24H
+http://acsa.ws:80/bF3y9W/68GSme/191170.ts
+#EXTINF:-1,TVE INTERNACIONAL
+http://acsa.ws:80/bF3y9W/68GSme/191169.ts
+#EXTINF:-1,TVI FHD
+http://acsa.ws:80/bF3y9W/68GSme/191413.ts
+#EXTINF:-1,TVI FICÇÃO FHD
+http://acsa.ws:80/bF3y9W/68GSme/191397.ts
+#EXTINF:-1,TVI FICÇÃO HD
+http://acsa.ws:80/bF3y9W/68GSme/191396.ts
+#EXTINF:-1,TVI FICÇÃO SD
+http://acsa.ws:80/bF3y9W/68GSme/191395.ts
+#EXTINF:-1,TVI HD
+http://acsa.ws:80/bF3y9W/68GSme/191411.ts
+#EXTINF:-1,TVI REALITY CAM 1
+http://acsa.ws:80/bF3y9W/68GSme/191352.ts
+#EXTINF:-1,TVI REALITY CAM 2
+http://acsa.ws:80/bF3y9W/68GSme/191353.ts
+#EXTINF:-1,TVI REALITY CAM 3
+http://acsa.ws:80/bF3y9W/68GSme/191354.ts
+#EXTINF:-1,TVI REALITY CAM 4
+http://acsa.ws:80/bF3y9W/68GSme/191355.ts
+#EXTINF:-1,TVI REALITY FHD
+http://acsa.ws:80/bF3y9W/68GSme/191351.ts
+#EXTINF:-1,TVI REALITY HD
+http://acsa.ws:80/bF3y9W/68GSme/191350.ts
+#EXTINF:-1,TVI REALITY MOSAICO
+http://acsa.ws:80/bF3y9W/68GSme/191348.ts
+#EXTINF:-1,TVI REALITY SD
+http://acsa.ws:80/bF3y9W/68GSme/191349.ts
+#EXTINF:-1,TVI SD
+http://acsa.ws:80/bF3y9W/68GSme/191410.ts
+#EXTINF:-1,TVI [H265]
+http://acsa.ws:80/bF3y9W/68GSme/191412.ts
+#EXTINF:-1,UFC Fight Pass FHD
+http://acsa.ws:80/bF3y9W/68GSme/184046.ts
+#EXTINF:-1,UFC Fight Pass HD
+http://acsa.ws:80/bF3y9W/68GSme/184047.ts
+#EXTINF:-1,UFC Fight Pass SD
+http://acsa.ws:80/bF3y9W/68GSme/184048.ts
+#EXTINF:-1,UFC FIGTH PASS FHD
+http://acsa.ws:80/bF3y9W/68GSme/191324.ts
+#EXTINF:-1,Universal TV 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90632.ts
+#EXTINF:-1,Universal TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/72419.ts
+#EXTINF:-1,Universal TV FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72420.ts
+#EXTINF:-1,Universal TV HD
+http://acsa.ws:80/bF3y9W/68GSme/72421.ts
+#EXTINF:-1,Universal TV SD
+http://acsa.ws:80/bF3y9W/68GSme/72422.ts
+#EXTINF:-1,VH1 SD
+http://acsa.ws:80/bF3y9W/68GSme/191329.ts
+#EXTINF:-1,Viva 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103450.ts
+#EXTINF:-1,Viva FHD
+http://acsa.ws:80/bF3y9W/68GSme/72427.ts
+#EXTINF:-1,Viva FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72428.ts
+#EXTINF:-1,Viva HD
+http://acsa.ws:80/bF3y9W/68GSme/72429.ts
+#EXTINF:-1,Viva SD
+http://acsa.ws:80/bF3y9W/68GSme/72430.ts
+#EXTINF:-1,Warner Channel 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/90236.ts
+#EXTINF:-1,Warner Channel FHD
+http://acsa.ws:80/bF3y9W/68GSme/72431.ts
+#EXTINF:-1,Warner Channel FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72432.ts
+#EXTINF:-1,Warner Channel FHD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90650.ts
+#EXTINF:-1,Warner Channel HD
+http://acsa.ws:80/bF3y9W/68GSme/72433.ts
+#EXTINF:-1,Warner Channel HD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90649.ts
+#EXTINF:-1,Warner Channel SD
+http://acsa.ws:80/bF3y9W/68GSme/72434.ts
+#EXTINF:-1,Warner Channel SD [LEG]
+http://acsa.ws:80/bF3y9W/68GSme/90648.ts
+#EXTINF:-1,Woohoo 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103449.ts
+#EXTINF:-1,WooHoo FHD
+http://acsa.ws:80/bF3y9W/68GSme/72435.ts
+#EXTINF:-1,WooHoo FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72436.ts
+#EXTINF:-1,WooHoo HD
+http://acsa.ws:80/bF3y9W/68GSme/72437.ts
+#EXTINF:-1,WooHoo SD
+http://acsa.ws:80/bF3y9W/68GSme/72438.ts
+#EXTINF:-1,WWE HD
+http://acsa.ws:80/bF3y9W/68GSme/191321.ts
+#EXTINF:-1,ZAP VIVA FHD
+http://acsa.ws:80/bF3y9W/68GSme/191341.ts
+#EXTINF:-1,Zoomoo 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/178533.ts
+#EXTINF:-1,Zoomoo FHD
+http://acsa.ws:80/bF3y9W/68GSme/104934.ts
+#EXTINF:-1,Zoomoo FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/104937.ts
+#EXTINF:-1,Zoomoo HD
+http://acsa.ws:80/bF3y9W/68GSme/104935.ts
+#EXTINF:-1,Zoomoo SD
+http://acsa.ws:80/bF3y9W/68GSme/104936.ts
+#EXTINF:-1,[24h] 101 Dalmatas
+http://acsa.ws:80/bF3y9W/68GSme/137614.ts
+#EXTINF:-1,[24H] 3 Palavrinhas
+http://acsa.ws:80/bF3y9W/68GSme/138711.ts
+#EXTINF:-1,[24H] 44 Gatos
+http://acsa.ws:80/bF3y9W/68GSme/137410.ts
+#EXTINF:-1,[24H] A Beleza Secreta dos Animais
+http://acsa.ws:80/bF3y9W/68GSme/138011.ts
+#EXTINF:-1,[24H] A Bruxinha Sabrina
+http://acsa.ws:80/bF3y9W/68GSme/138935.ts
+#EXTINF:-1,[24H] A Casa da Coruja
+http://acsa.ws:80/bF3y9W/68GSme/137411.ts
+#EXTINF:-1,[24H] A Casa da Coruja
+http://acsa.ws:80/bF3y9W/68GSme/151948.ts
+#EXTINF:-1,[24H] A Casa do Mickey Mouse
+http://acsa.ws:80/bF3y9W/68GSme/137412.ts
+#EXTINF:-1,[24H] A Casa Magica da Gabby
+http://acsa.ws:80/bF3y9W/68GSme/137137.ts
+#EXTINF:-1,[24H] A Cegonha da Perna Fina
+http://acsa.ws:80/bF3y9W/68GSme/138936.ts
+#EXTINF:-1,[24H] A Culpa e da Carlota
+http://acsa.ws:80/bF3y9W/68GSme/140763.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral Na Estrada
+http://acsa.ws:80/bF3y9W/68GSme/140764.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S01]
+http://acsa.ws:80/bF3y9W/68GSme/140765.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S02]
+http://acsa.ws:80/bF3y9W/68GSme/140766.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S03]
+http://acsa.ws:80/bF3y9W/68GSme/140767.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S04]
+http://acsa.ws:80/bF3y9W/68GSme/140768.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S05]
+http://acsa.ws:80/bF3y9W/68GSme/140769.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S06]
+http://acsa.ws:80/bF3y9W/68GSme/140770.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S07]
+http://acsa.ws:80/bF3y9W/68GSme/140771.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S08]
+http://acsa.ws:80/bF3y9W/68GSme/140772.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S09]
+http://acsa.ws:80/bF3y9W/68GSme/140773.ts
+#EXTINF:-1,[24H] A Culpa e do Cabral [S10]
+http://acsa.ws:80/bF3y9W/68GSme/140774.ts
+#EXTINF:-1,[24H] A Diarista
+http://acsa.ws:80/bF3y9W/68GSme/139273.ts
+#EXTINF:-1,[24H] A Familia Addams
+http://acsa.ws:80/bF3y9W/68GSme/138937.ts
+#EXTINF:-1,[24H] A Familia Dracula
+http://acsa.ws:80/bF3y9W/68GSme/152013.ts
+#EXTINF:-1,[24H] A Familia Urso
+http://acsa.ws:80/bF3y9W/68GSme/135544.ts
+#EXTINF:-1,[24H] A Formiga e O Tamandua
+http://acsa.ws:80/bF3y9W/68GSme/135535.ts
+#EXTINF:-1,[24H] A Grande Familia [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137413.ts
+#EXTINF:-1,[24H] A Grande Familia [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137414.ts
+#EXTINF:-1,[24H] A Grande Familia [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137415.ts
+#EXTINF:-1,[24H] A Grande Familia [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137416.ts
+#EXTINF:-1,[24H] A Grande Familia [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137417.ts
+#EXTINF:-1,[24H] A Grande Familia [S06]
+http://acsa.ws:80/bF3y9W/68GSme/137418.ts
+#EXTINF:-1,[24H] A Grande Familia [S07]
+http://acsa.ws:80/bF3y9W/68GSme/137419.ts
+#EXTINF:-1,[24H] A Grande Familia [S08]
+http://acsa.ws:80/bF3y9W/68GSme/137420.ts
+#EXTINF:-1,[24H] A Grande Familia [S09]
+http://acsa.ws:80/bF3y9W/68GSme/137421.ts
+#EXTINF:-1,[24H] A Grande Familia [S10]
+http://acsa.ws:80/bF3y9W/68GSme/137422.ts
+#EXTINF:-1,[24H] A Grande Familia [S11]
+http://acsa.ws:80/bF3y9W/68GSme/137423.ts
+#EXTINF:-1,[24H] A Grande Familia [S12]
+http://acsa.ws:80/bF3y9W/68GSme/137424.ts
+#EXTINF:-1,[24H] A Grande Familia [S13]
+http://acsa.ws:80/bF3y9W/68GSme/137425.ts
+#EXTINF:-1,[24H] A Grande Familia [S14]
+http://acsa.ws:80/bF3y9W/68GSme/137426.ts
+#EXTINF:-1,[24H] A Lula Lele
+http://acsa.ws:80/bF3y9W/68GSme/135536.ts
+#EXTINF:-1,[24H] A Pantera Cor de Rosa
+http://acsa.ws:80/bF3y9W/68GSme/135537.ts
+#EXTINF:-1,[24H] A Pequena Sereia
+http://acsa.ws:80/bF3y9W/68GSme/135538.ts
+#EXTINF:-1,[24H] A Turma do Charlie Brown e Snoopy
+http://acsa.ws:80/bF3y9W/68GSme/137409.ts
+#EXTINF:-1,[24H] A Turma do Manda Chuva
+http://acsa.ws:80/bF3y9W/68GSme/135539.ts
+#EXTINF:-1,[24H] A Turma do Pateta
+http://acsa.ws:80/bF3y9W/68GSme/138812.ts
+#EXTINF:-1,[24H] A Vaca e o Frango
+http://acsa.ws:80/bF3y9W/68GSme/135553.ts
+#EXTINF:-1,[24H] A Vila [S01]
+http://acsa.ws:80/bF3y9W/68GSme/140730.ts
+#EXTINF:-1,[24H] A Vila [S02]
+http://acsa.ws:80/bF3y9W/68GSme/140731.ts
+#EXTINF:-1,[24H] A Vila [S03]
+http://acsa.ws:80/bF3y9W/68GSme/140732.ts
+#EXTINF:-1,[24H] A Vila [S04]
+http://acsa.ws:80/bF3y9W/68GSme/140733.ts
+#EXTINF:-1,[24H] Aaahh!!! Monstros
+http://acsa.ws:80/bF3y9W/68GSme/135549.ts
+#EXTINF:-1,[24H] Acampamento Lakebottom
+http://acsa.ws:80/bF3y9W/68GSme/141493.ts
+#EXTINF:-1,[24H] Aeon Flux
+http://acsa.ws:80/bF3y9W/68GSme/136697.ts
+#EXTINF:-1,[24H] Aeroporto Area Restrita [S01]
+http://acsa.ws:80/bF3y9W/68GSme/150488.ts
+#EXTINF:-1,[24H] Aeroporto Area Restrita [S02]
+http://acsa.ws:80/bF3y9W/68GSme/150489.ts
+#EXTINF:-1,[24H] Aeroporto Area Restrita [S03]
+http://acsa.ws:80/bF3y9W/68GSme/150490.ts
+#EXTINF:-1,[24H] Agente K.C
+http://acsa.ws:80/bF3y9W/68GSme/155407.ts
+#EXTINF:-1,[24H] Aladdin
+http://acsa.ws:80/bF3y9W/68GSme/138730.ts
+#EXTINF:-1,[24H] Alf O Eteimoso
+http://acsa.ws:80/bF3y9W/68GSme/135550.ts
+#EXTINF:-1,[24H] Alien TV
+http://acsa.ws:80/bF3y9W/68GSme/140775.ts
+#EXTINF:-1,[24H] Alienigenas do Passado
+http://acsa.ws:80/bF3y9W/68GSme/140734.ts
+#EXTINF:-1,[24H] Ana Pimentinha
+http://acsa.ws:80/bF3y9W/68GSme/138939.ts
+#EXTINF:-1,[24H] Andy Panda
+http://acsa.ws:80/bF3y9W/68GSme/140776.ts
+#EXTINF:-1,[24H] Animaniacs (1993)
+http://acsa.ws:80/bF3y9W/68GSme/135540.ts
+#EXTINF:-1,[24H] Animaniacs (2020)
+http://acsa.ws:80/bF3y9W/68GSme/135541.ts
+#EXTINF:-1,[24H] Anota Ai
+http://acsa.ws:80/bF3y9W/68GSme/140777.ts
+#EXTINF:-1,[24H] Arquivo Morto [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138731.ts
+#EXTINF:-1,[24H] Arquivo Morto [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138732.ts
+#EXTINF:-1,[24H] Arquivo Morto [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138733.ts
+#EXTINF:-1,[24H] Arquivo Morto [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138734.ts
+#EXTINF:-1,[24H] Arquivo Morto [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138735.ts
+#EXTINF:-1,[24H] Arquivo Morto [S06]
+http://acsa.ws:80/bF3y9W/68GSme/138736.ts
+#EXTINF:-1,[24H] Arquivo Morto [S07]
+http://acsa.ws:80/bF3y9W/68GSme/138737.ts
+#EXTINF:-1,[24H] Arquivo X [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138738.ts
+#EXTINF:-1,[24H] Arquivo X [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138739.ts
+#EXTINF:-1,[24H] Arquivo X [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138740.ts
+#EXTINF:-1,[24H] Arquivo X [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138741.ts
+#EXTINF:-1,[24H] Arquivo X [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138742.ts
+#EXTINF:-1,[24H] Arquivo X [S06]
+http://acsa.ws:80/bF3y9W/68GSme/138743.ts
+#EXTINF:-1,[24H] Arquivo X [S07]
+http://acsa.ws:80/bF3y9W/68GSme/138744.ts
+#EXTINF:-1,[24H] Arquivo X [S08]
+http://acsa.ws:80/bF3y9W/68GSme/138745.ts
+#EXTINF:-1,[24H] Arquivo X [S09]
+http://acsa.ws:80/bF3y9W/68GSme/138746.ts
+#EXTINF:-1,[24H] Arquivo X [S10]
+http://acsa.ws:80/bF3y9W/68GSme/138747.ts
+#EXTINF:-1,[24H] Arquivo X [S11]
+http://acsa.ws:80/bF3y9W/68GSme/138748.ts
+#EXTINF:-1,[24H] As Aventura de Tom e Jerry
+http://acsa.ws:80/bF3y9W/68GSme/136815.ts
+#EXTINF:-1,[24H] As Aventuras de Jackie Chan
+http://acsa.ws:80/bF3y9W/68GSme/135542.ts
+#EXTINF:-1,[24H] As Aventuras do Batman
+http://acsa.ws:80/bF3y9W/68GSme/135543.ts
+#EXTINF:-1,[24H] As Aventuras do Gato de Botas
+http://acsa.ws:80/bF3y9W/68GSme/140528.ts
+#EXTINF:-1,[24H] As Meninas Superpoderosas
+http://acsa.ws:80/bF3y9W/68GSme/137138.ts
+#EXTINF:-1,[24H] As Novas Aventuras de Christine
+http://acsa.ws:80/bF3y9W/68GSme/138749.ts
+#EXTINF:-1,[24H] As Novas Aventuras do Superman
+http://acsa.ws:80/bF3y9W/68GSme/135554.ts
+#EXTINF:-1,[24H] As Novas Aventuras do Ursinho Puff
+http://acsa.ws:80/bF3y9W/68GSme/135557.ts
+#EXTINF:-1,[24H] As Tartarugas Ninja (1987)
+http://acsa.ws:80/bF3y9W/68GSme/150494.ts
+#EXTINF:-1,[24H] As Tartarugas Ninja [S01]
+http://acsa.ws:80/bF3y9W/68GSme/151613.ts
+#EXTINF:-1,[24H] As Tartarugas Ninja [S02]
+http://acsa.ws:80/bF3y9W/68GSme/151614.ts
+#EXTINF:-1,[24H] As Tartarugas Ninja [S03]
+http://acsa.ws:80/bF3y9W/68GSme/151615.ts
+#EXTINF:-1,[24H] As Tartarugas Ninja [S04]
+http://acsa.ws:80/bF3y9W/68GSme/151616.ts
+#EXTINF:-1,[24H] As Tartarugas Ninja [S05]
+http://acsa.ws:80/bF3y9W/68GSme/151617.ts
+#EXTINF:-1,[24H] As Terriveis Aventuras de Billy e Mandy
+http://acsa.ws:80/bF3y9W/68GSme/135551.ts
+#EXTINF:-1,[24H] As Visoes da Raven
+http://acsa.ws:80/bF3y9W/68GSme/135558.ts
+#EXTINF:-1,[24H] Austin e Ally
+http://acsa.ws:80/bF3y9W/68GSme/138750.ts
+#EXTINF:-1,[24H] B Positive
+http://acsa.ws:80/bF3y9W/68GSme/140778.ts
+#EXTINF:-1,[24H] Baby Looney Tunes
+http://acsa.ws:80/bF3y9W/68GSme/138813.ts
+#EXTINF:-1,[24H] Bake Off Brasil Celebridades
+http://acsa.ws:80/bF3y9W/68GSme/138017.ts
+#EXTINF:-1,[24H] Barbie Dreamhouse Adventures
+http://acsa.ws:80/bF3y9W/68GSme/135559.ts
+#EXTINF:-1,[24H] Barney e Seus Amigos
+http://acsa.ws:80/bF3y9W/68GSme/141494.ts
+#EXTINF:-1,[24H] Batalha Makers Brasil
+http://acsa.ws:80/bF3y9W/68GSme/138751.ts
+#EXTINF:-1,[24H] Ben 10 [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138715.ts
+#EXTINF:-1,[24H] Ben 10 [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138716.ts
+#EXTINF:-1,[24H] Ben 10 [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138717.ts
+#EXTINF:-1,[24H] Ben 10 [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138718.ts
+#EXTINF:-1,[24H] Betty a Feia
+http://acsa.ws:80/bF3y9W/68GSme/138018.ts
+#EXTINF:-1,[24H] Betty Em Nova York
+http://acsa.ws:80/bF3y9W/68GSme/138019.ts
+#EXTINF:-1,[24H] Beyblade [S01]
+http://acsa.ws:80/bF3y9W/68GSme/140543.ts
+#EXTINF:-1,[24H] Beyblade [S02] V Force
+http://acsa.ws:80/bF3y9W/68GSme/140544.ts
+#EXTINF:-1,[24H] Beyblade [S03] G Revolution
+http://acsa.ws:80/bF3y9W/68GSme/140545.ts
+#EXTINF:-1,[24H] Beyblade [S04] Metal Fusion
+http://acsa.ws:80/bF3y9W/68GSme/140546.ts
+#EXTINF:-1,[24H] Bibo Pai e Bobi Filho
+http://acsa.ws:80/bF3y9W/68GSme/145377.ts
+#EXTINF:-1,[24H] Big Mouth
+http://acsa.ws:80/bF3y9W/68GSme/135560.ts
+#EXTINF:-1,[24H] Black Kamen Rider
+http://acsa.ws:80/bF3y9W/68GSme/149549.ts
+#EXTINF:-1,[24H] Blaze e os Monster Machines
+http://acsa.ws:80/bF3y9W/68GSme/138752.ts
+#EXTINF:-1,[24H] Bleach - Arrankar A Chegada [S06]
+http://acsa.ws:80/bF3y9W/68GSme/138758.ts
+#EXTINF:-1,[24H] Bleach - Arrankar A Entrada Sorrateira no Hueco Mundo [S07]
+http://acsa.ws:80/bF3y9W/68GSme/138759.ts
+#EXTINF:-1,[24H] Bleach - Arrankar A Falsa Cidade de Karakura [S12]
+http://acsa.ws:80/bF3y9W/68GSme/138764.ts
+#EXTINF:-1,[24H] Bleach - Arrankar A Luta Feroz [S08]
+http://acsa.ws:80/bF3y9W/68GSme/138760.ts
+#EXTINF:-1,[24H] Bleach - Arrankar A Queda [S14]
+http://acsa.ws:80/bF3y9W/68GSme/138766.ts
+#EXTINF:-1,[24H] Bleach - Arrankar VS Shinigami [S10]
+http://acsa.ws:80/bF3y9W/68GSme/138762.ts
+#EXTINF:-1,[24H] Bleach - O Ataque dos Bounts a Sociedade das Almas [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138757.ts
+#EXTINF:-1,[24H] Bleach - O Conto da Zanpakuto Desconhecida [S13]
+http://acsa.ws:80/bF3y9W/68GSme/138765.ts
+#EXTINF:-1,[24H] Bleach - O Exercito de Invasao das 13 Divisoes [S15]
+http://acsa.ws:80/bF3y9W/68GSme/138767.ts
+#EXTINF:-1,[24H] Bleach - O Novo Capitao Amagai Shusuke [S09]
+http://acsa.ws:80/bF3y9W/68GSme/138761.ts
+#EXTINF:-1,[24H] Bleach - O Passado [S11]
+http://acsa.ws:80/bF3y9W/68GSme/138763.ts
+#EXTINF:-1,[24H] Bleach - O Shinigami Substituto Desaparecido [S16]
+http://acsa.ws:80/bF3y9W/68GSme/138768.ts
+#EXTINF:-1,[24H] Bleach - O Substituto [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138753.ts
+#EXTINF:-1,[24H] Bleach - Os Bounts [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138756.ts
+#EXTINF:-1,[24H] Bleach - Sociedade das Almas A Entrada [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138754.ts
+#EXTINF:-1,[24H] Bleach - Sociedade das Almas O Resgate [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138755.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138065.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138066.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138067.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138068.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138069.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S06]
+http://acsa.ws:80/bF3y9W/68GSme/138070.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S07]
+http://acsa.ws:80/bF3y9W/68GSme/138071.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S08]
+http://acsa.ws:80/bF3y9W/68GSme/138072.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S09]
+http://acsa.ws:80/bF3y9W/68GSme/138073.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S10]
+http://acsa.ws:80/bF3y9W/68GSme/138074.ts
+#EXTINF:-1,[24H] Bob Esponja Calca Quadrada [S11]
+http://acsa.ws:80/bF3y9W/68GSme/138075.ts
+#EXTINF:-1,[24H] Bojack Horseman
+http://acsa.ws:80/bF3y9W/68GSme/136694.ts
+#EXTINF:-1,[24H] Boku No Hero Academia [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138769.ts
+#EXTINF:-1,[24H] Boku No Hero Academia [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138770.ts
+#EXTINF:-1,[24H] Boku No Hero Academia [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138771.ts
+#EXTINF:-1,[24H] Boku No Hero Academia [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138772.ts
+#EXTINF:-1,[24H] Brilhante Victoria
+http://acsa.ws:80/bF3y9W/68GSme/138773.ts
+#EXTINF:-1,[24H] Cacadores de Bugs
+http://acsa.ws:80/bF3y9W/68GSme/138774.ts
+#EXTINF:-1,[24H] Cacadores de Dinossauros
+http://acsa.ws:80/bF3y9W/68GSme/138775.ts
+#EXTINF:-1,[24H] Cameras Escondidas Silvio Santos
+http://acsa.ws:80/bF3y9W/68GSme/152014.ts
+#EXTINF:-1,[24H] Casamento as Cegas Brasil [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138778.ts
+#EXTINF:-1,[24H] Casamento as Cegas [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138776.ts
+#EXTINF:-1,[24H] Casamento as Cegas [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138777.ts
+#EXTINF:-1,[24H] Castelo Ra-Tim-Bum
+http://acsa.ws:80/bF3y9W/68GSme/138728.ts
+#EXTINF:-1,[24H] Cavalo de Fogo
+http://acsa.ws:80/bF3y9W/68GSme/137613.ts
+#EXTINF:-1,[24H] Caverna do Dragao
+http://acsa.ws:80/bF3y9W/68GSme/135454.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138000.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138001.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138002.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138003.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138004.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S06]
+http://acsa.ws:80/bF3y9W/68GSme/138005.ts
+#EXTINF:-1,[24H] Chapolin Colorado [S07]
+http://acsa.ws:80/bF3y9W/68GSme/138006.ts
+#EXTINF:-1,[24H] Chaves Em Desenho Animado
+http://acsa.ws:80/bF3y9W/68GSme/140735.ts
+#EXTINF:-1,[24H] Chaves [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137139.ts
+#EXTINF:-1,[24H] Chaves [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137140.ts
+#EXTINF:-1,[24H] Chaves [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137141.ts
+#EXTINF:-1,[24H] Chaves [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137142.ts
+#EXTINF:-1,[24H] Chaves [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137143.ts
+#EXTINF:-1,[24H] Chaves [S06]
+http://acsa.ws:80/bF3y9W/68GSme/137144.ts
+#EXTINF:-1,[24H] Chaves [S07]
+http://acsa.ws:80/bF3y9W/68GSme/137145.ts
+#EXTINF:-1,[24H] Chesapeake Shores
+http://acsa.ws:80/bF3y9W/68GSme/139306.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138780.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138781.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138782.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138783.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138784.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S06]
+http://acsa.ws:80/bF3y9W/68GSme/138785.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S07]
+http://acsa.ws:80/bF3y9W/68GSme/138786.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S08]
+http://acsa.ws:80/bF3y9W/68GSme/138787.ts
+#EXTINF:-1,[24H] Chuck Norris O Homem da Lei [S09] [L]
+http://acsa.ws:80/bF3y9W/68GSme/150497.ts
+#EXTINF:-1,[24H] Cobra Kai [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138712.ts
+#EXTINF:-1,[24H] Cobra Kai [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138713.ts
+#EXTINF:-1,[24H] Cobra Kai [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138714.ts
+#EXTINF:-1,[24H] Cocorico
+http://acsa.ws:80/bF3y9W/68GSme/156653.ts
+#EXTINF:-1,[24H] Comidas Cheias de Historia
+http://acsa.ws:80/bF3y9W/68GSme/140779.ts
+#EXTINF:-1,[24H] Como Defender um Assassino [S01]
+http://acsa.ws:80/bF3y9W/68GSme/139288.ts
+#EXTINF:-1,[24H] Como Defender um Assassino [S02]
+http://acsa.ws:80/bF3y9W/68GSme/139289.ts
+#EXTINF:-1,[24H] Como Defender um Assassino [S03]
+http://acsa.ws:80/bF3y9W/68GSme/139290.ts
+#EXTINF:-1,[24H] Como Defender um Assassino [S04]
+http://acsa.ws:80/bF3y9W/68GSme/139291.ts
+#EXTINF:-1,[24H] Como Defender um Assassino [S05]
+http://acsa.ws:80/bF3y9W/68GSme/139292.ts
+#EXTINF:-1,[24H] Como Defender um Assassino [S06]
+http://acsa.ws:80/bF3y9W/68GSme/139293.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S01]
+http://acsa.ws:80/bF3y9W/68GSme/139279.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S02]
+http://acsa.ws:80/bF3y9W/68GSme/139280.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S03]
+http://acsa.ws:80/bF3y9W/68GSme/139281.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S04]
+http://acsa.ws:80/bF3y9W/68GSme/139282.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S05]
+http://acsa.ws:80/bF3y9W/68GSme/139283.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S06]
+http://acsa.ws:80/bF3y9W/68GSme/139284.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S07]
+http://acsa.ws:80/bF3y9W/68GSme/139285.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S08]
+http://acsa.ws:80/bF3y9W/68GSme/139286.ts
+#EXTINF:-1,[24H] Como Eu Conheci Sua Mae [S09]
+http://acsa.ws:80/bF3y9W/68GSme/139287.ts
+#EXTINF:-1,[24H] Como Funciona O Universo
+http://acsa.ws:80/bF3y9W/68GSme/140736.ts
+#EXTINF:-1,[24H] Corrida Maluca
+http://acsa.ws:80/bF3y9W/68GSme/145378.ts
+#EXTINF:-1,[24H] Cosmos Mundos Possiveis
+http://acsa.ws:80/bF3y9W/68GSme/140780.ts
+#EXTINF:-1,[24H] Criadores de Diversao
+http://acsa.ws:80/bF3y9W/68GSme/151618.ts
+#EXTINF:-1,[24H] Dani Se
+http://acsa.ws:80/bF3y9W/68GSme/140781.ts
+#EXTINF:-1,[24H] Dennis o Pimentinha
+http://acsa.ws:80/bF3y9W/68GSme/135500.ts
+#EXTINF:-1,[24H] Desenhos Biblicos Historias Inesqueciveis
+http://acsa.ws:80/bF3y9W/68GSme/139277.ts
+#EXTINF:-1,[24H] Digimon Adventure
+http://acsa.ws:80/bF3y9W/68GSme/137620.ts
+#EXTINF:-1,[24H] Digimon Digital Monsters [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138076.ts
+#EXTINF:-1,[24H] Digimon Digital Monsters [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138077.ts
+#EXTINF:-1,[24H] Digimon Digital Monsters [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138078.ts
+#EXTINF:-1,[24H] Digimon Digital Monsters [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138079.ts
+#EXTINF:-1,[24H] Digimon Digital Monsters [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138080.ts
+#EXTINF:-1,[24H] Digimon Savers
+http://acsa.ws:80/bF3y9W/68GSme/137621.ts
+#EXTINF:-1,[24H] Digimon Tamers
+http://acsa.ws:80/bF3y9W/68GSme/138025.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137623.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137624.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137625.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137626.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137627.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S06]
+http://acsa.ws:80/bF3y9W/68GSme/137628.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S07]
+http://acsa.ws:80/bF3y9W/68GSme/137629.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S08]
+http://acsa.ws:80/bF3y9W/68GSme/137630.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S09]
+http://acsa.ws:80/bF3y9W/68GSme/137631.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S10]
+http://acsa.ws:80/bF3y9W/68GSme/137632.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S11]
+http://acsa.ws:80/bF3y9W/68GSme/137633.ts
+#EXTINF:-1,[24H] Dois Homens e Meio [S12]
+http://acsa.ws:80/bF3y9W/68GSme/137634.ts
+#EXTINF:-1,[24H] Donas de Casa Desesperadas
+http://acsa.ws:80/bF3y9W/68GSme/138789.ts
+#EXTINF:-1,[24H] Dora Aventureira
+http://acsa.ws:80/bF3y9W/68GSme/151949.ts
+#EXTINF:-1,[24H] Doug
+http://acsa.ws:80/bF3y9W/68GSme/135552.ts
+#EXTINF:-1,[24H] Dragon Ball Classico
+http://acsa.ws:80/bF3y9W/68GSme/135473.ts
+#EXTINF:-1,[24H] Dragon Ball GT
+http://acsa.ws:80/bF3y9W/68GSme/135483.ts
+#EXTINF:-1,[24H] Dragon Ball Super - Golden Freeza [S02]
+http://acsa.ws:80/bF3y9W/68GSme/135485.ts
+#EXTINF:-1,[24H] Dragon Ball Super - Saga Deus da Destruicao Bills [S01]
+http://acsa.ws:80/bF3y9W/68GSme/135484.ts
+#EXTINF:-1,[24H] Dragon Ball Super - Sobrevivencia do Universo [S05]
+http://acsa.ws:80/bF3y9W/68GSme/135488.ts
+#EXTINF:-1,[24H] Dragon Ball Super - Trunks do Futuro [S04]
+http://acsa.ws:80/bF3y9W/68GSme/135487.ts
+#EXTINF:-1,[24H] Dragon Ball Super - Universo 6 [S03]
+http://acsa.ws:80/bF3y9W/68GSme/135486.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Androide Cell (Parte 1) [S05]
+http://acsa.ws:80/bF3y9W/68GSme/135478.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Androide Cell (Parte 2) [S06]
+http://acsa.ws:80/bF3y9W/68GSme/135479.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Freeza (Parte 1) [S02]
+http://acsa.ws:80/bF3y9W/68GSme/135475.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Freeza (Parte 2) [S03]
+http://acsa.ws:80/bF3y9W/68GSme/135476.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Garlic Jr [S04]
+http://acsa.ws:80/bF3y9W/68GSme/135477.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Majin Boo (Parte 1) [S08]
+http://acsa.ws:80/bF3y9W/68GSme/135481.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Majin Boo (Parte 2) [S09]
+http://acsa.ws:80/bF3y9W/68GSme/135482.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga do Torneio do Outro Mundo [S07]
+http://acsa.ws:80/bF3y9W/68GSme/135480.ts
+#EXTINF:-1,[24H] Dragon Ball Z - Saga dos Saiyajins [S01]
+http://acsa.ws:80/bF3y9W/68GSme/135474.ts
+#EXTINF:-1,[24H] Drake e Josh
+http://acsa.ws:80/bF3y9W/68GSme/137622.ts
+#EXTINF:-1,[24H] Ei Arnold
+http://acsa.ws:80/bF3y9W/68GSme/138946.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138050.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138051.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138052.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138053.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138054.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S06]
+http://acsa.ws:80/bF3y9W/68GSme/138055.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S07]
+http://acsa.ws:80/bF3y9W/68GSme/138056.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S08]
+http://acsa.ws:80/bF3y9W/68GSme/138057.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S09]
+http://acsa.ws:80/bF3y9W/68GSme/138058.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S10]
+http://acsa.ws:80/bF3y9W/68GSme/138059.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S11]
+http://acsa.ws:80/bF3y9W/68GSme/138060.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S12]
+http://acsa.ws:80/bF3y9W/68GSme/138061.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S13]
+http://acsa.ws:80/bF3y9W/68GSme/138062.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S14]
+http://acsa.ws:80/bF3y9W/68GSme/138063.ts
+#EXTINF:-1,[24H] ER Plantao Medico [S15]
+http://acsa.ws:80/bF3y9W/68GSme/138064.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo
+http://acsa.ws:80/bF3y9W/68GSme/137611.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo Nova Geracao [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138028.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo Nova Geracao [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138029.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo Nova Geracao [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138030.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo Nova Geracao [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138031.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo Nova Geracao [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138032.ts
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo Nova Geracao [S06]
+http://acsa.ws:80/bF3y9W/68GSme/138033.ts
+#EXTINF:-1,[24H] Esquadrao Especial Winspector
+http://acsa.ws:80/bF3y9W/68GSme/156654.ts
+#EXTINF:-1,[24H] Esquadrao Relampago Changeman
+http://acsa.ws:80/bF3y9W/68GSme/138779.ts
+#EXTINF:-1,[24H] Eu a Patroa e as Criancas [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138020.ts
+#EXTINF:-1,[24H] Eu a Patroa e as Criancas [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138021.ts
+#EXTINF:-1,[24H] Eu a Patroa e as Criancas [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138022.ts
+#EXTINF:-1,[24H] Eu a Patroa e as Criancas [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138023.ts
+#EXTINF:-1,[24H] Eu a Patroa e as Criancas [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138024.ts
+#EXTINF:-1,[24H] Farejando Novos Mundos
+http://acsa.ws:80/bF3y9W/68GSme/139274.ts
+#EXTINF:-1,[24H] Formiga Atomica
+http://acsa.ws:80/bF3y9W/68GSme/135545.ts
+#EXTINF:-1,[24H] Formula 1 Dirigir Para Viver
+http://acsa.ws:80/bF3y9W/68GSme/152015.ts
+#EXTINF:-1,[24H] Freakazoid Alto Forte e Maluco
+http://acsa.ws:80/bF3y9W/68GSme/162374.ts
+#EXTINF:-1,[24H] Friends [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138814.ts
+#EXTINF:-1,[24H] Friends [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138815.ts
+#EXTINF:-1,[24H] Friends [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138816.ts
+#EXTINF:-1,[24H] Friends [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138817.ts
+#EXTINF:-1,[24H] Friends [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138818.ts
+#EXTINF:-1,[24H] Friends [S06]
+http://acsa.ws:80/bF3y9W/68GSme/138819.ts
+#EXTINF:-1,[24H] Friends [S07]
+http://acsa.ws:80/bF3y9W/68GSme/138820.ts
+#EXTINF:-1,[24H] Friends [S08]
+http://acsa.ws:80/bF3y9W/68GSme/138821.ts
+#EXTINF:-1,[24H] Friends [S09]
+http://acsa.ws:80/bF3y9W/68GSme/138822.ts
+#EXTINF:-1,[24H] Friends [S10]
+http://acsa.ws:80/bF3y9W/68GSme/138823.ts
+#EXTINF:-1,[24H] Game of Thrones [S01]
+http://acsa.ws:80/bF3y9W/68GSme/135534.ts
+#EXTINF:-1,[24H] Game of Thrones [S02]
+http://acsa.ws:80/bF3y9W/68GSme/135533.ts
+#EXTINF:-1,[24H] Game of Thrones [S03]
+http://acsa.ws:80/bF3y9W/68GSme/135532.ts
+#EXTINF:-1,[24H] Game of Thrones [S04]
+http://acsa.ws:80/bF3y9W/68GSme/135531.ts
+#EXTINF:-1,[24H] Game of Thrones [S05]
+http://acsa.ws:80/bF3y9W/68GSme/135530.ts
+#EXTINF:-1,[24H] Game of Thrones [S06]
+http://acsa.ws:80/bF3y9W/68GSme/135529.ts
+#EXTINF:-1,[24H] Game of Thrones [S07]
+http://acsa.ws:80/bF3y9W/68GSme/135528.ts
+#EXTINF:-1,[24H] Game of Thrones [S08]
+http://acsa.ws:80/bF3y9W/68GSme/135527.ts
+#EXTINF:-1,[24H] Game Shakers [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138007.ts
+#EXTINF:-1,[24H] Game Shakers [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138008.ts
+#EXTINF:-1,[24H] Game Shakers [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138009.ts
+#EXTINF:-1,[24H] Garfield e Seus Amigos
+http://acsa.ws:80/bF3y9W/68GSme/138026.ts
+#EXTINF:-1,[24H] Gasparzinho O Fantasminha Camarada
+http://acsa.ws:80/bF3y9W/68GSme/151619.ts
+#EXTINF:-1,[24H] Gus O Pequeno Cavaleiro
+http://acsa.ws:80/bF3y9W/68GSme/150112.ts
+#EXTINF:-1,[24H] Hannah Montana
+http://acsa.ws:80/bF3y9W/68GSme/139272.ts
+#EXTINF:-1,[24H] He Man e Os Defensores do Universo
+http://acsa.ws:80/bF3y9W/68GSme/135514.ts
+#EXTINF:-1,[24H] He Man E Os Mestres do Universo
+http://acsa.ws:80/bF3y9W/68GSme/135516.ts
+#EXTINF:-1,[24H] High School Musical A Serie O Musical [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138709.ts
+#EXTINF:-1,[24H] High School Musical A Serie O Musical [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138710.ts
+#EXTINF:-1,[24H] Historias Animadas da Biblia - Novo Testamento
+http://acsa.ws:80/bF3y9W/68GSme/137428.ts
+#EXTINF:-1,[24H] Historias Animadas da Biblia - Velho Testamento
+http://acsa.ws:80/bF3y9W/68GSme/137427.ts
+#EXTINF:-1,[24H] Homem Aranha da Marvel [S01]
+http://acsa.ws:80/bF3y9W/68GSme/155451.ts
+#EXTINF:-1,[24H] Homem Aranha da Marvel [S02]
+http://acsa.ws:80/bF3y9W/68GSme/155452.ts
+#EXTINF:-1,[24H] Homem Aranha da Marvel [S03]
+http://acsa.ws:80/bF3y9W/68GSme/155453.ts
+#EXTINF:-1,[24H] Hora de Aventura [S01]
+http://acsa.ws:80/bF3y9W/68GSme/135526.ts
+#EXTINF:-1,[24H] Hora de Aventura [S02]
+http://acsa.ws:80/bF3y9W/68GSme/135525.ts
+#EXTINF:-1,[24H] Hora de Aventura [S03]
+http://acsa.ws:80/bF3y9W/68GSme/135524.ts
+#EXTINF:-1,[24H] Hora de Aventura [S04]
+http://acsa.ws:80/bF3y9W/68GSme/135523.ts
+#EXTINF:-1,[24H] Hora de Aventura [S05]
+http://acsa.ws:80/bF3y9W/68GSme/135521.ts
+#EXTINF:-1,[24H] Hora de Aventura [S06]
+http://acsa.ws:80/bF3y9W/68GSme/135522.ts
+#EXTINF:-1,[24H] Hora de Aventura [S07]
+http://acsa.ws:80/bF3y9W/68GSme/135520.ts
+#EXTINF:-1,[24H] Hora de Aventura [S08]
+http://acsa.ws:80/bF3y9W/68GSme/135519.ts
+#EXTINF:-1,[24H] Hora de Aventura [S09]
+http://acsa.ws:80/bF3y9W/68GSme/135518.ts
+#EXTINF:-1,[24H] Hora de Aventura [S10]
+http://acsa.ws:80/bF3y9W/68GSme/135517.ts
+#EXTINF:-1,[24H] Hora do Recreio
+http://acsa.ws:80/bF3y9W/68GSme/139278.ts
+#EXTINF:-1,[24H] Hotel Transilvania A Serie
+http://acsa.ws:80/bF3y9W/68GSme/135512.ts
+#EXTINF:-1,[24H] iCarly (2021)
+http://acsa.ws:80/bF3y9W/68GSme/135455.ts
+#EXTINF:-1,[24H] iCarly [S01]
+http://acsa.ws:80/bF3y9W/68GSme/135506.ts
+#EXTINF:-1,[24H] iCarly [S02]
+http://acsa.ws:80/bF3y9W/68GSme/135507.ts
+#EXTINF:-1,[24H] iCarly [S03]
+http://acsa.ws:80/bF3y9W/68GSme/135508.ts
+#EXTINF:-1,[24H] iCarly [S04]
+http://acsa.ws:80/bF3y9W/68GSme/135509.ts
+#EXTINF:-1,[24H] iCarly [S05]
+http://acsa.ws:80/bF3y9W/68GSme/135510.ts
+#EXTINF:-1,[24H] iCarly [S06]
+http://acsa.ws:80/bF3y9W/68GSme/135511.ts
+#EXTINF:-1,[24H] Inspetor Bugiganga (1983)
+http://acsa.ws:80/bF3y9W/68GSme/156655.ts
+#EXTINF:-1,[24H] Inspetor Bugiganga (2015)
+http://acsa.ws:80/bF3y9W/68GSme/156656.ts
+#EXTINF:-1,[24H] Irmao do Jorel
+http://acsa.ws:80/bF3y9W/68GSme/135567.ts
+#EXTINF:-1,[24H] Irmaos a Obra
+http://acsa.ws:80/bF3y9W/68GSme/140782.ts
+#EXTINF:-1,[24H] Jeannie
+http://acsa.ws:80/bF3y9W/68GSme/152016.ts
+#EXTINF:-1,[24H] Jellystone
+http://acsa.ws:80/bF3y9W/68GSme/156657.ts
+#EXTINF:-1,[24H] Jessie [S01]
+http://acsa.ws:80/bF3y9W/68GSme/139294.ts
+#EXTINF:-1,[24H] Jessie [S02]
+http://acsa.ws:80/bF3y9W/68GSme/139295.ts
+#EXTINF:-1,[24H] Jessie [S03]
+http://acsa.ws:80/bF3y9W/68GSme/139296.ts
+#EXTINF:-1,[24H] Jessie [S04]
+http://acsa.ws:80/bF3y9W/68GSme/139297.ts
+#EXTINF:-1,[24H] Jiraiya O Incrivel Ninja
+http://acsa.ws:80/bF3y9W/68GSme/135569.ts
+#EXTINF:-1,[24H] Johnny Bravo
+http://acsa.ws:80/bF3y9W/68GSme/150495.ts
+#EXTINF:-1,[24H] Johnny Test
+http://acsa.ws:80/bF3y9W/68GSme/139298.ts
+#EXTINF:-1,[24H] Jonny Quest
+http://acsa.ws:80/bF3y9W/68GSme/149550.ts
+#EXTINF:-1,[24H] Jornada nas Estrelas Enterprise [S01]
+http://acsa.ws:80/bF3y9W/68GSme/139300.ts
+#EXTINF:-1,[24H] Jornada nas Estrelas Enterprise [S02]
+http://acsa.ws:80/bF3y9W/68GSme/139301.ts
+#EXTINF:-1,[24H] Jornada nas Estrelas Enterprise [S03]
+http://acsa.ws:80/bF3y9W/68GSme/139302.ts
+#EXTINF:-1,[24H] Jornada nas Estrelas Enterprise [S04]
+http://acsa.ws:80/bF3y9W/68GSme/139303.ts
+#EXTINF:-1,[24H] Jovem Sheldon [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137123.ts
+#EXTINF:-1,[24H] Jovem Sheldon [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137124.ts
+#EXTINF:-1,[24H] Jovem Sheldon [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137125.ts
+#EXTINF:-1,[24H] Jovem Sheldon [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137126.ts
+#EXTINF:-1,[24H] Jovem Sheldon [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137127.ts
+#EXTINF:-1,[24H] Jovens Construtores
+http://acsa.ws:80/bF3y9W/68GSme/138947.ts
+#EXTINF:-1,[24H] Jurassic World Acampamento Jurassico
+http://acsa.ws:80/bF3y9W/68GSme/135561.ts
+#EXTINF:-1,[24H] Kamp Koral Bob Esponja Primeiros Anos
+http://acsa.ws:80/bF3y9W/68GSme/135562.ts
+#EXTINF:-1,[24H] Kenan e Kel
+http://acsa.ws:80/bF3y9W/68GSme/138955.ts
+#EXTINF:-1,[24H] Kevin Pode Esperar [S01]
+http://acsa.ws:80/bF3y9W/68GSme/139275.ts
+#EXTINF:-1,[24H] Kevin Pode Esperar [S02]
+http://acsa.ws:80/bF3y9W/68GSme/139276.ts
+#EXTINF:-1,[24H] Kick Buttowski
+http://acsa.ws:80/bF3y9W/68GSme/140533.ts
+#EXTINF:-1,[24H] Kung Fu Panda Lendas do Dragao Guerreiro
+http://acsa.ws:80/bF3y9W/68GSme/138948.ts
+#EXTINF:-1,[24H] Kung Fu Panda O Cavaleiro Dragao
+http://acsa.ws:80/bF3y9W/68GSme/166346.ts
+#EXTINF:-1,[24H] Lab Rats
+http://acsa.ws:80/bF3y9W/68GSme/138949.ts
+#EXTINF:-1,[24H] Lady Night [S01]
+http://acsa.ws:80/bF3y9W/68GSme/149520.ts
+#EXTINF:-1,[24H] Lady Night [S02]
+http://acsa.ws:80/bF3y9W/68GSme/149521.ts
+#EXTINF:-1,[24H] Lady Night [S03]
+http://acsa.ws:80/bF3y9W/68GSme/149522.ts
+#EXTINF:-1,[24H] Lady Night [S04]
+http://acsa.ws:80/bF3y9W/68GSme/149523.ts
+#EXTINF:-1,[24H] Lady Night [S05]
+http://acsa.ws:80/bF3y9W/68GSme/149524.ts
+#EXTINF:-1,[24H] Lady Night [S06]
+http://acsa.ws:80/bF3y9W/68GSme/149525.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S01]
+http://acsa.ws:80/bF3y9W/68GSme/140737.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S02]
+http://acsa.ws:80/bF3y9W/68GSme/140738.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S03]
+http://acsa.ws:80/bF3y9W/68GSme/140739.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S04]
+http://acsa.ws:80/bF3y9W/68GSme/140740.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S05]
+http://acsa.ws:80/bF3y9W/68GSme/140741.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S06]
+http://acsa.ws:80/bF3y9W/68GSme/145926.ts
+#EXTINF:-1,[24H] Largados e Pelados A Tribo [S07]
+http://acsa.ws:80/bF3y9W/68GSme/145927.ts
+#EXTINF:-1,[24H] Largados e Pelados [S01]
+http://acsa.ws:80/bF3y9W/68GSme/145928.ts
+#EXTINF:-1,[24H] Largados e Pelados [S02]
+http://acsa.ws:80/bF3y9W/68GSme/145929.ts
+#EXTINF:-1,[24H] Largados e Pelados [S03]
+http://acsa.ws:80/bF3y9W/68GSme/145930.ts
+#EXTINF:-1,[24H] Largados e Pelados [S04]
+http://acsa.ws:80/bF3y9W/68GSme/145931.ts
+#EXTINF:-1,[24H] Largados e Pelados [S05]
+http://acsa.ws:80/bF3y9W/68GSme/145932.ts
+#EXTINF:-1,[24H] Largados e Pelados [S06]
+http://acsa.ws:80/bF3y9W/68GSme/145933.ts
+#EXTINF:-1,[24H] Largados e Pelados [S07]
+http://acsa.ws:80/bF3y9W/68GSme/145934.ts
+#EXTINF:-1,[24H] Largados e Pelados [S08]
+http://acsa.ws:80/bF3y9W/68GSme/145935.ts
+#EXTINF:-1,[24H] Largados e Pelados [S09]
+http://acsa.ws:80/bF3y9W/68GSme/145936.ts
+#EXTINF:-1,[24H] Largados e Pelados [S10]
+http://acsa.ws:80/bF3y9W/68GSme/145937.ts
+#EXTINF:-1,[24H] Largados e Pelados [S11]
+http://acsa.ws:80/bF3y9W/68GSme/145938.ts
+#EXTINF:-1,[24H] Liga da Justica Sem Limites
+http://acsa.ws:80/bF3y9W/68GSme/138950.ts
+#EXTINF:-1,[24H] Liga da Justica [S01]
+http://acsa.ws:80/bF3y9W/68GSme/149551.ts
+#EXTINF:-1,[24H] Liga da Justica [S02]
+http://acsa.ws:80/bF3y9W/68GSme/149552.ts
+#EXTINF:-1,[24H] Lois e Clark As Novas Aventuras do Superman [S01]
+http://acsa.ws:80/bF3y9W/68GSme/135563.ts
+#EXTINF:-1,[24H] Lois e Clark As Novas Aventuras do Superman [S02]
+http://acsa.ws:80/bF3y9W/68GSme/135564.ts
+#EXTINF:-1,[24H] Lois e Clark As Novas Aventuras do Superman [S03]
+http://acsa.ws:80/bF3y9W/68GSme/135565.ts
+#EXTINF:-1,[24H] Lois e Clark As Novas Aventuras do Superman [S04]
+http://acsa.ws:80/bF3y9W/68GSme/135566.ts
+#EXTINF:-1,[24H] Luluzinha
+http://acsa.ws:80/bF3y9W/68GSme/149604.ts
+#EXTINF:-1,[24H] Marvels M.O.D.O.K
+http://acsa.ws:80/bF3y9W/68GSme/136816.ts
+#EXTINF:-1,[24H] Masha e o Urso
+http://acsa.ws:80/bF3y9W/68GSme/137619.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137146.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137147.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137148.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137149.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137150.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S06]
+http://acsa.ws:80/bF3y9W/68GSme/137151.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S07]
+http://acsa.ws:80/bF3y9W/68GSme/137152.ts
+#EXTINF:-1,[24H] Masterchef Brasil [S08]
+http://acsa.ws:80/bF3y9W/68GSme/137153.ts
+#EXTINF:-1,[24H] Mega Man Potencia Maxima
+http://acsa.ws:80/bF3y9W/68GSme/137128.ts
+#EXTINF:-1,[24H] Mestre do Sabor [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137154.ts
+#EXTINF:-1,[24H] Mestre do Sabor [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137155.ts
+#EXTINF:-1,[24H] Mestre do Sabor [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137156.ts
+#EXTINF:-1,[24H] Mestres da Sobrevivencia
+http://acsa.ws:80/bF3y9W/68GSme/137129.ts
+#EXTINF:-1,[24H] Mestres de Ferro
+http://acsa.ws:80/bF3y9W/68GSme/137157.ts
+#EXTINF:-1,[24H] Mestres do Universo Salvando Eternia
+http://acsa.ws:80/bF3y9W/68GSme/137158.ts
+#EXTINF:-1,[24H] Mickey e Donald
+http://acsa.ws:80/bF3y9W/68GSme/140742.ts
+#EXTINF:-1,[24H] Milo
+http://acsa.ws:80/bF3y9W/68GSme/162375.ts
+#EXTINF:-1,[24H] Mira A Detetive do Reino
+http://acsa.ws:80/bF3y9W/68GSme/166347.ts
+#EXTINF:-1,[24H] Miraculous As Aventuras de Ladybug
+http://acsa.ws:80/bF3y9W/68GSme/137159.ts
+#EXTINF:-1,[24H] Mister Brau
+http://acsa.ws:80/bF3y9W/68GSme/138951.ts
+#EXTINF:-1,[24H] Momonstros
+http://acsa.ws:80/bF3y9W/68GSme/145379.ts
+#EXTINF:-1,[24H] Monstro do Amor
+http://acsa.ws:80/bF3y9W/68GSme/151620.ts
+#EXTINF:-1,[24H] Mortal Kombat Defensores da Terra
+http://acsa.ws:80/bF3y9W/68GSme/139299.ts
+#EXTINF:-1,[24H] Mucha Lucha
+http://acsa.ws:80/bF3y9W/68GSme/138952.ts
+#EXTINF:-1,[24H] Mundo Bita
+http://acsa.ws:80/bF3y9W/68GSme/135452.ts
+#EXTINF:-1,[24H] Mundo Bita e a Natureza
+http://acsa.ws:80/bF3y9W/68GSme/135498.ts
+#EXTINF:-1,[24H] Mundo Bita e as Brincadeiras
+http://acsa.ws:80/bF3y9W/68GSme/135497.ts
+#EXTINF:-1,[24H] Mundo Bita e o Corpo Humano
+http://acsa.ws:80/bF3y9W/68GSme/135496.ts
+#EXTINF:-1,[24H] Mundo Bita e o Nosso Dia
+http://acsa.ws:80/bF3y9W/68GSme/135495.ts
+#EXTINF:-1,[24H] Mundo Bita e os Animais
+http://acsa.ws:80/bF3y9W/68GSme/135494.ts
+#EXTINF:-1,[24H] Nicky Ricky Dicky e Dawn [S01]
+http://acsa.ws:80/bF3y9W/68GSme/145939.ts
+#EXTINF:-1,[24H] Nicky Ricky Dicky e Dawn [S02]
+http://acsa.ws:80/bF3y9W/68GSme/145940.ts
+#EXTINF:-1,[24H] Nicky Ricky Dicky e Dawn [S03]
+http://acsa.ws:80/bF3y9W/68GSme/145941.ts
+#EXTINF:-1,[24H] Nicky Ricky Dicky e Dawn [S04]
+http://acsa.ws:80/bF3y9W/68GSme/145942.ts
+#EXTINF:-1,[24H] O Acampamento de Lazlo
+http://acsa.ws:80/bF3y9W/68GSme/150113.ts
+#EXTINF:-1,[24H] O Chefinho De Volta aos Negocios
+http://acsa.ws:80/bF3y9W/68GSme/138953.ts
+#EXTINF:-1,[24H] O Fantastico Jaspion
+http://acsa.ws:80/bF3y9W/68GSme/135568.ts
+#EXTINF:-1,[24H] O Fantastico Mundo de Bobby
+http://acsa.ws:80/bF3y9W/68GSme/138940.ts
+#EXTINF:-1,[24H] O Incrivel Mundo de Gumball
+http://acsa.ws:80/bF3y9W/68GSme/166348.ts
+#EXTINF:-1,[24H] O Laboratorio de Dexter
+http://acsa.ws:80/bF3y9W/68GSme/150114.ts
+#EXTINF:-1,[24H] O Marinheiro Popeye [S01]
+http://acsa.ws:80/bF3y9W/68GSme/145943.ts
+#EXTINF:-1,[24H] O Marinheiro Popeye [S02]
+http://acsa.ws:80/bF3y9W/68GSme/145944.ts
+#EXTINF:-1,[24H] O Marinheiro Popeye [S03]
+http://acsa.ws:80/bF3y9W/68GSme/145945.ts
+#EXTINF:-1,[24H] O Marinheiro Popeye [S04]
+http://acsa.ws:80/bF3y9W/68GSme/145946.ts
+#EXTINF:-1,[24H] O Maskara
+http://acsa.ws:80/bF3y9W/68GSme/145380.ts
+#EXTINF:-1,[24H] O Mundo Maravilhoso de Mickey Mouse
+http://acsa.ws:80/bF3y9W/68GSme/151621.ts
+#EXTINF:-1,[24H] O Novo Show do Pica Pau
+http://acsa.ws:80/bF3y9W/68GSme/145381.ts
+#EXTINF:-1,[24H] O Rancho [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138956.ts
+#EXTINF:-1,[24H] O Rancho [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138957.ts
+#EXTINF:-1,[24H] O Rancho [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138958.ts
+#EXTINF:-1,[24H] O Rancho [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138959.ts
+#EXTINF:-1,[24H] O Show de Tom e Jerry
+http://acsa.ws:80/bF3y9W/68GSme/140743.ts
+#EXTINF:-1,[24H] O Show do Garfield
+http://acsa.ws:80/bF3y9W/68GSme/137429.ts
+#EXTINF:-1,[24H] O Socio
+http://acsa.ws:80/bF3y9W/68GSme/137167.ts
+#EXTINF:-1,[24H] Odo
+http://acsa.ws:80/bF3y9W/68GSme/150491.ts
+#EXTINF:-1,[24H] Operacao Big Hero
+http://acsa.ws:80/bF3y9W/68GSme/137430.ts
+#EXTINF:-1,[24H] Operacao Fronteira America do Sul
+http://acsa.ws:80/bF3y9W/68GSme/139304.ts
+#EXTINF:-1,[24H] Os Apuros de Penélope Charmosa
+http://acsa.ws:80/bF3y9W/68GSme/162376.ts
+#EXTINF:-1,[24H] Os Astronautas
+http://acsa.ws:80/bF3y9W/68GSme/137431.ts
+#EXTINF:-1,[24H] Os Backyardigans
+http://acsa.ws:80/bF3y9W/68GSme/141495.ts
+#EXTINF:-1,[24H] Os Busbys + 5
+http://acsa.ws:80/bF3y9W/68GSme/151622.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Alma de Ouro
+http://acsa.ws:80/bF3y9W/68GSme/137135.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Omega
+http://acsa.ws:80/bF3y9W/68GSme/138954.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Saga de Asgard [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137131.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Saga de Hades [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137133.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Saga de Poseidon [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137132.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Saga do Santuario [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137130.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - The Lost Canvas
+http://acsa.ws:80/bF3y9W/68GSme/137134.ts
+#EXTINF:-1,[24H] Os Cavaleiros do Zodíaco Saint Seiya
+http://acsa.ws:80/bF3y9W/68GSme/137136.ts
+#EXTINF:-1,[24H] Os Feiticeiros De Waverly Place [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138960.ts
+#EXTINF:-1,[24H] Os Feiticeiros De Waverly Place [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138961.ts
+#EXTINF:-1,[24H] Os Feiticeiros De Waverly Place [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138962.ts
+#EXTINF:-1,[24H] Os Feiticeiros De Waverly Place [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138963.ts
+#EXTINF:-1,[24H] Os Guerreiros Wasabi [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137160.ts
+#EXTINF:-1,[24H] Os Guerreiros Wasabi [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137161.ts
+#EXTINF:-1,[24H] Os Guerreiros Wasabi [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137162.ts
+#EXTINF:-1,[24H] Os Guerreiros Wasabi [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137163.ts
+#EXTINF:-1,[24H] Os Herculoides
+http://acsa.ws:80/bF3y9W/68GSme/137164.ts
+#EXTINF:-1,[24H] Os Homens Sao de Marte... E e pra La Que Eu Vou [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137169.ts
+#EXTINF:-1,[24H] Os Homens Sao de Marte... E e pra La Que Eu Vou [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137170.ts
+#EXTINF:-1,[24H] Os Homens Sao de Marte... E e pra La Que Eu Vou [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137171.ts
+#EXTINF:-1,[24H] Os Homens Sao de Marte... E e pra La Que Eu Vou [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137172.ts
+#EXTINF:-1,[24H] Os Incriveis Espioes
+http://acsa.ws:80/bF3y9W/68GSme/140744.ts
+#EXTINF:-1,[24H] Os Jetsons
+http://acsa.ws:80/bF3y9W/68GSme/137165.ts
+#EXTINF:-1,[24H] Os Misterios de Frajola e Piu Piu
+http://acsa.ws:80/bF3y9W/68GSme/138027.ts
+#EXTINF:-1,[24H] Os Misterios de Frajola e Piu Piu
+http://acsa.ws:80/bF3y9W/68GSme/166349.ts
+#EXTINF:-1,[24H] Os Normais
+http://acsa.ws:80/bF3y9W/68GSme/137168.ts
+#EXTINF:-1,[24H] Os Padrinhos Magicos
+http://acsa.ws:80/bF3y9W/68GSme/135546.ts
+#EXTINF:-1,[24H] Os Roni
+http://acsa.ws:80/bF3y9W/68GSme/138964.ts
+#EXTINF:-1,[24H] Os Simpsons [S01]
+http://acsa.ws:80/bF3y9W/68GSme/135601.ts
+#EXTINF:-1,[24H] Os Simpsons [S02]
+http://acsa.ws:80/bF3y9W/68GSme/135600.ts
+#EXTINF:-1,[24H] Os Simpsons [S03]
+http://acsa.ws:80/bF3y9W/68GSme/135599.ts
+#EXTINF:-1,[24H] Os Simpsons [S04]
+http://acsa.ws:80/bF3y9W/68GSme/135598.ts
+#EXTINF:-1,[24H] Os Simpsons [S05]
+http://acsa.ws:80/bF3y9W/68GSme/135597.ts
+#EXTINF:-1,[24H] Os Simpsons [S06]
+http://acsa.ws:80/bF3y9W/68GSme/135596.ts
+#EXTINF:-1,[24H] Os Simpsons [S07]
+http://acsa.ws:80/bF3y9W/68GSme/135595.ts
+#EXTINF:-1,[24H] Os Simpsons [S08]
+http://acsa.ws:80/bF3y9W/68GSme/135594.ts
+#EXTINF:-1,[24H] Os Simpsons [S09]
+http://acsa.ws:80/bF3y9W/68GSme/135593.ts
+#EXTINF:-1,[24H] Os Simpsons [S10]
+http://acsa.ws:80/bF3y9W/68GSme/135592.ts
+#EXTINF:-1,[24H] Os Simpsons [S11]
+http://acsa.ws:80/bF3y9W/68GSme/135591.ts
+#EXTINF:-1,[24H] Os Simpsons [S12]
+http://acsa.ws:80/bF3y9W/68GSme/135590.ts
+#EXTINF:-1,[24H] Os Simpsons [S13]
+http://acsa.ws:80/bF3y9W/68GSme/135589.ts
+#EXTINF:-1,[24H] Os Simpsons [S14]
+http://acsa.ws:80/bF3y9W/68GSme/135588.ts
+#EXTINF:-1,[24H] Os Simpsons [S15]
+http://acsa.ws:80/bF3y9W/68GSme/135587.ts
+#EXTINF:-1,[24H] Os Simpsons [S16]
+http://acsa.ws:80/bF3y9W/68GSme/135586.ts
+#EXTINF:-1,[24H] Os Simpsons [S17]
+http://acsa.ws:80/bF3y9W/68GSme/135585.ts
+#EXTINF:-1,[24H] Os Simpsons [S18]
+http://acsa.ws:80/bF3y9W/68GSme/135584.ts
+#EXTINF:-1,[24H] Os Simpsons [S19]
+http://acsa.ws:80/bF3y9W/68GSme/135583.ts
+#EXTINF:-1,[24H] Os Simpsons [S20]
+http://acsa.ws:80/bF3y9W/68GSme/135582.ts
+#EXTINF:-1,[24H] Os Simpsons [S21]
+http://acsa.ws:80/bF3y9W/68GSme/135581.ts
+#EXTINF:-1,[24H] Os Simpsons [S22]
+http://acsa.ws:80/bF3y9W/68GSme/135580.ts
+#EXTINF:-1,[24H] Os Simpsons [S23]
+http://acsa.ws:80/bF3y9W/68GSme/135579.ts
+#EXTINF:-1,[24H] Os Simpsons [S24]
+http://acsa.ws:80/bF3y9W/68GSme/135578.ts
+#EXTINF:-1,[24H] Os Simpsons [S25]
+http://acsa.ws:80/bF3y9W/68GSme/135577.ts
+#EXTINF:-1,[24H] Os Simpsons [S26]
+http://acsa.ws:80/bF3y9W/68GSme/135576.ts
+#EXTINF:-1,[24H] Os Simpsons [S27]
+http://acsa.ws:80/bF3y9W/68GSme/135575.ts
+#EXTINF:-1,[24H] Os Simpsons [S28]
+http://acsa.ws:80/bF3y9W/68GSme/135574.ts
+#EXTINF:-1,[24H] Os Simpsons [S29]
+http://acsa.ws:80/bF3y9W/68GSme/135573.ts
+#EXTINF:-1,[24H] Os Simpsons [S30]
+http://acsa.ws:80/bF3y9W/68GSme/135572.ts
+#EXTINF:-1,[24H] Os Simpsons [S31]
+http://acsa.ws:80/bF3y9W/68GSme/135571.ts
+#EXTINF:-1,[24H] Os Simpsons [S32]
+http://acsa.ws:80/bF3y9W/68GSme/135570.ts
+#EXTINF:-1,[24H] Os Smurfs
+http://acsa.ws:80/bF3y9W/68GSme/136817.ts
+#EXTINF:-1,[24H] Os Thundermans [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137432.ts
+#EXTINF:-1,[24H] Os Thundermans [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137433.ts
+#EXTINF:-1,[24H] Os Thundermans [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137434.ts
+#EXTINF:-1,[24H] Os Ursinhos Carinhosos
+http://acsa.ws:80/bF3y9W/68GSme/150496.ts
+#EXTINF:-1,[24H] Os Ursinhos Gummi
+http://acsa.ws:80/bF3y9W/68GSme/140745.ts
+#EXTINF:-1,[24H] Patrulha Canina
+http://acsa.ws:80/bF3y9W/68GSme/135547.ts
+#EXTINF:-1,[24H] Pe na Cova [S01]
+http://acsa.ws:80/bF3y9W/68GSme/156658.ts
+#EXTINF:-1,[24H] Pe na Cova [S02]
+http://acsa.ws:80/bF3y9W/68GSme/156659.ts
+#EXTINF:-1,[24H] Pe na Cova [S03]
+http://acsa.ws:80/bF3y9W/68GSme/156660.ts
+#EXTINF:-1,[24H] Pe na Cova [S04]
+http://acsa.ws:80/bF3y9W/68GSme/156661.ts
+#EXTINF:-1,[24H] Pe na Cova [S05]
+http://acsa.ws:80/bF3y9W/68GSme/156662.ts
+#EXTINF:-1,[24H] Peppa Pig
+http://acsa.ws:80/bF3y9W/68GSme/135548.ts
+#EXTINF:-1,[24H] Pesadelo Na Cozinha
+http://acsa.ws:80/bF3y9W/68GSme/138722.ts
+#EXTINF:-1,[24H] Pestinha e Feroz
+http://acsa.ws:80/bF3y9W/68GSme/135501.ts
+#EXTINF:-1,[24H] Phineas e Ferb
+http://acsa.ws:80/bF3y9W/68GSme/135499.ts
+#EXTINF:-1,[24H] Pica Pau
+http://acsa.ws:80/bF3y9W/68GSme/136821.ts
+#EXTINF:-1,[24H] Pocoyo
+http://acsa.ws:80/bF3y9W/68GSme/137435.ts
+#EXTINF:-1,[24H] Pokemon [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138791.ts
+#EXTINF:-1,[24H] Pokemon [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138792.ts
+#EXTINF:-1,[24H] Pokemon [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138793.ts
+#EXTINF:-1,[24H] Pokemon [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138794.ts
+#EXTINF:-1,[24H] Pokemon [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138795.ts
+#EXTINF:-1,[24H] Pokemon [S06]
+http://acsa.ws:80/bF3y9W/68GSme/138796.ts
+#EXTINF:-1,[24H] Pokemon [S07]
+http://acsa.ws:80/bF3y9W/68GSme/138797.ts
+#EXTINF:-1,[24H] Pokemon [S08]
+http://acsa.ws:80/bF3y9W/68GSme/138798.ts
+#EXTINF:-1,[24H] Pokemon [S09]
+http://acsa.ws:80/bF3y9W/68GSme/138799.ts
+#EXTINF:-1,[24H] Pokemon [S10]
+http://acsa.ws:80/bF3y9W/68GSme/138800.ts
+#EXTINF:-1,[24H] Pokemon [S11]
+http://acsa.ws:80/bF3y9W/68GSme/138801.ts
+#EXTINF:-1,[24H] Pokemon [S12]
+http://acsa.ws:80/bF3y9W/68GSme/138802.ts
+#EXTINF:-1,[24H] Pokemon [S13]
+http://acsa.ws:80/bF3y9W/68GSme/138803.ts
+#EXTINF:-1,[24H] Pokemon [S14]
+http://acsa.ws:80/bF3y9W/68GSme/138804.ts
+#EXTINF:-1,[24H] Pokemon [S15]
+http://acsa.ws:80/bF3y9W/68GSme/138805.ts
+#EXTINF:-1,[24H] Pokemon [S16]
+http://acsa.ws:80/bF3y9W/68GSme/138806.ts
+#EXTINF:-1,[24H] Pokemon [S17]
+http://acsa.ws:80/bF3y9W/68GSme/138807.ts
+#EXTINF:-1,[24H] Pokemon [S18]
+http://acsa.ws:80/bF3y9W/68GSme/138808.ts
+#EXTINF:-1,[24H] Pokemon [S19]
+http://acsa.ws:80/bF3y9W/68GSme/138809.ts
+#EXTINF:-1,[24H] Pokemon [S20]
+http://acsa.ws:80/bF3y9W/68GSme/138810.ts
+#EXTINF:-1,[24H] Pokemon [S21]
+http://acsa.ws:80/bF3y9W/68GSme/138811.ts
+#EXTINF:-1,[24H] Programa Cameras Escondidas
+http://acsa.ws:80/bF3y9W/68GSme/151950.ts
+#EXTINF:-1,[24H] Quilos Mortais
+http://acsa.ws:80/bF3y9W/68GSme/136820.ts
+#EXTINF:-1,[24H] Quilos Mortais Como Eles Estao Agora [S01]
+http://acsa.ws:80/bF3y9W/68GSme/149526.ts
+#EXTINF:-1,[24H] Quilos Mortais Como Eles Estao Agora [S02]
+http://acsa.ws:80/bF3y9W/68GSme/149527.ts
+#EXTINF:-1,[24H] Quilos Mortais Como Eles Estao Agora [S03]
+http://acsa.ws:80/bF3y9W/68GSme/149528.ts
+#EXTINF:-1,[24H] Quilos Mortais Como Eles Estao Agora [S04]
+http://acsa.ws:80/bF3y9W/68GSme/149529.ts
+#EXTINF:-1,[24H] Quilos Mortais Como Eles Estao Agora [S05]
+http://acsa.ws:80/bF3y9W/68GSme/149530.ts
+#EXTINF:-1,[24H] Quilos Mortais [S01]
+http://acsa.ws:80/bF3y9W/68GSme/149531.ts
+#EXTINF:-1,[24H] Quilos Mortais [S02]
+http://acsa.ws:80/bF3y9W/68GSme/149532.ts
+#EXTINF:-1,[24H] Quilos Mortais [S03]
+http://acsa.ws:80/bF3y9W/68GSme/149533.ts
+#EXTINF:-1,[24H] Quilos Mortais [S04]
+http://acsa.ws:80/bF3y9W/68GSme/149534.ts
+#EXTINF:-1,[24H] Quilos Mortais [S05]
+http://acsa.ws:80/bF3y9W/68GSme/149535.ts
+#EXTINF:-1,[24H] Quilos Mortais [S06]
+http://acsa.ws:80/bF3y9W/68GSme/149536.ts
+#EXTINF:-1,[24H] Quilos Mortais [S07]
+http://acsa.ws:80/bF3y9W/68GSme/149537.ts
+#EXTINF:-1,[24H] Quilos Mortais [S08]
+http://acsa.ws:80/bF3y9W/68GSme/149538.ts
+#EXTINF:-1,[24H] Ridley Jones A Guardia do Museu
+http://acsa.ws:80/bF3y9W/68GSme/137436.ts
+#EXTINF:-1,[24H] Riquinho
+http://acsa.ws:80/bF3y9W/68GSme/140746.ts
+#EXTINF:-1,[24H] Rocketeer
+http://acsa.ws:80/bF3y9W/68GSme/137437.ts
+#EXTINF:-1,[24H] Rocky e Hudson Os Caubois Gays
+http://acsa.ws:80/bF3y9W/68GSme/137438.ts
+#EXTINF:-1,[24H] Rua Dalmatas 101
+http://acsa.ws:80/bF3y9W/68GSme/137439.ts
+#EXTINF:-1,[24H] Rugrats Os Anjinhos
+http://acsa.ws:80/bF3y9W/68GSme/149539.ts
+#EXTINF:-1,[24H] Sai de Baixo [S01]
+http://acsa.ws:80/bF3y9W/68GSme/140747.ts
+#EXTINF:-1,[24H] Sai de Baixo [S02]
+http://acsa.ws:80/bF3y9W/68GSme/140748.ts
+#EXTINF:-1,[24H] Sai de Baixo [S03]
+http://acsa.ws:80/bF3y9W/68GSme/140749.ts
+#EXTINF:-1,[24H] Sai de Baixo [S04]
+http://acsa.ws:80/bF3y9W/68GSme/140750.ts
+#EXTINF:-1,[24H] Sai de Baixo [S05]
+http://acsa.ws:80/bF3y9W/68GSme/140751.ts
+#EXTINF:-1,[24H] Sai de Baixo [S06]
+http://acsa.ws:80/bF3y9W/68GSme/140752.ts
+#EXTINF:-1,[24H] Sai de Baixo [S07]
+http://acsa.ws:80/bF3y9W/68GSme/140753.ts
+#EXTINF:-1,[24H] Sai de Baixo [S08]
+http://acsa.ws:80/bF3y9W/68GSme/140754.ts
+#EXTINF:-1,[24H] Sailor Moon
+http://acsa.ws:80/bF3y9W/68GSme/140755.ts
+#EXTINF:-1,[24H] Scooby Doo Mistério SA
+http://acsa.ws:80/bF3y9W/68GSme/151951.ts
+#EXTINF:-1,[24H] Sessao de Terapia [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137106.ts
+#EXTINF:-1,[24H] Sessao de Terapia [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137107.ts
+#EXTINF:-1,[24H] Sessao de Terapia [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137108.ts
+#EXTINF:-1,[24H] Sessao de Terapia [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137109.ts
+#EXTINF:-1,[24H] Sessao de Terapia [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137110.ts
+#EXTINF:-1,[24H] Shaman King
+http://acsa.ws:80/bF3y9W/68GSme/162377.ts
+#EXTINF:-1,[24H] Shark Tank Brasil [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137100.ts
+#EXTINF:-1,[24H] Shark Tank Brasil [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137101.ts
+#EXTINF:-1,[24H] Shark Tank Brasil [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137102.ts
+#EXTINF:-1,[24H] Shark Tank Brasil [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137103.ts
+#EXTINF:-1,[24H] Shark Tank Brasil [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137104.ts
+#EXTINF:-1,[24H] Shark Tank Brasil [S06]
+http://acsa.ws:80/bF3y9W/68GSme/137105.ts
+#EXTINF:-1,[24H] She Ra A Princesa Do Poder
+http://acsa.ws:80/bF3y9W/68GSme/137617.ts
+#EXTINF:-1,[24H] Show do Milhao PicPay
+http://acsa.ws:80/bF3y9W/68GSme/137615.ts
+#EXTINF:-1,[24H] Snoopy e Sua Turma
+http://acsa.ws:80/bF3y9W/68GSme/137027.ts
+#EXTINF:-1,[24H] Soltos em Floripa [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137028.ts
+#EXTINF:-1,[24H] Soltos em Floripa [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137029.ts
+#EXTINF:-1,[24H] Sonny Boy
+http://acsa.ws:80/bF3y9W/68GSme/137616.ts
+#EXTINF:-1,[24H] SOS Cachorrinhos [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137030.ts
+#EXTINF:-1,[24H] South Park [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137031.ts
+#EXTINF:-1,[24H] South Park [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137032.ts
+#EXTINF:-1,[24H] South Park [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137033.ts
+#EXTINF:-1,[24H] South Park [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137034.ts
+#EXTINF:-1,[24H] South Park [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137035.ts
+#EXTINF:-1,[24H] South Park [S06]
+http://acsa.ws:80/bF3y9W/68GSme/137036.ts
+#EXTINF:-1,[24H] South Park [S07]
+http://acsa.ws:80/bF3y9W/68GSme/137037.ts
+#EXTINF:-1,[24H] South Park [S08]
+http://acsa.ws:80/bF3y9W/68GSme/137038.ts
+#EXTINF:-1,[24H] South Park [S09]
+http://acsa.ws:80/bF3y9W/68GSme/137039.ts
+#EXTINF:-1,[24H] South Park [S10]
+http://acsa.ws:80/bF3y9W/68GSme/137040.ts
+#EXTINF:-1,[24H] South Park [S11]
+http://acsa.ws:80/bF3y9W/68GSme/137041.ts
+#EXTINF:-1,[24H] South Park [S12]
+http://acsa.ws:80/bF3y9W/68GSme/137042.ts
+#EXTINF:-1,[24H] South Park [S13]
+http://acsa.ws:80/bF3y9W/68GSme/137043.ts
+#EXTINF:-1,[24H] South Park [S14]
+http://acsa.ws:80/bF3y9W/68GSme/137044.ts
+#EXTINF:-1,[24H] South Park [S15]
+http://acsa.ws:80/bF3y9W/68GSme/137045.ts
+#EXTINF:-1,[24H] South Park [S16]
+http://acsa.ws:80/bF3y9W/68GSme/137046.ts
+#EXTINF:-1,[24H] South Park [S17]
+http://acsa.ws:80/bF3y9W/68GSme/137047.ts
+#EXTINF:-1,[24H] South Park [S18]
+http://acsa.ws:80/bF3y9W/68GSme/137048.ts
+#EXTINF:-1,[24H] South Park [S19]
+http://acsa.ws:80/bF3y9W/68GSme/137049.ts
+#EXTINF:-1,[24H] South Park [S20]
+http://acsa.ws:80/bF3y9W/68GSme/137050.ts
+#EXTINF:-1,[24H] South Park [S21]
+http://acsa.ws:80/bF3y9W/68GSme/137051.ts
+#EXTINF:-1,[24H] South Park [S22]
+http://acsa.ws:80/bF3y9W/68GSme/137052.ts
+#EXTINF:-1,[24H] South Park [S23]
+http://acsa.ws:80/bF3y9W/68GSme/137053.ts
+#EXTINF:-1,[24H] South Park [S24]
+http://acsa.ws:80/bF3y9W/68GSme/137054.ts
+#EXTINF:-1,[24H] Spidey e Seus Amigos Espetaculares
+http://acsa.ws:80/bF3y9W/68GSme/166350.ts
+#EXTINF:-1,[24H] Star Trek Discovery [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137055.ts
+#EXTINF:-1,[24H] Star Trek Discovery [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137056.ts
+#EXTINF:-1,[24H] Star Trek Discovery [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137057.ts
+#EXTINF:-1,[24H] Star Trek Lower Decks [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137058.ts
+#EXTINF:-1,[24H] Star Trek Lower Decks [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137059.ts
+#EXTINF:-1,[24H] Star vs. As Forcas do Mal [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137060.ts
+#EXTINF:-1,[24H] Star vs. As Forcas do Mal [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137061.ts
+#EXTINF:-1,[24H] Star vs. As Forcas do Mal [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137062.ts
+#EXTINF:-1,[24H] Star vs. As Forcas do Mal [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137063.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137064.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137065.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137066.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137067.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137068.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S06]
+http://acsa.ws:80/bF3y9W/68GSme/137069.ts
+#EXTINF:-1,[24H] Star Wars A Guerra dos Clones [S07]
+http://acsa.ws:80/bF3y9W/68GSme/137070.ts
+#EXTINF:-1,[24H] Star Wars Rebels [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137072.ts
+#EXTINF:-1,[24H] Star Wars Rebels [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137073.ts
+#EXTINF:-1,[24H] Star Wars Rebels [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137074.ts
+#EXTINF:-1,[24H] Star Wars Rebels [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137075.ts
+#EXTINF:-1,[24H] Star Wars The Bad Batch [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137071.ts
+#EXTINF:-1,[24H] Star Wars Visions [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137076.ts
+#EXTINF:-1,[24H] Steven Universo Futuro [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137082.ts
+#EXTINF:-1,[24H] Steven Universo [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137077.ts
+#EXTINF:-1,[24H] Steven Universo [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137078.ts
+#EXTINF:-1,[24H] Steven Universo [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137079.ts
+#EXTINF:-1,[24H] Steven Universo [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137080.ts
+#EXTINF:-1,[24H] Steven Universo [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137081.ts
+#EXTINF:-1,[24H] Super Amigos
+http://acsa.ws:80/bF3y9W/68GSme/149605.ts
+#EXTINF:-1,[24H] Super Choque
+http://acsa.ws:80/bF3y9W/68GSme/140535.ts
+#EXTINF:-1,[24H] Super Hero Girls [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137083.ts
+#EXTINF:-1,[24H] Supermaes [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138723.ts
+#EXTINF:-1,[24H] Supermaes [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138724.ts
+#EXTINF:-1,[24H] Supermaes [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138725.ts
+#EXTINF:-1,[24H] Supermaes [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138726.ts
+#EXTINF:-1,[24H] Supermaes [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138727.ts
+#EXTINF:-1,[24H] Superman A Serie Animada [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137084.ts
+#EXTINF:-1,[24H] Superman A Serie Animada [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137085.ts
+#EXTINF:-1,[24H] Superman A Serie Animada [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137086.ts
+#EXTINF:-1,[24H] Supermansion [S01]
+http://acsa.ws:80/bF3y9W/68GSme/149540.ts
+#EXTINF:-1,[24H] Supermansion [S02]
+http://acsa.ws:80/bF3y9W/68GSme/149541.ts
+#EXTINF:-1,[24H] Supermansion [S03]
+http://acsa.ws:80/bF3y9W/68GSme/149542.ts
+#EXTINF:-1,[24H] Supernatural [S01]
+http://acsa.ws:80/bF3y9W/68GSme/136726.ts
+#EXTINF:-1,[24H] Supernatural [S01] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136741.ts
+#EXTINF:-1,[24H] Supernatural [S02]
+http://acsa.ws:80/bF3y9W/68GSme/136727.ts
+#EXTINF:-1,[24H] Supernatural [S02] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136742.ts
+#EXTINF:-1,[24H] Supernatural [S03]
+http://acsa.ws:80/bF3y9W/68GSme/136728.ts
+#EXTINF:-1,[24H] Supernatural [S03] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136743.ts
+#EXTINF:-1,[24H] Supernatural [S04]
+http://acsa.ws:80/bF3y9W/68GSme/136729.ts
+#EXTINF:-1,[24H] Supernatural [S04] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136744.ts
+#EXTINF:-1,[24H] Supernatural [S05]
+http://acsa.ws:80/bF3y9W/68GSme/136730.ts
+#EXTINF:-1,[24H] Supernatural [S05] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136745.ts
+#EXTINF:-1,[24H] Supernatural [S06]
+http://acsa.ws:80/bF3y9W/68GSme/136731.ts
+#EXTINF:-1,[24H] Supernatural [S06] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136746.ts
+#EXTINF:-1,[24H] Supernatural [S07]
+http://acsa.ws:80/bF3y9W/68GSme/136732.ts
+#EXTINF:-1,[24H] Supernatural [S07] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136747.ts
+#EXTINF:-1,[24H] Supernatural [S08]
+http://acsa.ws:80/bF3y9W/68GSme/136733.ts
+#EXTINF:-1,[24H] Supernatural [S08] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136748.ts
+#EXTINF:-1,[24H] Supernatural [S09]
+http://acsa.ws:80/bF3y9W/68GSme/136734.ts
+#EXTINF:-1,[24H] Supernatural [S09] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136749.ts
+#EXTINF:-1,[24H] Supernatural [S10]
+http://acsa.ws:80/bF3y9W/68GSme/136735.ts
+#EXTINF:-1,[24H] Supernatural [S10] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136750.ts
+#EXTINF:-1,[24H] Supernatural [S11]
+http://acsa.ws:80/bF3y9W/68GSme/136736.ts
+#EXTINF:-1,[24H] Supernatural [S11] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136751.ts
+#EXTINF:-1,[24H] Supernatural [S12]
+http://acsa.ws:80/bF3y9W/68GSme/136737.ts
+#EXTINF:-1,[24H] Supernatural [S12] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136752.ts
+#EXTINF:-1,[24H] Supernatural [S13]
+http://acsa.ws:80/bF3y9W/68GSme/136738.ts
+#EXTINF:-1,[24H] Supernatural [S13] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136753.ts
+#EXTINF:-1,[24H] Supernatural [S14]
+http://acsa.ws:80/bF3y9W/68GSme/136739.ts
+#EXTINF:-1,[24H] Supernatural [S14] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136754.ts
+#EXTINF:-1,[24H] Supernatural [S15]
+http://acsa.ws:80/bF3y9W/68GSme/136740.ts
+#EXTINF:-1,[24H] Supernatural [S15] [L]
+http://acsa.ws:80/bF3y9W/68GSme/136755.ts
+#EXTINF:-1,[24H] Sítio do Picapau Amarelo (1977) [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137024.ts
+#EXTINF:-1,[24H] Sítio do Picapau Amarelo (1977) [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137025.ts
+#EXTINF:-1,[24H] Sítio do Picapau Amarelo (1977) [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137026.ts
+#EXTINF:-1,[24H] Ta Puxado
+http://acsa.ws:80/bF3y9W/68GSme/140756.ts
+#EXTINF:-1,[24H] Tapas e Beijos [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137111.ts
+#EXTINF:-1,[24H] Tapas e Beijos [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137112.ts
+#EXTINF:-1,[24H] Tapas e Beijos [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137113.ts
+#EXTINF:-1,[24H] Tapas e Beijos [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137114.ts
+#EXTINF:-1,[24H] Tapas e Beijos [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137115.ts
+#EXTINF:-1,[24H] Taz Mania
+http://acsa.ws:80/bF3y9W/68GSme/140757.ts
+#EXTINF:-1,[24H] The Archie Show
+http://acsa.ws:80/bF3y9W/68GSme/145947.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S01]
+http://acsa.ws:80/bF3y9W/68GSme/135456.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S02]
+http://acsa.ws:80/bF3y9W/68GSme/135457.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S03]
+http://acsa.ws:80/bF3y9W/68GSme/135458.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S04]
+http://acsa.ws:80/bF3y9W/68GSme/135459.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S05]
+http://acsa.ws:80/bF3y9W/68GSme/135460.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S06]
+http://acsa.ws:80/bF3y9W/68GSme/135461.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S07]
+http://acsa.ws:80/bF3y9W/68GSme/135462.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S08]
+http://acsa.ws:80/bF3y9W/68GSme/135463.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S09]
+http://acsa.ws:80/bF3y9W/68GSme/135464.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S10]
+http://acsa.ws:80/bF3y9W/68GSme/135465.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S11]
+http://acsa.ws:80/bF3y9W/68GSme/135466.ts
+#EXTINF:-1,[24H] The Big Bang Theory [S12]
+http://acsa.ws:80/bF3y9W/68GSme/135467.ts
+#EXTINF:-1,[24H] The O.C. Um Estranho no Paraiso [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137087.ts
+#EXTINF:-1,[24H] The O.C. Um Estranho no Paraiso [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137088.ts
+#EXTINF:-1,[24H] The O.C. Um Estranho no Paraiso [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137089.ts
+#EXTINF:-1,[24H] The O.C. Um Estranho no Paraiso [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137090.ts
+#EXTINF:-1,[24H] ThunderCats
+http://acsa.ws:80/bF3y9W/68GSme/135468.ts
+#EXTINF:-1,[24H] ThunderCats (2011)
+http://acsa.ws:80/bF3y9W/68GSme/135489.ts
+#EXTINF:-1,[24H] Tico e Teco Defensores da Lei
+http://acsa.ws:80/bF3y9W/68GSme/135490.ts
+#EXTINF:-1,[24H] Tico e Teco Vida no Parque
+http://acsa.ws:80/bF3y9W/68GSme/135493.ts
+#EXTINF:-1,[24H] Tigue E Lupa Os Detetives
+http://acsa.ws:80/bF3y9W/68GSme/149543.ts
+#EXTINF:-1,[24H] Tiny Toon Aventuras
+http://acsa.ws:80/bF3y9W/68GSme/166351.ts
+#EXTINF:-1,[24H] To de Graca [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137178.ts
+#EXTINF:-1,[24H] To de Graca [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137179.ts
+#EXTINF:-1,[24H] To de Graca [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137180.ts
+#EXTINF:-1,[24H] To de Graca [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137181.ts
+#EXTINF:-1,[24H] To de Graca [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137182.ts
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris [S01]
+http://acsa.ws:80/bF3y9W/68GSme/135469.ts
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris [S02]
+http://acsa.ws:80/bF3y9W/68GSme/135470.ts
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris [S03]
+http://acsa.ws:80/bF3y9W/68GSme/135471.ts
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris [S04]
+http://acsa.ws:80/bF3y9W/68GSme/135472.ts
+#EXTINF:-1,[24H] Tom e Jerry
+http://acsa.ws:80/bF3y9W/68GSme/136814.ts
+#EXTINF:-1,[24H] Toma La da Ca
+http://acsa.ws:80/bF3y9W/68GSme/138938.ts
+#EXTINF:-1,[24H] Top Chef Brasil [S01]
+http://acsa.ws:80/bF3y9W/68GSme/145948.ts
+#EXTINF:-1,[24H] Top Chef Brasil [S02]
+http://acsa.ws:80/bF3y9W/68GSme/145949.ts
+#EXTINF:-1,[24H] Top Chef Brasil [S03]
+http://acsa.ws:80/bF3y9W/68GSme/145950.ts
+#EXTINF:-1,[24H] Top Wing
+http://acsa.ws:80/bF3y9W/68GSme/151952.ts
+#EXTINF:-1,[24H] Topo Gigio
+http://acsa.ws:80/bF3y9W/68GSme/162378.ts
+#EXTINF:-1,[24H] Transformers War for Cybertron O Cerco
+http://acsa.ws:80/bF3y9W/68GSme/135502.ts
+#EXTINF:-1,[24H] Transformers War for Cybertron O Nascer da Terra
+http://acsa.ws:80/bF3y9W/68GSme/135503.ts
+#EXTINF:-1,[24H] Transformers War for Cybertron O Reino
+http://acsa.ws:80/bF3y9W/68GSme/135504.ts
+#EXTINF:-1,[24H] Tratamento de Choque [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137095.ts
+#EXTINF:-1,[24H] Tratamento de Choque [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137096.ts
+#EXTINF:-1,[24H] Tratamento de Choque [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137097.ts
+#EXTINF:-1,[24H] Tratamento de Choque [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137098.ts
+#EXTINF:-1,[24H] Tratamento de Choque [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137099.ts
+#EXTINF:-1,[24H] Tres Espias Demais
+http://acsa.ws:80/bF3y9W/68GSme/140758.ts
+#EXTINF:-1,[24H] Tubacao
+http://acsa.ws:80/bF3y9W/68GSme/135505.ts
+#EXTINF:-1,[24H] Turma da Monica
+http://acsa.ws:80/bF3y9W/68GSme/137612.ts
+#EXTINF:-1,[24H] TV Quack O Pato Donald e Seus Sobrinhos
+http://acsa.ws:80/bF3y9W/68GSme/137116.ts
+#EXTINF:-1,[24H] Ultimate Beastmaster Brasil [S01]
+http://acsa.ws:80/bF3y9W/68GSme/141496.ts
+#EXTINF:-1,[24H] Ultimate Beastmaster Brasil [S02]
+http://acsa.ws:80/bF3y9W/68GSme/141497.ts
+#EXTINF:-1,[24H] Ultimate Beastmaster Brasil [S03]
+http://acsa.ws:80/bF3y9W/68GSme/141498.ts
+#EXTINF:-1,[24H] Um Maluco no Pedaco [S01]
+http://acsa.ws:80/bF3y9W/68GSme/135445.ts
+#EXTINF:-1,[24H] Um Maluco no Pedaco [S02]
+http://acsa.ws:80/bF3y9W/68GSme/135446.ts
+#EXTINF:-1,[24H] Um Maluco no Pedaco [S03]
+http://acsa.ws:80/bF3y9W/68GSme/135448.ts
+#EXTINF:-1,[24H] Um Maluco no Pedaco [S04]
+http://acsa.ws:80/bF3y9W/68GSme/135449.ts
+#EXTINF:-1,[24H] Um Maluco no Pedaco [S05]
+http://acsa.ws:80/bF3y9W/68GSme/135450.ts
+#EXTINF:-1,[24H] Um Maluco no Pedaco [S06]
+http://acsa.ws:80/bF3y9W/68GSme/135451.ts
+#EXTINF:-1,[24H] Um Planeta Perfeito
+http://acsa.ws:80/bF3y9W/68GSme/138010.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S01]
+http://acsa.ws:80/bF3y9W/68GSme/155454.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S02]
+http://acsa.ws:80/bF3y9W/68GSme/155455.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S03]
+http://acsa.ws:80/bF3y9W/68GSme/155456.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S04]
+http://acsa.ws:80/bF3y9W/68GSme/155457.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S05]
+http://acsa.ws:80/bF3y9W/68GSme/155458.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S06]
+http://acsa.ws:80/bF3y9W/68GSme/155459.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S07]
+http://acsa.ws:80/bF3y9W/68GSme/155460.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S08]
+http://acsa.ws:80/bF3y9W/68GSme/155461.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S09]
+http://acsa.ws:80/bF3y9W/68GSme/155462.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S10]
+http://acsa.ws:80/bF3y9W/68GSme/155463.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S11]
+http://acsa.ws:80/bF3y9W/68GSme/155464.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S12]
+http://acsa.ws:80/bF3y9W/68GSme/155465.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S13]
+http://acsa.ws:80/bF3y9W/68GSme/155466.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S14]
+http://acsa.ws:80/bF3y9W/68GSme/155467.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S15]
+http://acsa.ws:80/bF3y9W/68GSme/155468.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S16]
+http://acsa.ws:80/bF3y9W/68GSme/155469.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S17]
+http://acsa.ws:80/bF3y9W/68GSme/155470.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S18]
+http://acsa.ws:80/bF3y9W/68GSme/155471.ts
+#EXTINF:-1,[24H] Uma Familia da Pesada [S19]
+http://acsa.ws:80/bF3y9W/68GSme/155472.ts
+#EXTINF:-1,[24H] Ursinhos Carinhosos e Seus Primos
+http://acsa.ws:80/bF3y9W/68GSme/151623.ts
+#EXTINF:-1,[24H] Vai Que Cola [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137440.ts
+#EXTINF:-1,[24H] Vai Que Cola [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137441.ts
+#EXTINF:-1,[24H] Vai Que Cola [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137442.ts
+#EXTINF:-1,[24H] Vai Que Cola [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137443.ts
+#EXTINF:-1,[24H] Vai Que Cola [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137444.ts
+#EXTINF:-1,[24H] Vai Que Cola [S06]
+http://acsa.ws:80/bF3y9W/68GSme/137445.ts
+#EXTINF:-1,[24H] Vai Que Cola [S07]
+http://acsa.ws:80/bF3y9W/68GSme/137446.ts
+#EXTINF:-1,[24H] Vai Que Cola [S08]
+http://acsa.ws:80/bF3y9W/68GSme/137447.ts
+#EXTINF:-1,[24H] Vai Que Cola [S09]
+http://acsa.ws:80/bF3y9W/68GSme/137448.ts
+#EXTINF:-1,[24H] Vampirina
+http://acsa.ws:80/bF3y9W/68GSme/138941.ts
+#EXTINF:-1,[24H] Velozes e Furiosos Espioes do Asfalto
+http://acsa.ws:80/bF3y9W/68GSme/138942.ts
+#EXTINF:-1,[24H] X Men Evolution
+http://acsa.ws:80/bF3y9W/68GSme/138943.ts
+#EXTINF:-1,[24H] X Men Serie Animada
+http://acsa.ws:80/bF3y9W/68GSme/137173.ts
+#EXTINF:-1,[24H] Xena A Princesa Guerreira [S01]
+http://acsa.ws:80/bF3y9W/68GSme/137117.ts
+#EXTINF:-1,[24H] Xena A Princesa Guerreira [S02]
+http://acsa.ws:80/bF3y9W/68GSme/137118.ts
+#EXTINF:-1,[24H] Xena A Princesa Guerreira [S03]
+http://acsa.ws:80/bF3y9W/68GSme/137119.ts
+#EXTINF:-1,[24H] Xena A Princesa Guerreira [S04]
+http://acsa.ws:80/bF3y9W/68GSme/137120.ts
+#EXTINF:-1,[24H] Xena A Princesa Guerreira [S05]
+http://acsa.ws:80/bF3y9W/68GSme/137121.ts
+#EXTINF:-1,[24H] Xena A Princesa Guerreira [S06]
+http://acsa.ws:80/bF3y9W/68GSme/137122.ts
+#EXTINF:-1,[24H] Yabba Dabba Dinossauros
+http://acsa.ws:80/bF3y9W/68GSme/139305.ts
+#EXTINF:-1,[24H] Yu Yu Hakusho
+http://acsa.ws:80/bF3y9W/68GSme/140759.ts
+#EXTINF:-1,[24H] Yu-Gi-Oh - Duel Monsters [S01]
+http://acsa.ws:80/bF3y9W/68GSme/138012.ts
+#EXTINF:-1,[24H] Yu-Gi-Oh - Duel Monsters [S02]
+http://acsa.ws:80/bF3y9W/68GSme/138013.ts
+#EXTINF:-1,[24H] Yu-Gi-Oh - Duel Monsters [S03]
+http://acsa.ws:80/bF3y9W/68GSme/138014.ts
+#EXTINF:-1,[24H] Yu-Gi-Oh - Duel Monsters [S04]
+http://acsa.ws:80/bF3y9W/68GSme/138015.ts
+#EXTINF:-1,[24H] Yu-Gi-Oh - Duel Monsters [S05]
+http://acsa.ws:80/bF3y9W/68GSme/138016.ts
+#EXTINF:-1,[24H] Zorro [S01]
+http://acsa.ws:80/bF3y9W/68GSme/136818.ts
+#EXTINF:-1,[24H] Zorro [S02]
+http://acsa.ws:80/bF3y9W/68GSme/136819.ts
+#EXTINF:-1,[24H] [Canal YouTube] 4 Amigos Stand Up Comedy
+http://acsa.ws:80/bF3y9W/68GSme/138721.ts
+#EXTINF:-1,[24H] [Canal YouTube] 5 Alguma Coisa
+http://acsa.ws:80/bF3y9W/68GSme/138729.ts
+#EXTINF:-1,[24H] [Canal YouTube] Master Trash e Panicos Chef
+http://acsa.ws:80/bF3y9W/68GSme/138790.ts
+#EXTINF:-1,[24H] [Filmes] Homem Aranha
+http://acsa.ws:80/bF3y9W/68GSme/135556.ts
+#EXTINF:-1,[24H] [Filmes] Minha Mae E Uma Peca
+http://acsa.ws:80/bF3y9W/68GSme/141501.ts
+#EXTINF:-1,[24H] [Filmes] Transformers
+http://acsa.ws:80/bF3y9W/68GSme/135555.ts
+#EXTINF:-1,[24H] [Filmes] Velozes e Furiosos
+http://acsa.ws:80/bF3y9W/68GSme/137618.ts
+#EXTINF:-1,[24H] [Musicas] Top 100 Catolicas 2021
+http://acsa.ws:80/bF3y9W/68GSme/140541.ts
+#EXTINF:-1,[24H] [Musicas] Top 100 Gospel 2021
+http://acsa.ws:80/bF3y9W/68GSme/140494.ts
+#EXTINF:-1,[24H] [Musicas] Top 100 MPB 2021
+http://acsa.ws:80/bF3y9W/68GSme/140542.ts
+#EXTINF:-1,[24H] [Musicas] Top 100 Sertanejo 2021
+http://acsa.ws:80/bF3y9W/68GSme/140495.ts
+#EXTINF:-1,[24H] [Musicas] Top 100 Spotify 2021
+http://acsa.ws:80/bF3y9W/68GSme/140496.ts
+#EXTINF:-1,Furacao Live FHD
+http://acsa.ws:80/bF3y9W/68GSme/192079.ts
+#EXTINF:-1,Furacao Live HD
+http://acsa.ws:80/bF3y9W/68GSme/192080.ts
+#EXTINF:-1,Furacao Live SD
+http://acsa.ws:80/bF3y9W/68GSme/192081.ts
+#EXTINF:-1,Kingpyn Boxing - Luta Whindersson Nunes FHD
+http://acsa.ws:80/bF3y9W/68GSme/192619.ts
+#EXTINF:-1,Kingpyn Boxing - Luta Whindersson Nunes HD
+http://acsa.ws:80/bF3y9W/68GSme/192620.ts
+#EXTINF:-1,Kingpyn Boxing - Luta Whindersson Nunes SD
+http://acsa.ws:80/bF3y9W/68GSme/192621.ts
+#EXTINF:-1,Live TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/192625.ts
+#EXTINF:-1,Live TV HD
+http://acsa.ws:80/bF3y9W/68GSme/192626.ts
+#EXTINF:-1,Live TV SD
+http://acsa.ws:80/bF3y9W/68GSme/192627.ts
+#EXTINF:-1,Live TV 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/192628.ts
+#EXTINF:-1,Live TV FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/192629.ts
+#EXTINF:-1,Copa do Brasil 4 FHD
+http://acsa.ws:80/bF3y9W/68GSme/193253.ts
+#EXTINF:-1,Copa do Brasil 4 HD
+http://acsa.ws:80/bF3y9W/68GSme/193254.ts
+#EXTINF:-1,Copa do Brasil 4 SD
+http://acsa.ws:80/bF3y9W/68GSme/193255.ts
+#EXTINF:-1,A Grande Conquista 1 FHD
+http://acsa.ws:80/bF3y9W/68GSme/194525.ts
+#EXTINF:-1,A Grande Conquista 2 FHD
+http://acsa.ws:80/bF3y9W/68GSme/194526.ts
+#EXTINF:-1,A Grande Conquista 3 FHD
+http://acsa.ws:80/bF3y9W/68GSme/194527.ts
+#EXTINF:-1,A Grande Conquista 4 FHD
+http://acsa.ws:80/bF3y9W/68GSme/194528.ts
+#EXTINF:-1,Markket FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/164027.ts
+#EXTINF:-1,Playboy 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/103483.ts
+#EXTINF:-1,[+18] Playboy TV FHD
+http://acsa.ws:80/bF3y9W/68GSme/72221.ts
+#EXTINF:-1,[+18] Playboy TV FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/72224.ts
+#EXTINF:-1,[+18] Playboy TV HD
+http://acsa.ws:80/bF3y9W/68GSme/72222.ts
+#EXTINF:-1,[+18] Playboy TV SD
+http://acsa.ws:80/bF3y9W/68GSme/72223.ts
+#EXTINF:-1,[+18] Sextreme SD
+http://acsa.ws:80/bF3y9W/68GSme/91430.ts
+#EXTINF:-1,[+18] Sexy Hot 4K FHDR
+http://acsa.ws:80/bF3y9W/68GSme/180157.ts
+#EXTINF:-1,[+18] Sexy Hot FHD
+http://acsa.ws:80/bF3y9W/68GSme/180153.ts
+#EXTINF:-1,[+18] Sexy Hot FHD [H265]
+http://acsa.ws:80/bF3y9W/68GSme/180156.ts
+#EXTINF:-1,[+18] Sexy Hot HD
+http://acsa.ws:80/bF3y9W/68GSme/180154.ts
+#EXTINF:-1,[+18] Sexy Hot SD
+http://acsa.ws:80/bF3y9W/68GSme/72310.ts
+#EXTINF:-1,[+18] Sexy Hot SD
+http://acsa.ws:80/bF3y9W/68GSme/180155.ts
+#EXTINF:-1,[+18] Venus SD
+http://acsa.ws:80/bF3y9W/68GSme/91429.ts
+#EXTINF:-1,[24H] [+18] A Casa das Brasileirinhas [Pack 01]
+http://acsa.ws:80/bF3y9W/68GSme/140487.ts
+#EXTINF:-1,[24H] [+18] A Casa das Brasileirinhas [Pack 02]
+http://acsa.ws:80/bF3y9W/68GSme/140488.ts
+#EXTINF:-1,[24H] [+18] A Casa das Brasileirinhas [Pack 03]
+http://acsa.ws:80/bF3y9W/68GSme/140489.ts
+#EXTINF:-1,[24H] [+18] A Casa das Brasileirinhas [Pack 04]
+http://acsa.ws:80/bF3y9W/68GSme/140490.ts
+#EXTINF:-1,[24H] [+18] A Casa das Brasileirinhas [Pack 05]
+http://acsa.ws:80/bF3y9W/68GSme/140491.ts
+#EXTINF:-1,[24H] [+18] All Anal [Pack 01]
+http://acsa.ws:80/bF3y9W/68GSme/166035.ts
+#EXTINF:-1,[24H] [+18] All Anal [Pack 02]
+http://acsa.ws:80/bF3y9W/68GSme/166036.ts
+#EXTINF:-1,[24H] [+18] All Anal [Pack 03]
+http://acsa.ws:80/bF3y9W/68GSme/166037.ts
+#EXTINF:-1,[24H] [+18] All Anal [Pack 04]
+http://acsa.ws:80/bF3y9W/68GSme/166038.ts
+#EXTINF:-1,[24H] [+18] All Anal [Pack 05]
+http://acsa.ws:80/bF3y9W/68GSme/166039.ts
+#EXTINF:-1,[24H] [+18] All Anal [Pack 06]
+http://acsa.ws:80/bF3y9W/68GSme/166040.ts
+#EXTINF:-1,[24H] [+18] All Anal [Pack 07]
+http://acsa.ws:80/bF3y9W/68GSme/166041.ts
+#EXTINF:-1,[24H] [+18] Anal Only
+http://acsa.ws:80/bF3y9W/68GSme/149544.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 01]
+http://acsa.ws:80/bF3y9W/68GSme/140536.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 02]
+http://acsa.ws:80/bF3y9W/68GSme/140537.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 03]
+http://acsa.ws:80/bF3y9W/68GSme/140538.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 04]
+http://acsa.ws:80/bF3y9W/68GSme/140539.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 05]
+http://acsa.ws:80/bF3y9W/68GSme/140540.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 06]
+http://acsa.ws:80/bF3y9W/68GSme/149545.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 07]
+http://acsa.ws:80/bF3y9W/68GSme/150115.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 08]
+http://acsa.ws:80/bF3y9W/68GSme/150116.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 09]
+http://acsa.ws:80/bF3y9W/68GSme/150492.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 10]
+http://acsa.ws:80/bF3y9W/68GSme/150493.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 11]
+http://acsa.ws:80/bF3y9W/68GSme/155424.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 12]
+http://acsa.ws:80/bF3y9W/68GSme/155425.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 13]
+http://acsa.ws:80/bF3y9W/68GSme/155426.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 14]
+http://acsa.ws:80/bF3y9W/68GSme/155427.ts
+#EXTINF:-1,[24H] [+18] Filmes Adultos [Pack 15]
+http://acsa.ws:80/bF3y9W/68GSme/155428.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 01]
+http://acsa.ws:80/bF3y9W/68GSme/145382.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 02]
+http://acsa.ws:80/bF3y9W/68GSme/145383.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 03]
+http://acsa.ws:80/bF3y9W/68GSme/149546.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 04]
+http://acsa.ws:80/bF3y9W/68GSme/149547.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 05]
+http://acsa.ws:80/bF3y9W/68GSme/150117.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 06]
+http://acsa.ws:80/bF3y9W/68GSme/155441.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 07]
+http://acsa.ws:80/bF3y9W/68GSme/155442.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 08]
+http://acsa.ws:80/bF3y9W/68GSme/155443.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 09]
+http://acsa.ws:80/bF3y9W/68GSme/155444.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 10]
+http://acsa.ws:80/bF3y9W/68GSme/155445.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 11]
+http://acsa.ws:80/bF3y9W/68GSme/155446.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 12]
+http://acsa.ws:80/bF3y9W/68GSme/155447.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 13]
+http://acsa.ws:80/bF3y9W/68GSme/155448.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 15]
+http://acsa.ws:80/bF3y9W/68GSme/155449.ts
+#EXTINF:-1,[24H] [+18] Filmes Trans [Pack 16]
+http://acsa.ws:80/bF3y9W/68GSme/155450.ts
+#EXTINF:-1,[24H] [+18] Fuck Studies [Pack 01]
+http://acsa.ws:80/bF3y9W/68GSme/169085.ts
+#EXTINF:-1,[24H] [+18] Fuck Studies [Pack 02]
+http://acsa.ws:80/bF3y9W/68GSme/169086.ts
+#EXTINF:-1,[24H] [+18] Fuck Studies [Pack 03]
+http://acsa.ws:80/bF3y9W/68GSme/169087.ts
+#EXTINF:-1,[24H] [+18] Homossexual Masculino [Pack 01]
+http://acsa.ws:80/bF3y9W/68GSme/140492.ts
+#EXTINF:-1,[24H] [+18] Homossexual Masculino [Pack 02]
+http://acsa.ws:80/bF3y9W/68GSme/140493.ts
+#EXTINF:-1,[24H] [+18] Interesseiras
+http://acsa.ws:80/bF3y9W/68GSme/149606.ts
+#EXTINF:-1,[24H] [+18] Lets Try Anal [Pack 01]
+http://acsa.ws:80/bF3y9W/68GSme/140760.ts
+#EXTINF:-1,[24H] [+18] Lets Try Anal [Pack 02]
+http://acsa.ws:80/bF3y9W/68GSme/141499.ts
+#EXTINF:-1,[24H] [+18] Lets Try Anal [Pack 03]
+http://acsa.ws:80/bF3y9W/68GSme/141500.ts
+#EXTINF:-1,[24H] [+18] MissaX [Pack 01]
+http://acsa.ws:80/bF3y9W/68GSme/169088.ts
+#EXTINF:-1,[24H] [+18] MissaX [Pack 02]
+http://acsa.ws:80/bF3y9W/68GSme/169089.ts
+#EXTINF:-1,[24H] [+18] MissaX [Pack 03]
+http://acsa.ws:80/bF3y9W/68GSme/169090.ts
+#EXTINF:-1,[24H] [+18] MissaX [Pack 04]
+http://acsa.ws:80/bF3y9W/68GSme/169091.ts
+#EXTINF:-1,[24H] [+18] MissaX [Pack 05]
+http://acsa.ws:80/bF3y9W/68GSme/169092.ts
+#EXTINF:-1,[24H] [+18] MissaX [Pack 06]
+http://acsa.ws:80/bF3y9W/68GSme/169093.ts
+#EXTINF:-1,[24H] [+18] MissaX [Pack 07]
+http://acsa.ws:80/bF3y9W/68GSme/169094.ts
+#EXTINF:-1,[24H] [+18] MissaX [Pack 08]
+http://acsa.ws:80/bF3y9W/68GSme/169095.ts
+#EXTINF:-1,[24H] [+18] MissaX [Pack 09]
+http://acsa.ws:80/bF3y9W/68GSme/169096.ts
+#EXTINF:-1,[24H] [+18] Pornhub Yinyleon
+http://acsa.ws:80/bF3y9W/68GSme/149548.ts
+#EXTINF:-1,[24H] [+18] Teste de Fudelidade [Pack 01]
+http://acsa.ws:80/bF3y9W/68GSme/140761.ts
+#EXTINF:-1,[24H] [+18] Teste de Fudelidade [Pack 02]
+http://acsa.ws:80/bF3y9W/68GSme/140762.ts
+#EXTINF:-1,[24H] [+18] Teste de Fudelidade [Pack 03]
+http://acsa.ws:80/bF3y9W/68GSme/145384.ts
+#EXTINF:-1,[24H] [+18] Tweetney [Pack 01]
+http://acsa.ws:80/bF3y9W/68GSme/169097.ts
